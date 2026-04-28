@@ -1,6 +1,6 @@
 {
-  "version": "5.14.1",
-  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.14.1/InfoSistemas-Setup-5.14.1.exe",
-  "notes": "Atualizacao automatica corrigida: instalador detecta upgrade e roda em modo silencioso preservando Firebird e dados existentes",
+  "version": "5.15.1",
+  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.15.1/InfoSistemas-Setup-5.15.1.exe",
+  "notes": "Atualizacao para versao 5.15.1",
   "mandatory": true
 }
