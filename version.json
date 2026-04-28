@@ -1,6 +1,7 @@
 {
-  "version": "5.15.2",
-  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.15.2/InfoSistemas-Setup-5.15.2.exe",
-  "notes": "Atualizacao para versao 5.15.2",
+  "version": "5.15.3",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.15.3/InfoSistemas-Update-5.15.3.zip",
+  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.15.3/InfoSistemas-Setup-5.15.3.exe",
+  "notes": "Atualizacao para versao 5.15.3",
   "mandatory": true
 }
