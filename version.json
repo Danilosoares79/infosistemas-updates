@@ -1,6 +1,6 @@
 {
-  "version": "5.14",
-  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.14/InfoSistemas-Setup-5.14.exe",
-  "notes": "Instalador inteligente: detecta atualizacao e pula reinstalacao do Firebird, preservando dados existentes",
+  "version": "5.14.1",
+  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.14.1/InfoSistemas-Setup-5.14.1.exe",
+  "notes": "Atualizacao automatica corrigida: instalador detecta upgrade e roda em modo silencioso preservando Firebird e dados existentes",
   "mandatory": true
 }
