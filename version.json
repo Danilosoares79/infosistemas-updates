@@ -1,6 +1,6 @@
 {
-     "version": "5.11",
-     "url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v5.11/InfoSistemas-Setup-5.11.exe",
-     "notes": "Correções de bugs e melhorias de desempenho",
-     "mandatory": false
-   }
+  "version": "5.13",
+  "url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.13/InfoSistemas-Setup-5.13.exe",
+  "notes": "Correcao critica do sistema de permissoes: bug do Operador de Caixa nao persistir, novo perfil Usuario Padrao, coluna Acessar na grade, UPSERT no SalvarLote, AcessoRetaguarda liberado por padrao, separadores orfaos limpos no menu",
+  "mandatory": true
+}
