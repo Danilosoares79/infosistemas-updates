@@ -1,6 +1,6 @@
 {
-  "version": "5.16.3",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.3/InfoSistemas-Update-5.16.3.zip",
-  "notes": "Atualizacao para versao 5.16.3",
+  "version": "5.16.4",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.4/InfoSistemas-Update-5.16.4.zip",
+  "notes": "PIN do garcom solicitado apenas uma vez ao abrir a mesa. Removido pedido duplicado de PIN ao confirmar pedido. Item Atualizacao do Sistema removido do menu da Retaguarda (atualizador agora eh aplicativo separado em C:\InfoSistemas\Atualizador\).",
   "mandatory": true
 }
