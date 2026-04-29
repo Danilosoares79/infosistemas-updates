@@ -1,6 +1,6 @@
 {
-  "version": "5.16.5",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.5/InfoSistemas-Update-5.16.5.zip",
-  "notes": "Mesa abre direto na tela de lancamento (sem tela intermediaria). Relatorio mantem tela de parametros aberta para nova consulta. Ficha tecnica filtra somente insumos. Cadastro de usuario mantem senha ao editar e mostra confirmacao ao salvar.",
-  "mandatory": false
+  "version": "5.15.9",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.15.9/InfoSistemas-Update-5.15.9.zip",
+  "notes": "Atualizacao para versao 5.15.9",
+  "mandatory": true
 }
