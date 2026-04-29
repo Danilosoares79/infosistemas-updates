@@ -1,6 +1,6 @@
 {
   "version": "5.16.6",
   "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.6/InfoSistemas-Update-5.16.6.zip",
-  "notes": "AJUSTE E MELHORIAS",
-  "mandatory": true
+  "notes": "Modulo Financeiro v5.16.6 - 17 melhorias e correcoes",
+  "mandatory": false
 }
