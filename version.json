@@ -1,6 +1,6 @@
 {
-  "version": "5.16.6",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.6/InfoSistemas-Update-5.16.6.zip",
-  "notes": "Modulo Financeiro v5.16.6 - 17 melhorias e correcoes",
+  "version": "5.16.7",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.7/InfoSistemas-Update-5.16.7.zip",
+  "notes": "Correcao do bloqueio de mesa apos Pedir a Conta. Habilita Fechamento as Cegas tambem na Retaguarda. Modulos PreVenda e MapaDeMesas agora sao publicados junto com a atualizacao.",
   "mandatory": false
 }
