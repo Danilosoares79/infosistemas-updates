@@ -1,6 +1,6 @@
 {
-  "version": "5.17.1",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.1/InfoSistemas-Update-5.17.1.zip",
-  "notes": "v5.17.1: (1) Controle de Estoque: itens sem ficha tecnica agora dao baixa do proprio produto; estoque negativo permitido (compensa naturalmente na proxima entrada); vendas geram movimentacao tipo SAIDA_VENDA visivel em Movimentacao de Estoque. (2) Layout 'Conta a Pagar' (Novo): card de Parcelas movido para o lado direito do formulario com Anchor para crescer com a janela (antes ficava cortado pelo painel de botoes). (3) Bug corrigido em Pedido de Mesa: ao acionar 'Agrupar', o sistema lancava ArgumentException na coluna Cancelado; agora a coluna eh padronizada como CANCELADO em caixa alta e o handler de estilizacao ficou defensivo.",
+  "version": "5.17.2",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.2/InfoSistemas-Update-5.17.2.zip",
+  "notes": "v5.17.2: (1) Bug corrigido em Pedido de Mesa: ao acionar 'Agrupar', o sistema lancava ArgumentException 'coluna Cancelado nao encontrada'. Resolvido em ambas as copias (FrenteDeCaixa + MapaDeMesas) padronizando o nome da coluna como CANCELADO em caixa alta e tornando o handler de estilizacao defensivo. (2) Layout 'Conta a Pagar' (Novo): card de Parcelas movido para o lado direito do formulario com Anchor para crescer com a janela (antes ficava cortado pelo painel de botoes ao maximizar). (3) Reforco do Controle de Estoque herdado da v5.17.1: vendas geram movimentacao tipo SAIDA_VENDA visivel em Movimentacao de Estoque; estoque negativo permitido.",
   "mandatory": false
 }
