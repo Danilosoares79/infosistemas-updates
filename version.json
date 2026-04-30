@@ -1,6 +1,6 @@
 {
-  "version": "5.16.7",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.7/InfoSistemas-Update-5.16.7.zip",
-  "notes": "Correcao do bloqueio de mesa apos Pedir a Conta. Habilita Fechamento as Cegas tambem na Retaguarda. Modulos PreVenda e MapaDeMesas agora sao publicados junto com a atualizacao.",
-  "mandatory": false
+  "version": "5.16.8",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.8/InfoSistemas-Update-5.16.8.zip",
+  "notes": "HOTFIX: Configuracoes nao salvavam em alguns clientes. Corrigido GarantirColunas que silenciava erros reais. Agora exibe mensagem detalhada ao usuario e gera log em C:\\InfoSistemas\\logs.",
+  "mandatory": true
 }
