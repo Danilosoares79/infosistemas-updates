@@ -1,6 +1,6 @@
 {
-  "version": "5.16.8",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.8/InfoSistemas-Update-5.16.8.zip",
-  "notes": "HOTFIX: Configuracoes nao salvavam em alguns clientes. Corrigido GarantirColunas que silenciava erros reais. Agora exibe mensagem detalhada ao usuario e gera log em C:\\InfoSistemas\\logs.",
+  "version": "5.16.9",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.9/InfoSistemas-Update-5.16.9.zip",
+  "notes": "Adicionado log de auditoria completo no salvar de Configuracoes (config_audit.log). Verifica leitura apos save para detectar discrepancias. Mostra alerta se valores no banco diferirem dos marcados na tela.",
   "mandatory": true
 }
