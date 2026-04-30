@@ -1,6 +1,6 @@
 {
-  "version": "5.17.0",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.0/InfoSistemas-Update-5.17.0.zip",
-  "notes": "Tela de login agora exibe o nome do modulo (Retaguarda, Frente de Caixa, Pre-Venda ou Mapa de Mesas) na frente de Bem-vindo. Pre-Venda e Mapa de Mesas agora usam o mesmo icone InfoSistemas da Retaguarda e Frente de Caixa em todas as janelas.",
+  "version": "5.17.1",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.1/InfoSistemas-Update-5.17.1.zip",
+  "notes": "Controle de estoque: itens sem ficha tecnica agora dao baixa do proprio produto. Estoque negativo permitido (abatido naturalmente quando entrar reposicao). Movimentacoes de venda agora aparecem na tela Movimentacao de Estoque (TIPO=SAIDA_VENDA).",
   "mandatory": false
 }
