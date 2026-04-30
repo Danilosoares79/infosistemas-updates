@@ -1,6 +1,6 @@
 {
-  "version": "5.17.3",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.3/InfoSistemas-Update-5.17.3.zip",
-  "notes": "v5.17.3: Modulo MapaDeMesas (standalone) agora funciona igual ao mapa de mesas do FrenteDeCaixa - clicar/digitar uma mesa abre DIRETO o FrmPedidoMesa para lancamento de produtos (FrmOpcoesMesa nao eh mais usado). Os botoes do rodape do FrmPedidoMesa (Transferir Mesas, Pagamento/F6) ficam protegidos por permissao: aparecem somente para usuarios com PERMISSAO.BOTAO_ACESSAR='S' nas telas correspondentes (TransferirItens=116, PagamentoMesa=121). Quando a flag BloquearMesaAoPedirConta esta ativa e a mesa pediu a conta, o sistema vai direto para FrmPagamentoMesa (com check de permissao). Adicionado bloqueio anti-duplo-clique na abertura da mesa (alinhado ao FrenteDeCaixa).",
+  "version": "5.17.4",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.4/InfoSistemas-Update-5.17.4.zip",
+  "notes": "v5.17.4: Reformulacao do Menu PDV (FrmMenuPDV) na FrenteDeCaixa. Adicionados 2 novos botoes: [P] Pediu a Conta (lista mesas Consumindo, marca como PediuConta e imprime espelho de conta automaticamente) e [R] Reabrir Conta (lista mesas que ja pediram a conta e volta para Consumindo, resetando flag CONFERENCIA_IMPRESSA). Layout dos botoes reduzido de 50px para 38px de altura (gap 44px, fonte 9.5pt) para caber todos os botoes em uma coluna sem cortar. Subtitulos removidos (nao apareciam visualmente). Atalhos de teclado P e R adicionados. Permissoes respeitadas: Telas.PedirConta (115) para Pediu Conta, Telas.ReabrirMesa (114) para Reabrir, Telas.ImprimirConferencia (113) para a impressao automatica da conta. Operadores de Caixa ja tem essas 3 permissoes liberadas por padrao.",
   "mandatory": false
 }
