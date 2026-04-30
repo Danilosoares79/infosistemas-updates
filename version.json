@@ -1,6 +1,6 @@
 {
-  "version": "5.16.9",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.16.9/InfoSistemas-Update-5.16.9.zip",
-  "notes": "Adicionado log de auditoria completo no salvar de Configuracoes (config_audit.log). Verifica leitura apos save para detectar discrepancias. Mostra alerta se valores no banco diferirem dos marcados na tela.",
-  "mandatory": true
+  "version": "5.17.0",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.0/InfoSistemas-Update-5.17.0.zip",
+  "notes": "Tela de login agora exibe o nome do modulo (Retaguarda, Frente de Caixa, Pre-Venda ou Mapa de Mesas) na frente de Bem-vindo. Pre-Venda e Mapa de Mesas agora usam o mesmo icone InfoSistemas da Retaguarda e Frente de Caixa em todas as janelas.",
+  "mandatory": false
 }
