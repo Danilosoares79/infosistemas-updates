@@ -1,6 +1,6 @@
 {
-  "version": "5.17.6",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.17.6/InfoSistemas-Update-5.17.6.zip",
-  "notes": "v5.17.6 (release acumulado - inclui tudo da v5.17.5 + fix de layout). ^",
+  "version": "5.18.0",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.18.0/InfoSistemas-Update-5.18.0.zip",
+  "notes": "v5.18.0 (release acumulado - inclui tudo da v5.17.6 + Menu Servicos). ^",
   "mandatory": true
 }
