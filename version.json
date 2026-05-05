@@ -1,6 +1,6 @@
 {
-  "version": "5.23.0",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.23.0/InfoSistemas-Update-5.23.0.zip",
+  "version": "5.24.1",
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.24.1/InfoSistemas-Update-5.24.1.zip",
   "notes": "",
-  "mandatory": false
+  "mandatory": true
 }
