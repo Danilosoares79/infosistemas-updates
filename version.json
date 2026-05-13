@@ -1,6 +1,1 @@
-{
-  "version": "5.34.7",
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.34.7/InfoSistemas-Update-5.34.7.zip",
-  "notes": "v5.34.7 - HOTFIX: Correção de compilação do botão Fechar Pendura\n\n🔧 CORRIGIDO: Erro de compilação\n   - Adicionado using Microsoft.Extensions.DependencyInjection\n   - Método GetRequiredService agora funciona corretamente\n\n✅ RECURSOS CONFIRMADOS (da v5.34.6):\n   - Correção FK_PESSOA → FK_CLIENTE (tabela PEDIDO_MESA)\n   - Correção FK_PESSOA → FKCLIENTE (tabela CONTAS_RECEBER)\n   - Botão 'Fechar Pendura' na tela de Comanda/Mesa\n   - Acesso direto do painel lateral (ao lado de Cliente)\n\n⚠️ IMPORTANTE:\n   - Esta atualização corrige o erro de compilação da v5.34.6\n   - O botão 'Fechar Pendura' agora aparece corretamente!\n\n📦 INSTALAÇÃO:\n   1. Baixe InfoSistemas-Update-5.34.7.zip\n   2. Extraia na pasta C:\\AtualizadorInfo\\Updates\\\n   3. Execute Atualizador.exe ou reinicie o sistema\n   4. REINICIE O WINDOWS após a atualização\n\nVersão anterior: v5.34.6\nData: 2026-05-11",
-  "mandatory": true
-}
+ew0KICAidmVyc2lvbiI6ICI1LjM0LjgiLA0KICAibWFuZGF0b3J5IjogdHJ1ZSwNCiAgImRvd25sb2FkVXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9EYW5pbG9zb2FyZXM3OS9pbmZvc2lzdGVtYXMtdXBkYXRlcy9yZWxlYXNlcy9kb3dubG9hZC92NS4zNC44L0luZm9TaXN0ZW1hcy1VcGRhdGUtNS4zNC44LnppcCIsDQogICJub3RlcyI6ICJQRU5EVVJBIg0KfQ==
