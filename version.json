@@ -1,1 +1,6 @@
-ew0KICAidmVyc2lvbiI6ICI2LjAiLA0KICAibWFuZGF0b3J5IjogdHJ1ZSwNCiAgImRvd25sb2FkVXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9EYW5pbG9zb2FyZXM3OS9pbmZvc2lzdGVtYXMtdXBkYXRlcy9yZWxlYXNlcy9kb3dubG9hZC92Ni4wL0luZm9TaXN0ZW1hcy1VcGRhdGUtNi4wLnppcCIsDQogICJub3RlcyI6ICJBanN1dGVzIg0KfQ==
+{
+  "version": "6.0",
+  "mandatory": true,
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.0/InfoSistemas-Update-6.0.zip",
+  "notes": "v6.0 - InfoSistemas PDV"
+}
