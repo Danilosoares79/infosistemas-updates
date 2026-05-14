@@ -1,6 +1,6 @@
 {
-  "version": "5.35.1",
+  "version": "4.0",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.35.1/InfoSistemas-Update-5.35.1.zip",
-  "notes": "Ajustes erros"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v4.0/InfoSistemas-Update-4.0.zip",
+  "notes": "ERros Financeiro"
 }
