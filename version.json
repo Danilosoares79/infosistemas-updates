@@ -1,6 +1,6 @@
 {
-  "version": "5.34.9",
+  "version": "5.35",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.34.9/InfoSistemas-Update-5.34.9.zip",
-  "notes": "v5.34.9 - Correcao VL_RESTANTE, Cadastro Cliente Pendura e Race Condition"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v5.35/InfoSistemas-Update-5.35.zip",
+  "notes": "ajuste financeiro"
 }
