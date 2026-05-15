@@ -1,6 +1,6 @@
 {
-  "version": "%TIME%",
+  "version": "6.3",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v%TIME%/InfoSistemas-Update-%TIME%.zip",
-  "notes": "v%TIME% - InfoSistemas PDV"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.3/InfoSistemas-Update-6.3.zip",
+  "notes": "v6.3 - InfoSistemas PDV"
 }
