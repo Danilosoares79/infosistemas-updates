@@ -1,6 +1,6 @@
 {
-  "version": "6.6",
+  "version": "6.7",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.6/InfoSistemas-Update-6.6.zip",
-  "notes": "CORREÇÕES DO FINANCIERO ENTRE OUTROS"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.7/InfoSistemas-Update-6.7.zip",
+  "notes": "CORREÇÃO DA api"
 }
