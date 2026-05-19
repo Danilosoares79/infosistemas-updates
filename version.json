@@ -1,6 +1,6 @@
 {
-  "version": "6.8",
+  "version": "6.9",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.8/InfoSistemas-Update-6.8.zip",
-  "notes": "Correção API"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.9/InfoSistemas-Update-6.9.zip",
+  "notes": "AJsutes Gerais da APi e lançamento de Garçom multiplo"
 }
