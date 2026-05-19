@@ -1,6 +1,6 @@
 {
-  "version": "6.9",
+  "version": "7.0",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.9/InfoSistemas-Update-6.9.zip",
-  "notes": "Bugs no licenciamento e lançamento de Garçom"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.0/InfoSistemas-Update-7.0.zip",
+  "notes": "AJsutes Gerais da APi e lançamento de Garçom multiplo"
 }
