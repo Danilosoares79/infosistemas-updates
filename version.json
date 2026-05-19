@@ -1,6 +1,6 @@
 {
-  "version": "6.5",
+  "version": "6.6",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.5/InfoSistemas-Update-6.5.zip",
-  "notes": "v6.5 - InfoSistemas PDV"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.6/InfoSistemas-Update-6.6.zip",
+  "notes": "CORREÇÕES DO FINANCIERO ENTRE OUTROS"
 }
