@@ -1,6 +1,6 @@
 {
-  "version": "6.7",
+  "version": "6.8",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.7/InfoSistemas-Update-6.7.zip",
-  "notes": "Correção API testes Final"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v6.8/InfoSistemas-Update-6.8.zip",
+  "notes": "Correção API"
 }
