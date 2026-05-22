@@ -1,6 +1,6 @@
 {
-  "version": "7.2",
+  "version": "7.3",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.2/InfoSistemas-Update-7.2.zip",
-  "notes": "Ajuste Geral Restaurando BPK"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.3/InfoSistemas-Update-7.3.zip",
+  "notes": "Forma de Licenciamento"
 }
