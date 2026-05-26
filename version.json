@@ -1,6 +1,6 @@
 {
-  "version": "7.5.9",
+  "version": "7.6",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.5.9/InfoSistemas-Update-7.5.9.zip",
-  "notes": "Correções IBPT"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6/InfoSistemas-Update-7.6.zip",
+  "notes": "erro Nfce"
 }
