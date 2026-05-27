@@ -1,6 +1,6 @@
 {
-  "version": "7.6.12",
+  "version": "7.6.13",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.12/InfoSistemas-Update-7.6.12.zip",
-  "notes": "\"v7.6.12-QR-Code-Base64+Edge-Headless-Print+Viewer-Fallback\""
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.13/InfoSistemas-Update-7.6.13.zip",
+  "notes": "\"v7.6.13-Mesmas-Correcoes-v7.6.12-Validadas-(QR-Code+AutoPrint+Edge-Headless)\""
 }
