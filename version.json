@@ -1,6 +1,6 @@
 {
-  "version": "7.5.6",
+  "version": "7.6.7",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.5.6/InfoSistemas-Update-7.5.6.zip",
-  "notes": "v7.5.6 - Importacao Excel + Correcoes Financeiro"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.7/InfoSistemas-Update-7.6.7.zip",
+  "notes": "v7.6.7-NFCe-SEFAZ-real-SOAP+cripto-9.0.16+warnings-zerados"
 }
