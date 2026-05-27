@@ -1,6 +1,6 @@
 {
-  "version": "7.6.15",
+  "version": "7.6.16",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.15/InfoSistemas-Update-7.6.15.zip",
-  "notes": "\"v7.6.15-DANFE-PrintDocument-GDI-Direto-mesma-tecnica-do-Recibo\""
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.16/InfoSistemas-Update-7.6.16.zip",
+  "notes": "\"v7.6.16-FichaTec-PP-so-C+Producao-PP-Inteiro+RDM-validacoes\""
 }
