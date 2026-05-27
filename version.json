@@ -1,6 +1,6 @@
 {
-  "version": "7.6.13",
+  "version": "7.6.14",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.13/InfoSistemas-Update-7.6.13.zip",
-  "notes": "\"v7.6.13-Mesmas-Correcoes-v7.6.12-Validadas-(QR-Code+AutoPrint+Edge-Headless)\""
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.14/InfoSistemas-Update-7.6.14.zip",
+  "notes": "\"v7.6.14-Multi-Print-Method-rundll32-Edge-ShellPrint-Fallback-com-Log\""
 }
