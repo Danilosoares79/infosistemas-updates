@@ -1,6 +1,6 @@
 {
-  "version": "7.6.11",
+  "version": "7.6.12",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.11/InfoSistemas-Update-7.6.11.zip",
-  "notes": "\"v7.6.11-Fix-NFCe-CPF-Prompt+SEFAZ-Real-SVRS+DANFE-AutoPrint\""
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.12/InfoSistemas-Update-7.6.12.zip",
+  "notes": "\"v7.6.12-QR-Code-Base64+Edge-Headless-Print+Viewer-Fallback\""
 }
