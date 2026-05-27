@@ -1,6 +1,6 @@
 {
-  "version": "7.6.14",
+  "version": "7.6.15",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.14/InfoSistemas-Update-7.6.14.zip",
-  "notes": "\"v7.6.14-Multi-Print-Method-rundll32-Edge-ShellPrint-Fallback-com-Log\""
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.15/InfoSistemas-Update-7.6.15.zip",
+  "notes": "\"v7.6.15-DANFE-PrintDocument-GDI-Direto-mesma-tecnica-do-Recibo\""
 }
