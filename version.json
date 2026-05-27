@@ -1,6 +1,6 @@
 {
-  "version": "7.6.10",
+  "version": "7.6.11",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.10/InfoSistemas-Update-7.6.10.zip",
-  "notes": "v7.6.10-Fix-DANFE-CODIGO_SEFAZ-via-FORMA_PGTO.TIPO"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.11/InfoSistemas-Update-7.6.11.zip",
+  "notes": "\"v7.6.11-Fix-NFCe-CPF-Prompt+SEFAZ-Real-SVRS+DANFE-AutoPrint\""
 }
