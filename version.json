@@ -2,5 +2,5 @@
   "version": "7.6.8",
   "mandatory": true,
   "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.8/InfoSistemas-Update-7.6.8.zip",
-  "notes": "v7.6.8-DANFE+License+Mobile+Permissoes+Relatorios+csproj-version-bump-fix"
+  "notes": "v7.6.8-csproj-version-bump-fix-Atualizador-loop"
 }
