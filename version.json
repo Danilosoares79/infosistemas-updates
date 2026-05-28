@@ -1,6 +1,6 @@
 {
-  "version": "7.6.23",
+  "version": "7.6.24",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.23/InfoSistemas-Update-7.6.23.zip",
-  "notes": "v7.6.23 - FrmConsultaEstoque (Composicao) refinado. Estoque Geral agora mostra PRODUTOS.QTD_ATUAL (fisico bruto, sem manipulacao). Estoque Atual = Sobra (saldo do RDM aprovado nao consumido em producao). Disp.RDM = total historico aprovado. Cenario 10kg manual + RDM 5kg + 0 producao agora mostra: Disp.RDM=5, Sobra=5, EstAtual=5, EstGeral=10 (em vez de EstGeral=15)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.24/InfoSistemas-Update-7.6.24.zip",
+  "notes": "v7.6.24 - Acumula fixes pos-7.6.22: (1) FrmJuntarMesas (FdC+MdM): restaurado fallback FrmDanfeViewer; padrao identico FrmPDV. (2) FrmConsultaEstoque (Composicao): EstGeral=PRODUTOS.QTD_ATUAL (fisico bruto), EstAtual=Sobra. Cenario 10kg manual + RDM 5kg + 0 producao agora: Disp.RDM=5, Sobra=5, EstAtual=5, EstGeral=10. (3) RelConferenciaCaixa: 'Total Entradas (Vendas+Suprimentos)' agora soma vendas reais. Antes filtrava por V.FK_CAIXA (que aponta para CONTAS, nao CAIXA_PDV) e dava sempre 0. Agora filtra vendas pelo intervalo DATA_ABERTURA..DATA_FECHAMENTO do CAIXA_PDV. (4) NOVO Relatorio 'Fechamento de Caixa Completo' (categoria Caixa): consolidado com Totais por Forma Pgto (recebido x informado x diferenca), Sangrias, Suprimentos, Vendas Canceladas, Itens Cancelados em Mesas, Mesas Canceladas, Total Produtos Vendidos."
 }
