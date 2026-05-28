@@ -1,6 +1,6 @@
 {
-  "version": "7.6.20",
+  "version": "7.6.21",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.20/InfoSistemas-Update-7.6.20.zip",
-  "notes": "v7.6.20 - Tela de Consulta de Estoque refeita conforme regra do Danilo. C (Composicao): Disp.RDM = saldo RDM aprovado menos consumido em producao, Sobra Prod = sinonimo de Disp.RDM, EstAtual = livre fora RDM, Producao = qtd consumida, EstGeral = Disp.RDM + EstAtual. PP (Pre-Produzido): Disp.RDM e Sobra = '-', Producao = qtd produzida, EstAtual = saldo (producao menos baixas via venda da ficha). P (Produto): so EstAtual e EstGeral."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.21/InfoSistemas-Update-7.6.21.zip",
+  "notes": "v7.6.21 - Padronizacao dos fluxos de pagamento + correcoes nos relatorios. FrmPagamentoMesa e FrmPagamentoDelivery: removida marcacao indevida como pre-venda (SITUACAO='V') - agora venda fica 'F' como no balcao, emitindo NFC-e identicamente. Vendas de Mapa de Mesas e Delivery agora aparecem em todos os relatorios. Pre-Venda baixada agora grava VENDAS com SITUACAO='F' e baixa estoque. Pendura/Fiado agora gera VENDAS quando fecha (antes nao gerava). Contas a Pagar e Receber: combo de forma de pagamento carregada do cadastro FORMA_PGTO (antes era hardcoded com IDs invalidos). Relatorios Financeiro: corrigido erro SQL em RelHistBaixasCR/CP e RelCancelamentosCR/CP (EXTRACT(HOUR) em coluna DATE causava erro - agora usa colunas TIMESTAMP corretas). Comissao do garcom validada: ja era calculada apenas para vendas 'F'. Lancamento Estoque Manual tipo PRODUCAO: lista apenas Pre-Produzidos (PP); checkbox de baixa de insumos marcado por default. Warnings de build zerados em Retaguarda, FrenteDeCaixa e Atualizador."
 }
