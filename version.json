@@ -2,5 +2,5 @@
   "version": "7.6.20",
   "mandatory": true,
   "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.20/InfoSistemas-Update-7.6.20.zip",
-  "notes": "v7.6.20 - Tela de Consulta de Estoque refeita conforme regra do Danilo. Por TIPO de produto: C (Composicao): Disp.RDM = saldo RDM aprovado menos consumido em producao, Sobra Prod = sinonimo de Disp.RDM, EstAtual = estoque livre fora RDM, Producao = qtd consumida em producoes, EstGeral = Disp.RDM + EstAtual. PP (Pre-Produzido): Disp.RDM e Sobra = '-' (nao tem RDM proprio), Producao = qtd produzida historicamente, EstAtual = estoque disponivel (producao menos baixas via venda do Produto com ficha tecnica). P (Produto): so EstAtual e EstGeral, demais '-'."
+  "notes": "v7.6.20 - Tela de Consulta de Estoque refeita conforme regra do Danilo. C (Composicao): Disp.RDM = saldo RDM aprovado menos consumido em producao, Sobra Prod = sinonimo de Disp.RDM, EstAtual = livre fora RDM, Producao = qtd consumida, EstGeral = Disp.RDM + EstAtual. PP (Pre-Produzido): Disp.RDM e Sobra = '-', Producao = qtd produzida, EstAtual = saldo (producao menos baixas via venda da ficha). P (Produto): so EstAtual e EstGeral."
 }
