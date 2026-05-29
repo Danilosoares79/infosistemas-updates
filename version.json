@@ -1,6 +1,6 @@
 {
-  "version": "7.6.25",
+  "version": "7.6.26",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.25/InfoSistemas-Update-7.6.25.zip",
-  "notes": "v7.6.25 - Pacote acumulado com 5 fixes: (1) FrmRDM nomenclatura alinhada com FrmConsultaEstoque, +coluna Estoque Geral, Disponivel=Geral-Reservado em RDMs ativas (PENDENTE/PARCIAL/ATENDIDO), bloqueia sem saldo. (2) FrmRDM grid vazio CORRIGIDO: SELECT usava P.TIPO_PRODUTO inexistente; coluna correta e P.TIPO. Blocos de query isolados em try-catch + log de diagnostico. (3) RelConferenciaCaixa: checkbox Resumido/Completo, linha unica Total Suprimentos, Sangria/Suprimento agora de CONTAS_MOVIMENTO (estavam em tabelas vazias). RelFechamentoCaixaCompleto removido. (4) Indicador visual ABERTO/FECHADO ao lado de Aplicar Filtros (so RelConferenciaCaixa). (5) BUG CRITICO Contas a Pagar/Receber: ao editar lancamento, sistema regerava todas as parcelas (duplicacao) e nao salvava a alteracao de Forma de Pagamento. Fix: em edicao (Codigo>0) faz apenas UPDATE direto sem regerar. Aplicado em ContaPagarService e ContaReceberService."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.26/InfoSistemas-Update-7.6.26.zip",
+  "notes": "v7.6.26 - Re-publicacao da v7.6.25 (mesmo conteudo, bump de versao para que o auto-update OTA reentregue os fixes aos clientes que ja marcaram v7.6.25 instalada). Conteudo: FrmRDM alinhado com FrmConsultaEstoque + grid populado (P.TIPO), RelConferenciaCaixa (checkbox Resumido + Sangrias/Suprimentos de CONTAS_MOVIMENTO + indicador ABERTO/FECHADO), Contas a Pagar/Receber (edicao nao duplica mais parcelas, FormaPgto salva)."
 }
