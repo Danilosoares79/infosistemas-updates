@@ -1,6 +1,6 @@
 {
-  "version": "7.6.28",
+  "version": "7.6.29",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.28/InfoSistemas-Update-7.6.28.zip",
-  "notes": "v7.6.28 fix relatorios (Hist Vendas, Sangrias, Suprimentos, Renegociacoes), tabelas de auditoria (LOG_ALTERACOES, LOG_EXCLUSAO), padronizacao paleta neutra, filtro hora em movimentacoes, tratamento 5 warnings CS9107."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.29/InfoSistemas-Update-7.6.29.zip",
+  "notes": "v7.6.29: hotfix critico (1) Producao deixava estoque negativo - agora BLOQUEIA com MessageBox.Stop quando qualquer insumo nao tem saldo. Toda producao em transacao Serializable com UPDATE condicional (WHERE QTD_ATUAL >= consumo) + rollback automatico. (2) Renegociacoes CP/CR -804 Data type unknown - CAST explicito em todos literais e parametros."
 }
