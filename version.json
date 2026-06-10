@@ -2,5 +2,5 @@
   "version": "7.6.31",
   "mandatory": true,
   "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.31/InfoSistemas-Update-7.6.31.zip",
-  "notes": "Bug #27: 10 Forms truncados corrigidos (compilação estabilizada)\nBug #28: Relatório Conferência Caixa filtrava dados de todas as empresas\nFiltro Garçom: agora é ComboBox com a lista de garçons cadastrados\nVisualizador de relatórios: labels não sobrepõem mais os campos de data/hora\nCadastros (Produto, NF-e, Grupo): ComboBoxes agora têm borda visível"
+  "notes": "Ajustes"
 }
