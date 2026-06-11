@@ -1,6 +1,6 @@
 {
-  "version": "7.6.30",
+  "version": "7.6.37",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.30/InfoSistemas-Update-7.6.30.zip",
-  "notes": "v7.6.30 - SINC SCHEMA cliente + layout relatorios + auditoria total. Migracao 7.6.30 cria 13 tabelas (CAIXA_PDV, RDM, RDM_ITEM, LOG_PRECO, LOG_ACESSO, DELIVERY_MASTER, DELIVERY_ITEM, ENTREGADOR, BAIRRO, SANGRIA, SUPRIMENTO, FICHA_TECNICA, NFE_INUTILIZACAO, GARCOM_DISPOSITIVO) + 46 colunas que existiam no banco do dev mas nunca foram colocadas no MigracaoDb - era a causa raiz dos relatorios funcionarem no PC do dev mas falharem no cliente. Fixes SQL: RelSangria_Suprimento -105, RelResumoGeralAuditoria -206 (ORIGEM, DATA_SOLICITACAO), FrmFechamentoCaixa VI.QTDE, FrmPreVendaPDV D.PRODUTO. Layout dos relatorios redesenhado em UMA linha (Aplicar + filtros + status + Recarregar/Excel/PDF/Fechar). Auditoria total: 924 SQLs em Forms, 706 em Repos/Services/API, 114 relatorios em 5 cenarios, triggers, atomicidade de transacoes, Mobile vs API, logica de negocio - todos validados 0 erros."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.37/InfoSistemas-Update-7.6.37.zip",
+  "notes": "Atualização v7.6.37"
 }
