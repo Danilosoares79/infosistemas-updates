@@ -1,6 +1,6 @@
 {
-  "version": "7.6.43",
+  "version": "7.6.44",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.43/InfoSistemas-Update-7.6.43.zip",
-  "notes": "Correções por hora, detlhes "
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.44/InfoSistemas-Update-7.6.44.zip",
+  "notes": "Produtos com peso e nao aceitar troco em cartao"
 }
