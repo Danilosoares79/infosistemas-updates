@@ -1,6 +1,6 @@
 {
-  "version": "7.6.51",
+  "version": "7.6.55",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.51/InfoSistemas-Update-7.6.51.zip",
-  "notes": "Atualização v7.6.51"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.55/InfoSistemas-Update-7.6.55.zip",
+  "notes": "v7.6.55 - Vendas com uma linha por garcom (garcom por item); Receber Pendura com todas as formas + layout; relatorios novos: Descontos, Penduras/Fiado e Penduras Recebidas por Forma; segundos em todos os relatorios + filtro de hora na movimentacao do PDV; unificacao das formas de pagamento; API local atualizada. Migracoes: FK_GARCOM em VENDA_ITEM e FK_FPG em CRRECEBIMENTO."
 }
