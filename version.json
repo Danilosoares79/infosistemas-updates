@@ -1,6 +1,6 @@
 {
-  "version": "7.6.56",
+  "version": "7.6.57",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.56/InfoSistemas-Update-7.6.56.zip",
-  "notes": "v7.6.56 - FIX ativacao de licenca (.lic agora grava CHAVE_LICENCA em CONFIG mesmo se a tabela EMPRESA do cliente nao tiver alguma coluna; antes ficava NAO_ATIVADO). Inclui tudo da 7.6.55: garcom por item, pendura (formas/layout/relatorios), descontos, segundos+hora, FORMA_PGTO."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.57/InfoSistemas-Update-7.6.57.zip",
+  "notes": "v7.6.57 - FIX ativacao de licenca em banco legado (.lic cria/atualiza CONFIG mesmo com coluna CODIGO NOT NULL; antes dava NAO_ATIVADO). Inclui tudo da 7.6.55/56: garcom por item, pendura, descontos, segundos+hora, FORMA_PGTO."
 }
