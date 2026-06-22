@@ -1,6 +1,6 @@
 {
-  "version": "7.6.58",
+  "version": "7.6.59",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.58/InfoSistemas-Update-7.6.58.zip",
-  "notes": "v7.6.58 - FIX seguranca licenca MOBILE: /garcom (app e navegador) sempre valida a licenca; antes sem DeviceId (navegador) pulava e entrava sem licenca mobile. Inclui tudo da 7.6.55/56/57."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.59/InfoSistemas-Update-7.6.59.zip",
+  "notes": "v7.6.59 - Licenca por sessao concorrente (janela 3 min, heartbeat 1 min, logout libera) no Desktop e Mobile; sync automatico das quantidades via AWS (sem reimportar .lic); tela Licencas em Uso na Retaguarda."
 }
