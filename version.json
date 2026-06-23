@@ -1,6 +1,6 @@
 {
-  "version": "7.6.60",
+  "version": "7.6.61",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.60/InfoSistemas-Update-7.6.60.zip",
-  "notes": "v7.6.60 - Lote Frente de Caixa + Retaguarda: numero da mesa no 1o acesso; couvert no comprovante nao fiscal; couvert artistico exclui mesas canceladas; PENDURA nas formas de pagamento; segundos (HH:MM:SS) nos relatorios; novos relatorios Descontos Detalhado e Penduras Detalhado; relatorios de vendas mostram todos os garcons."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.61/InfoSistemas-Update-7.6.61.zip",
+  "notes": "v7.6.61 - O sistema agora grava QUEM concedeu o desconto (operador logado ou supervisor que autorizou) na finalizacao da mesa/comanda, e o relatorio Descontos Concedidos (Detalhado) mostra a coluna Quem concedeu. Inclui tudo da v7.6.60."
 }
