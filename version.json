@@ -1,6 +1,6 @@
 {
-  "version": "7.6.61",
+  "version": "7.6.62",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.61/InfoSistemas-Update-7.6.61.zip",
-  "notes": "v7.6.61 - O sistema agora grava QUEM concedeu o desconto (operador logado ou supervisor que autorizou) na finalizacao da mesa/comanda, e o relatorio Descontos Concedidos (Detalhado) mostra a coluna Quem concedeu. Inclui tudo da v7.6.60."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.62/InfoSistemas-Update-7.6.62.zip",
+  "notes": "v7.6.62 - Novo: seletor 'Exibir no Autoatendimento / Cardapio' por produto (so itens marcados aparecem no autoatendimento). Renovacao automatica de licenca: ao abrir qualquer modulo o sistema consulta o servidor e atualiza o vencimento sem reimportar .lic (tolerancia de 1 dia offline; botao Revalidar licenca agora). Inclui tudo da v7.6.61."
 }
