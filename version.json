@@ -1,7 +1,6 @@
 {
-  "version": "7.6.62",
+  "version": "7.6.63",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.62/InfoSistemas-Update-7.6.62.zip",
-  "notes": "v7.6.62 - Novo: seletor 'Exibir no Autoatendimento / Cardapio' por produto (so itens marcados aparecem no autoatendimento). Renovacao automatica de licenca: ao abrir qualquer modulo o sistema consulta o servidor e atualiza o vencimento sem reimportar .lic (tolerancia de 1 dia offline; botao Revalidar licenca agora). Inclui tudo da v7.6.61.",
-  "build": "20260623-762"
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.63/InfoSistemas-Update-7.6.63.zip",
+  "notes": "v7.6.63 - Correcao do Fechar Pendura (nao lista mais mesas ja recebidas no caixa), relatorio de Penduras com Nº da Venda + filtro de situacao, e novo relatorio Comandas/Mesas (Completo) com NFC-e, produtos, servico, situacao, pendura e forma de pagamento. Inclui tudo da v7.6.62."
 }
