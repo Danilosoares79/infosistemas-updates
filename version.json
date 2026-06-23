@@ -1,6 +1,6 @@
 {
-  "version": "7.6.64",
+  "version": "7.6.65",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.64/InfoSistemas-Update-7.6.64.zip",
-  "notes": "v7.6.64 - Correcao da importacao de licenca (#151): ao importar um .lic, o sistema agora substitui a licenca anterior e ativa a nova de forma resiliente, liberando o sistema mesmo quando a validacao online ainda nao refletiu a mudanca. Inclui tudo da v7.6.63."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.65/InfoSistemas-Update-7.6.65.zip",
+  "notes": "v7.6.65 - PDV/Retaguarda: #147 'Fechar Pendura' nao lista mais mesas ja recebidas no caixa (recebimento pelo MapaDeMesas tambem marca a mesa como recebida); #149 relatorio de Pendura Detalhado agora traz valores ao filtrar por situacao; #21 relatorio Comandas/Mesas (Completo) passa a listar os produtos de cada mesa. APP: #153 itens so entram na mesa ao Confirmar o Pedido."
 }
