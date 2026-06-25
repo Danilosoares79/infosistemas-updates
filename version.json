@@ -1,6 +1,6 @@
 {
-  "version": "7.6.71",
+  "version": "7.6.72",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.71/InfoSistemas-Update-7.6.71.zip",
-  "notes": "v7.6.71 - Recepcao (EXE) redesenhada (so cartao: CPF/Nome/Telefone/Sexo/Tipo de Cartao/Cartao/pessoas), abre cheia no startup, aplica servicos automaticos + couvert por pessoa. Nova tela 'Servicos Programados (Couvert)' na Retaguarda (cobranca por data/hora/dia/Tipo de Cartao/Sexo). Tabela SERVICO_PROGRAMADO + PESSOA.SEXO. API aplica couvert na recepcao (APK cobra via API). Inclui tudo da v7.6.70."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.72/InfoSistemas-Update-7.6.72.zip",
+  "notes": "v7.6.72 - APK de Recepcao (1.0.14) redesenhado (so cartao: CPF/Nome/Telefone/Sexo/Tipo de Cartao/Cartao/pessoas) + API com modo cartao + Sexo + tipos; couvert programado tambem pelo APK. Inclui Recepcao EXE + Servicos Programados (Couvert) e tudo das anteriores."
 }
