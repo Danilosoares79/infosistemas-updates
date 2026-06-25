@@ -1,6 +1,6 @@
 {
-  "version": "7.6.67",
+  "version": "7.6.68",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.67/InfoSistemas-Update-7.6.67.zip",
-  "notes": "v7.6.67 - Modulo de Recepcao do cliente + Cartoes de consumo (casa noturna): recepcao (Retaguarda, executavel dedicado e APK 1.0.13), cadastros de Tipos de Cartao/Cartoes, gate de limite do cartao em todos os pontos, trava de cliente, gerenciar cartao (alterar limite/desbloquear/recarregar) e relatorios. Inclui tudo da v7.6.66."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.68/InfoSistemas-Update-7.6.68.zip",
+  "notes": "v7.6.68 - Recepcao + Cartoes de consumo (Fase A + Fase B). Recepcao (Retaguarda, executavel dedicado e APK 1.0.13), cadastros de Tipos de Cartao/Cartoes, gate de limite, trava de cliente. Gerenciar Cartao tambem no Frente de Caixa; recarga lanca no caixa; fechar/quitar cartao com consumacao minima e liberacao. Inclui tudo da v7.6.66/7.6.67."
 }
