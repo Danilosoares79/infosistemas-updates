@@ -1,6 +1,6 @@
 {
-  "version": "7.6.72",
+  "version": "7.6.73",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.72/InfoSistemas-Update-7.6.72.zip",
-  "notes": "v7.6.72 - APK de Recepcao (1.0.14) redesenhado (so cartao: CPF/Nome/Telefone/Sexo/Tipo de Cartao/Cartao/pessoas) + API com modo cartao + Sexo + tipos; couvert programado tambem pelo APK. Inclui Recepcao EXE + Servicos Programados (Couvert) e tudo das anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.73/InfoSistemas-Update-7.6.73.zip",
+  "notes": "v7.6.73 - Padrao de UI (Retaguarda) Onda 1: barra de acoes padrao (Novo/Excluir a esquerda, Salvar/Fechar a direita, atalhos) nas telas de Cartoes (Tipos, Cartoes, Configuracao, Servicos Programados/Couvert). Componente UiPadrao. Inclui tudo da v7.6.72."
 }
