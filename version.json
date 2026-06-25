@@ -1,6 +1,6 @@
 {
-  "version": "7.6.68",
+  "version": "7.6.69",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.68/InfoSistemas-Update-7.6.68.zip",
-  "notes": "v7.6.68 - Recepcao + Cartoes de consumo (Fase A + Fase B). Recepcao (Retaguarda, executavel dedicado e APK 1.0.13), cadastros de Tipos de Cartao/Cartoes, gate de limite, trava de cliente. Gerenciar Cartao tambem no Frente de Caixa; recarga lanca no caixa; fechar/quitar cartao com consumacao minima e liberacao. Inclui tudo da v7.6.66/7.6.67."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.69/InfoSistemas-Update-7.6.69.zip",
+  "notes": "v7.6.69 - Recepcao + Cartoes COMPLETO. Paridade do cartao com a mesa no Gerenciar Cartao do Frente de Caixa: Pagar (fiscal/NFC-e), Espelho de Conta, Transferir itens, Juntar cartoes (soma limites). Recarga lanca no caixa; fechar/quitar com consumacao minima. Leitor RFID/codigo de barras USB nos campos de numero. Inclui tudo das versoes anteriores."
 }
