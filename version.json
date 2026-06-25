@@ -1,6 +1,6 @@
 {
-  "version": "7.6.69",
+  "version": "7.6.70",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.69/InfoSistemas-Update-7.6.69.zip",
-  "notes": "v7.6.69 - Recepcao + Cartoes COMPLETO. Paridade do cartao com a mesa no Gerenciar Cartao do Frente de Caixa: Pagar (fiscal/NFC-e), Espelho de Conta, Transferir itens, Juntar cartoes (soma limites). Recarga lanca no caixa; fechar/quitar com consumacao minima. Leitor RFID/codigo de barras USB nos campos de numero. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.70/InfoSistemas-Update-7.6.70.zip",
+  "notes": "v7.6.70 - Ajustes de fluxo: pagamento finaliza em 1 clique e fecha automaticamente (com/sem NFC-e) + anti-duplo-clique; Confirmar Pedido/Item anti-duplo-clique; mesa volta a Livre (verde) automaticamente ao receber a conta; boot nao apaga mais o banco em falha de criacao. Inclui tudo da v7.6.69 (Recepcao + Cartoes completo)."
 }
