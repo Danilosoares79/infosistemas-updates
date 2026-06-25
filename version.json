@@ -1,6 +1,6 @@
 {
-  "version": "7.6.70",
+  "version": "7.6.71",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.70/InfoSistemas-Update-7.6.70.zip",
-  "notes": "v7.6.70 - Ajustes de fluxo: pagamento finaliza em 1 clique e fecha automaticamente (com/sem NFC-e) + anti-duplo-clique; Confirmar Pedido/Item anti-duplo-clique; mesa volta a Livre (verde) automaticamente ao receber a conta; boot nao apaga mais o banco em falha de criacao. Inclui tudo da v7.6.69 (Recepcao + Cartoes completo)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.71/InfoSistemas-Update-7.6.71.zip",
+  "notes": "v7.6.71 - Recepcao (EXE) redesenhada (so cartao: CPF/Nome/Telefone/Sexo/Tipo de Cartao/Cartao/pessoas), abre cheia no startup, aplica servicos automaticos + couvert por pessoa. Nova tela 'Servicos Programados (Couvert)' na Retaguarda (cobranca por data/hora/dia/Tipo de Cartao/Sexo). Tabela SERVICO_PROGRAMADO + PESSOA.SEXO. API aplica couvert na recepcao (APK cobra via API). Inclui tudo da v7.6.70."
 }
