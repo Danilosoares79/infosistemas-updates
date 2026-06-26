@@ -1,6 +1,6 @@
 {
-  "version": "7.6.83",
+  "version": "7.6.84",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.83/InfoSistemas-Update-7.6.83.zip",
-  "notes": "v7.6.83 - Recepcao: logo maior. Retaguarda: Recepcao removida do menu. Inclui tudo da v7.6.82."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.84/InfoSistemas-Update-7.6.84.zip",
+  "notes": "v7.6.84 - NF-e/Entrada de NF-e Manual completa (menu Compras); Totais na Identificacao com recalculo ao vivo; busca de fornecedor e produto; NFC-e referenciada; entrada lanca estoque+custo+Contas a Pagar. Relatorio de Caixa Abertura+Fechamento unificado. Cadastro de Produtos: filtros e ajustes de layout. Inclui tudo das versoes anteriores."
 }
