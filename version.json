@@ -1,6 +1,6 @@
 {
-  "version": "7.6.80",
+  "version": "7.6.81",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.80/InfoSistemas-Update-7.6.80.zip",
-  "notes": "v7.6.80 - Renovacao online de licenca mais robusta (le CNPJ sem depender da PK; casa por chave e CNPJ formatado/so-digitos; gera licenca_sync.log). Inclui tudo da v7.6.79."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.81/InfoSistemas-Update-7.6.81.zip",
+  "notes": "v7.6.81 - Campo CPF no cadastro de Empresa + renovacao online casa por CPF (alem de CNPJ e chave). Inclui tudo da v7.6.80."
 }
