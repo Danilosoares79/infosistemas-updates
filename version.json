@@ -1,6 +1,6 @@
 {
-  "version": "7.6.78",
+  "version": "7.6.79",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.78/InfoSistemas-Update-7.6.78.zip",
-  "notes": "v7.6.78 - Janelas MODAIS na Retaguarda: a janela aberta bloqueia as de tras ate ser fechada (cadastros, financeiro, estoque, compras, relatorios). Padronizacao visual das barras das telas de LISTA: botoes solidos coloridos (azul Novo/Editar/Duplicar, vermelho Excluir, cinza Atualizar/Fechar) iguais ao modelo de cadastro. Inclui tudo da v7.6.77."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.79/InfoSistemas-Update-7.6.79.zip",
+  "notes": "v7.6.79 - Padronizacao de botoes ampliada (Baixar/Pagar/Estornar/Aprovar/Transmitir/Rejeitar/Inutilizar/Em Lote/CC-e) e aplicada nas telas Fiscais (NF-e/NFC-e/SAT) e do menu Sistema. Inclui tudo da v7.6.78."
 }
