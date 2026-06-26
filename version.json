@@ -1,6 +1,6 @@
 {
-  "version": "7.6.77",
+  "version": "7.6.78",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.77/InfoSistemas-Update-7.6.77.zip",
-  "notes": "v7.6.77 - Padrao de UI (Retaguarda): conclui a padronizacao incluindo as BARRAS (ToolStrip) das telas de LISTA (Produtos, Pessoas, Entregadores, Bairros, Contas a Pagar/Receber, Grupos/Unidades/Marcas/Mesas, Compras). Novo/Editar azul, Excluir vermelho, Fechar cinza, mantendo posicoes e permissoes. Inclui tudo da v7.6.76."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.78/InfoSistemas-Update-7.6.78.zip",
+  "notes": "v7.6.78 - Janelas MODAIS na Retaguarda: a janela aberta bloqueia as de tras ate ser fechada (cadastros, financeiro, estoque, compras, relatorios). Padronizacao visual das barras das telas de LISTA: botoes solidos coloridos (azul Novo/Editar/Duplicar, vermelho Excluir, cinza Atualizar/Fechar) iguais ao modelo de cadastro. Inclui tudo da v7.6.77."
 }
