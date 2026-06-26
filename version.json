@@ -1,6 +1,6 @@
 {
-  "version": "7.6.79",
+  "version": "7.6.80",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.79/InfoSistemas-Update-7.6.79.zip",
-  "notes": "v7.6.79 - Padronizacao de botoes ampliada (Baixar/Pagar/Estornar/Aprovar/Transmitir/Rejeitar/Inutilizar/Em Lote/CC-e) e aplicada nas telas Fiscais (NF-e/NFC-e/SAT) e do menu Sistema. Inclui tudo da v7.6.78."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.80/InfoSistemas-Update-7.6.80.zip",
+  "notes": "v7.6.80 - Renovacao online de licenca mais robusta (le CNPJ sem depender da PK; casa por chave e CNPJ formatado/so-digitos; gera licenca_sync.log). Inclui tudo da v7.6.79."
 }
