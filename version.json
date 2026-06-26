@@ -1,6 +1,6 @@
 {
-  "version": "7.6.81",
+  "version": "7.6.82",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.81/InfoSistemas-Update-7.6.81.zip",
-  "notes": "v7.6.81 - Campo CPF no cadastro de Empresa + renovacao online casa por CPF (alem de CNPJ e chave). Inclui tudo da v7.6.80."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.82/InfoSistemas-Update-7.6.82.zip",
+  "notes": "v7.6.82 - Recepcao: login corrigido (sem travar) e no padrao (logo+atalhos). Relatorios: nova Central por grupos. Inclui tudo da v7.6.81."
 }
