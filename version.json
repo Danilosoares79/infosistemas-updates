@@ -1,6 +1,6 @@
 {
-  "version": "7.6.75",
+  "version": "7.6.76",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.75/InfoSistemas-Update-7.6.75.zip",
-  "notes": "v7.6.75 - Padrao de UI (Retaguarda) Onda 3: formato padrao dos botoes em 25 telas de Financeiro, Estoque e Relatorios, mantendo posicoes, permissoes e recursos. Inclui tudo da v7.6.74."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.76/InfoSistemas-Update-7.6.76.zip",
+  "notes": "v7.6.76 - Padrao de UI (Retaguarda): pendencias resolvidas - Fechamento de Caixa (Confirmar verde / Cancelar cinza) e Gerenciar Cartao (botoes operacionais no formato padrao). Inclui tudo da v7.6.75."
 }
