@@ -1,6 +1,6 @@
 {
-  "version": "7.6.85",
+  "version": "7.6.86",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.85/InfoSistemas-Update-7.6.85.zip",
-  "notes": "v7.6.85 - Correcao: erro SQL (-104 Token unknown AT) ao listar Servicos Programados/Couvert (alias AT, palavra reservada no Firebird). Inclui tudo da v7.6.84 (NF-e completa, Entrada de NF-e Manual em Compras, etc.)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.86/InfoSistemas-Update-7.6.86.zip",
+  "notes": "v7.6.86 - Grupos de Produtos: campo Ordem de exibicao (respeitado no Desktop, INFO Mobile e Autoatendimento). Menu Cartoes movido para dentro de Cadastros. Formacao Combinada: nova regra de preco SOMA (preco do produto + soma dos adicionais). Inclui tudo das versoes anteriores."
 }
