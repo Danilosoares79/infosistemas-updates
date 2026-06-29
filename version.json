@@ -1,6 +1,6 @@
 {
-  "version": "7.6.87",
+  "version": "7.6.88",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.87/InfoSistemas-Update-7.6.87.zip",
-  "notes": "v7.6.87 - Portal de Relatorios em nuvem: API read-only na loja (/api/relatorios e /api/painel) para relatorios e painel ao vivo (mapa de mesas, delivery, balcao, resumo do dia), consumida pelo Portal via tunel seguro. Somente leitura. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.88/InfoSistemas-Update-7.6.88.zip",
+  "notes": "v7.6.88 - Integracao Nuvem no Retaguarda (menu Sistema): marque 'Enviar para a nuvem' + Chave de Ativacao e a loja conecta sozinha ao Portal de Relatorios (token + tunel + persistencia). Portal aceita CNPJ ou CPF, gera porta e chave automaticas. Inclui tudo das versoes anteriores."
 }
