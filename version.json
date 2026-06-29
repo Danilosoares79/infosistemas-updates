@@ -1,6 +1,6 @@
 {
-  "version": "7.6.88",
+  "version": "7.6.89",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.88/InfoSistemas-Update-7.6.88.zip",
-  "notes": "v7.6.88 - Integracao Nuvem no Retaguarda (menu Sistema): marque 'Enviar para a nuvem' + Chave de Ativacao e a loja conecta sozinha ao Portal de Relatorios (token + tunel + persistencia). Portal aceita CNPJ ou CPF, gera porta e chave automaticas. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.89/InfoSistemas-Update-7.6.89.zip",
+  "notes": "v7.6.89 - Integracao Nuvem mais robusta: a API local sobe automaticamente no boot junto com o tunel (frpc) e o token do Portal passa a ser injetado por variavel de ambiente, de modo que um novo publish nao derruba mais a integracao. GarantirNoBoot religa tunel+API ao abrir o Retaguarda. Inclui tudo das versoes anteriores."
 }
