@@ -1,6 +1,6 @@
 {
-  "version": "7.6.92",
+  "version": "7.6.93",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.92/InfoSistemas-Update-7.6.92.zip",
-  "notes": "v7.6.92 - Autoatendimento: a Retaguarda cria automaticamente o schema do autoatendimento (TOKEN_AUTOATEND, AUTOATEND_ATIVO, CARDAPIO_TEMA/CONFIG, colunas de PRODUTOS) ao abrir a tela, sem depender da API. Resolve o aviso 'Migracao Pendente'. Inclui tudo das versoes anteriores (QR publico, dashboards, etc.)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.93/InfoSistemas-Update-7.6.93.zip",
+  "notes": "v7.6.93 - Autoatendimento: cardapio mobile com carrinho (itens, +/-/remover), consulta de consumo da mesa, zoom na foto e LOGO do estabelecimento centralizada no topo (a API passou a devolver a logo). Inclui tudo das versoes anteriores."
 }
