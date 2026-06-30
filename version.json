@@ -1,6 +1,6 @@
 {
-  "version": "7.6.90",
+  "version": "7.6.91",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.90/InfoSistemas-Update-7.6.90.zip",
-  "notes": "v7.6.90 - API da loja ganhou endpoints read-only de Dashboards (/api/dash/balcao, /api/dash/delivery, /api/dash/mesas), consumidos pelo Portal de Relatorios para exibir os 3 dashboards (Balcao, Delivery, Mapa de Mesas) com KPIs + Top 5 + filtro de periodo, iguais aos do Retaguarda. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.91/InfoSistemas-Update-7.6.91.zip",
+  "notes": "v7.6.91 - Autoatendimento PUBLICO: o QR Code da mesa aponta para o Portal (https://portal.infosistemas.net.br/menu/{loja}/{mesa}). O cliente le o QR pelo proprio celular, em qualquer rede (4G/Wi-Fi), abre o cardapio e faz o pedido, que imprime nas impressoras de destino e entra no caixa como ja funciona. Inclui tudo das versoes anteriores."
 }
