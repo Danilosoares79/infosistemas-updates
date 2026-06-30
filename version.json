@@ -1,6 +1,6 @@
 {
-  "version": "7.6.95",
+  "version": "7.6.96",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.95/InfoSistemas-Update-7.6.95.zip",
-  "notes": "v7.6.95 - NCM/CEST sem sobreposicao; Mapa de Mesas identico (Frente de Caixa = modulo); Agrupamento de Itens no menu F9; abas do Autoatendimento (Tema/Delivery/Logo) visiveis."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.96/InfoSistemas-Update-7.6.96.zip",
+  "notes": "v7.6.96 - RDM e Producao pela web (rede local): http://IP-da-loja:5000/rdm (login do sistema). Nova RDM, Atender RDM, Producao por Ficha e via RDM."
 }
