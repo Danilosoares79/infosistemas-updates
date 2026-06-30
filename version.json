@@ -1,6 +1,6 @@
 {
-  "version": "7.6.91",
+  "version": "7.6.92",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.91/InfoSistemas-Update-7.6.91.zip",
-  "notes": "v7.6.91 - Autoatendimento PUBLICO: o QR Code da mesa aponta para o Portal (https://portal.infosistemas.net.br/menu/{loja}/{mesa}). O cliente le o QR pelo proprio celular, em qualquer rede (4G/Wi-Fi), abre o cardapio e faz o pedido, que imprime nas impressoras de destino e entra no caixa como ja funciona. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.92/InfoSistemas-Update-7.6.92.zip",
+  "notes": "v7.6.92 - Autoatendimento: a Retaguarda cria automaticamente o schema do autoatendimento (TOKEN_AUTOATEND, AUTOATEND_ATIVO, CARDAPIO_TEMA/CONFIG, colunas de PRODUTOS) ao abrir a tela, sem depender da API. Resolve o aviso 'Migracao Pendente'. Inclui tudo das versoes anteriores (QR publico, dashboards, etc.)."
 }
