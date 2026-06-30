@@ -1,6 +1,6 @@
 {
-  "version": "7.6.93",
+  "version": "7.6.94",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.93/InfoSistemas-Update-7.6.93.zip",
-  "notes": "v7.6.93 - Autoatendimento: cardapio mobile com carrinho (itens, +/-/remover), consulta de consumo da mesa, zoom na foto e LOGO do estabelecimento centralizada no topo (a API passou a devolver a logo). Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.94/InfoSistemas-Update-7.6.94.zip",
+  "notes": "v7.6.94 - Delivery Online: link publico por loja; cliente se cadastra e faz o pedido; cai no Frente de Caixa com Aceitar/Rejeitar e impressao nas impressoras de destino; taxa por bairro; pagamento na entrega; botao Aberto/Fechado. Marca dagua da logo e imagens maiores no cardapio."
 }
