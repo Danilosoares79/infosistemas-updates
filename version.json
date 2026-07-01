@@ -1,6 +1,6 @@
 {
-  "version": "7.6.102",
+  "version": "7.6.103",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.102/InfoSistemas-Update-7.6.102.zip",
-  "notes": "v7.6.102 - Relatorios de caixa: o rodape 'Saldo Acum.' agora mostra o saldo acumulado final (ultimo valor), nao a soma da coluna. Vale na tela, no PDF e no Excel, respeitando o filtro de usuario/periodo."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.103/InfoSistemas-Update-7.6.103.zip",
+  "notes": "v7.6.103 - Fechamento de Caixa: a linha DINHEIRO do 'Sistema' agora inclui Abertura + Suprimentos - Sangrias (bate com o dinheiro da gaveta). Relatorio 'Situacao dos Caixas' passa a listar TODAS as aberturas (uma linha por abertura, cada uma com seu status Aberto/Fechado + usuario)."
 }
