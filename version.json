@@ -1,6 +1,6 @@
 {
-  "version": "7.6.101",
+  "version": "7.6.102",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.101/InfoSistemas-Update-7.6.101.zip",
-  "notes": "v7.6.101 - Relatorios de caixa (Situacao dos Caixas + Abertura x Fechamento relacionado) agora aparecem na Central de Relatorios; status do caixa na Conferencia/Fechamento."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.102/InfoSistemas-Update-7.6.102.zip",
+  "notes": "v7.6.102 - Relatorios de caixa: o rodape 'Saldo Acum.' agora mostra o saldo acumulado final (ultimo valor), nao a soma da coluna. Vale na tela, no PDF e no Excel, respeitando o filtro de usuario/periodo."
 }
