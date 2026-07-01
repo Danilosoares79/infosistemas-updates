@@ -1,6 +1,6 @@
 {
-  "version": "7.6.97",
+  "version": "7.6.98",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.97/InfoSistemas-Update-7.6.97.zip",
-  "notes": "v7.6.97 - Margem nos dois sentidos; Antecipacao confirma no botao; Relatorio de Transferencias de Mesas; Transferencia por quantidade + agrupamento; Cancelamento bloqueado apos fechamento de caixa, com estorno e devolucao ao estoque."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.98/InfoSistemas-Update-7.6.98.zip",
+  "notes": "v7.6.98 - Logo autoatendimento; PIN centralizado; correcao PK ESTOQUE_MOV na Producao; Producao via RDM mostra Disp. RDM; Consulta de Estoque (Sobra removida, Estoque Geral Disponivel); paridade RDM web."
 }
