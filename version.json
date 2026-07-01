@@ -1,6 +1,6 @@
 {
-  "version": "7.6.98",
+  "version": "7.6.99",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.98/InfoSistemas-Update-7.6.98.zip",
-  "notes": "v7.6.98 - Logo autoatendimento; PIN centralizado; correcao PK ESTOQUE_MOV na Producao; Producao via RDM mostra Disp. RDM; Consulta de Estoque (Sobra removida, Estoque Geral Disponivel); paridade RDM web."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.99/InfoSistemas-Update-7.6.99.zip",
+  "notes": "v7.6.99 - Relatorio RDM detalhado; remocao guia Producao por Ficha Tecnica (desktop+web); Caixa Abertura x Fechamento relacionado; Importacao Produtos/Clientes corrigidas; NF-e manual: editar item, consultar notas, bloquear item sem valor, gravar sem estoque + movimentar depois."
 }
