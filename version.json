@@ -1,6 +1,6 @@
 {
-  "version": "7.6.100",
+  "version": "7.6.101",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.100/InfoSistemas-Update-7.6.100.zip",
-  "notes": "v7.6.100 - Relatorio Situacao dos Caixas (aberto/fechado + usuario) com filtro e legenda; Caixa Abertura x Fechamento relacionado; status do caixa na tela de Conferencia/Fechamento."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.101/InfoSistemas-Update-7.6.101.zip",
+  "notes": "v7.6.101 - Relatorios de caixa (Situacao dos Caixas + Abertura x Fechamento relacionado) agora aparecem na Central de Relatorios; status do caixa na Conferencia/Fechamento."
 }
