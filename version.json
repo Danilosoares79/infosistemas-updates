@@ -1,6 +1,6 @@
 {
-  "version": "7.6.99",
+  "version": "7.6.100",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.99/InfoSistemas-Update-7.6.99.zip",
-  "notes": "v7.6.99 - Relatorio RDM detalhado; remocao guia Producao por Ficha Tecnica (desktop+web); Caixa Abertura x Fechamento relacionado; Importacao Produtos/Clientes corrigidas; NF-e manual: editar item, consultar notas, bloquear item sem valor, gravar sem estoque + movimentar depois."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.100/InfoSistemas-Update-7.6.100.zip",
+  "notes": "v7.6.100 - Relatorio Situacao dos Caixas (aberto/fechado + usuario) com filtro e legenda; Caixa Abertura x Fechamento relacionado; status do caixa na tela de Conferencia/Fechamento."
 }
