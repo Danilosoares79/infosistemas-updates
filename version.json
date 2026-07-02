@@ -1,6 +1,6 @@
 {
-  "version": "7.6.104",
+  "version": "7.6.105",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.104/InfoSistemas-Update-7.6.104.zip",
-  "notes": "v7.6.104 - Robustez das migracoes de banco no auto-update: migracao de delivery online portada para FrenteDeCaixa e MapaDeMesas; retrofit das colunas LOGO/BANNER em CARDAPIO_TEMA (bancos antigos); migrador da Recepcao passa a registrar erros graves em log. Evita erro de coluna inexistente ao atualizar."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.105/InfoSistemas-Update-7.6.105.zip",
+  "notes": "v7.6.105 - Adicionais de produto: nova aba Adicionais no cadastro (so produtos Tipo Produto). No Frente de Caixa (mesa, balcao e delivery), ao lancar um item com adicionais abre popup com quantidade; os escolhidos entram como itens-filho, somam na conta, baixam estoque e sao impressos junto do item (comanda) e com valor no espelho."
 }
