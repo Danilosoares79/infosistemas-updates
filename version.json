@@ -1,6 +1,6 @@
 {
-  "version": "7.6.103",
+  "version": "7.6.104",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.103/InfoSistemas-Update-7.6.103.zip",
-  "notes": "v7.6.103 - Fechamento de Caixa: a linha DINHEIRO do 'Sistema' agora inclui Abertura + Suprimentos - Sangrias (bate com o dinheiro da gaveta). Relatorio 'Situacao dos Caixas' passa a listar TODAS as aberturas (uma linha por abertura, cada uma com seu status Aberto/Fechado + usuario)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.104/InfoSistemas-Update-7.6.104.zip",
+  "notes": "v7.6.104 - Robustez das migracoes de banco no auto-update: migracao de delivery online portada para FrenteDeCaixa e MapaDeMesas; retrofit das colunas LOGO/BANNER em CARDAPIO_TEMA (bancos antigos); migrador da Recepcao passa a registrar erros graves em log. Evita erro de coluna inexistente ao atualizar."
 }
