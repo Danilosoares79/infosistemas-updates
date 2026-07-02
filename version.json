@@ -1,6 +1,6 @@
 {
-  "version": "7.6.107",
+  "version": "7.6.108",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.107/InfoSistemas-Update-7.6.107.zip",
-  "notes": "v7.6.107 - Correcao de layout do campo Codigo iFood no cadastro de produto (estava sobreposto e sem rotulo). Inclui tudo da 7.6.106 (integracao iFood completa, relatorio Transferencias de Mesas na Central de Relatorios, relatorios de caixa renomeados)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.108/InfoSistemas-Update-7.6.108.zip",
+  "notes": "v7.6.108 - iFood Fase B (catalogo pelo sistema): campo Preco iFood e Exibir no iFood no cadastro de produto; o conector envia preco e disponibilidade ao iFood. iFood Fase C: botao iFood Abrir/Fechar Loja no Frente de Caixa. Inclui tudo das versoes anteriores."
 }
