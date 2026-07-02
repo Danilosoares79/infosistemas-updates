@@ -1,6 +1,6 @@
 {
-  "version": "7.6.106",
+  "version": "7.6.107",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.106/InfoSistemas-Update-7.6.106.zip",
-  "notes": "v7.6.106 - Integracao iFood completa (pedidos do iFood na fila de Delivery; aceitar/cancelar/despachar refletem no iFood; tela Integracao iFood na Retaguarda; de-para de pagamento). Relatorio Transferencias de Mesas agora aparece na Central de Relatorios. Relatorios de caixa renomeados para Valor de Abertura de Caixa e Valor de Fechamento de Caixa. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.107/InfoSistemas-Update-7.6.107.zip",
+  "notes": "v7.6.107 - Correcao de layout do campo Codigo iFood no cadastro de produto (estava sobreposto e sem rotulo). Inclui tudo da 7.6.106 (integracao iFood completa, relatorio Transferencias de Mesas na Central de Relatorios, relatorios de caixa renomeados)."
 }
