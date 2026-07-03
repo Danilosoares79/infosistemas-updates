@@ -1,6 +1,6 @@
 {
-  "version": "7.6.108",
+  "version": "7.6.109",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.108/InfoSistemas-Update-7.6.108.zip",
-  "notes": "v7.6.108 - iFood Fase B (catalogo pelo sistema): campo Preco iFood e Exibir no iFood no cadastro de produto; o conector envia preco e disponibilidade ao iFood. iFood Fase C: botao iFood Abrir/Fechar Loja no Frente de Caixa. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.109/InfoSistemas-Update-7.6.109.zip",
+  "notes": "v7.6.109 - Descricao Detalhada do produto: novo campo de texto livre no cadastro (composicao/ingredientes). Sai no Autoatendimento (resumo no card e completo na imagem ampliada), no Delivery Online e no iFood. Inclui tudo das versoes anteriores."
 }
