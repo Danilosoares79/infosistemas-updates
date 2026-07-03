@@ -1,6 +1,6 @@
 {
-  "version": "7.6.112",
+  "version": "7.6.113",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.112/InfoSistemas-Update-7.6.112.zip",
-  "notes": "v7.6.112 - Ajuste visual da aba Adicionais no cadastro de produto: arvore com moldura e margem, aviso central quando nao ha grupos (fim do 'paredao branco') e cabecalho explicativo sem cortar. Sem mudanca de regra - continua tudo da v7.6.111 (Adicionais com grupos: complementos sem valor e adicionais com valor, em todos os canais)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.113/InfoSistemas-Update-7.6.113.zip",
+  "notes": "v7.6.113 - Correcoes dos Adicionais: (1) popup 'Monte seu item' no Frente de Caixa/Mapa de Mesas aparecia VAZIO - corrigido o layout (itens agora aparecem). (2) Tipo 'Composicao' renomeado para 'Insumo' no cadastro/lista/consulta. (3) Ao montar adicionais no cadastro agora aparecem os itens Tipo Insumo/Composicao (antes so Produto). Continua tudo da v7.6.111/112."
 }
