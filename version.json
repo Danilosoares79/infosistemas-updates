@@ -1,6 +1,6 @@
 {
-  "version": "7.6.110",
+  "version": "7.6.111",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.110/InfoSistemas-Update-7.6.110.zip",
-  "notes": "v7.6.110 - iFood: auto-inscricao de lojas (toda loja com iFood ativo entra sozinha) + conector na AWS. Correcao da NF-e de entrada manual (itens ao consultar + fim do erro de PK ao salvar). Telas de cadastro ajustam a qualquer resolucao. Mapa de Mesas com botoes iguais. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.111/InfoSistemas-Update-7.6.111.zip",
+  "notes": "v7.6.111 - Adicionais com GRUPOS: cada produto pode ter grupos de COMPLEMENTOS (sem valor, ex.: ponto da carne) e ADICIONAIS (com valor, ex.: bacon). Cada grupo tem minimo/maximo, obrigatorio, permite repetir e codigo iFood (optionGroup). Vale para Frente de Caixa, Mapa de Mesas, Autoatendimento e Delivery Online. Complemento sai com valor 0; adicional usa o preco do cadastro. Inclui tudo das versoes anteriores."
 }
