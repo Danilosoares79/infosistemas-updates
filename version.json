@@ -1,6 +1,6 @@
 {
-  "version": "7.6.109",
+  "version": "7.6.110",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.109/InfoSistemas-Update-7.6.109.zip",
-  "notes": "v7.6.109 - Descricao Detalhada do produto: novo campo de texto livre no cadastro (composicao/ingredientes). Sai no Autoatendimento (resumo no card e completo na imagem ampliada), no Delivery Online e no iFood. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.110/InfoSistemas-Update-7.6.110.zip",
+  "notes": "v7.6.110 - iFood: auto-inscricao de lojas (toda loja com iFood ativo entra sozinha) + conector na AWS. Correcao da NF-e de entrada manual (itens ao consultar + fim do erro de PK ao salvar). Telas de cadastro ajustam a qualquer resolucao. Mapa de Mesas com botoes iguais. Inclui tudo das versoes anteriores."
 }
