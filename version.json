@@ -1,6 +1,6 @@
 {
-  "version": "7.6.116",
+  "version": "7.6.117",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.116/InfoSistemas-Update-7.6.116.zip",
-  "notes": "v7.6.116 - Adicionais/complementos/combinados agrupados como subitens no grid e no cupom (Balcao e Mesa); cancelar respeita obrigatoriedade; estoque respeita controla-estoque; Juntar Mesas preserva o vinculo pai-filho."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.117/InfoSistemas-Update-7.6.117.zip",
+  "notes": "v7.6.117 - Importar XML de NF-e de entrada com conversao fiscal De/Para CST-CFOP; impressao de adicionais/complementos quando o item e tipo Insumo (subitem segue a impressora do pai); promocao aparece na selecao do item com nome centralizado; teclados Buscar Mesa/PIN centralizados; Mapa de Mesas (modulo) com emojis corrigidos; picker de adicionais com filtro por grupo e multi-selecao; NF-e movimentada trava edicao; estoque respeita 'nao controla estoque'."
 }
