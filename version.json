@@ -1,6 +1,6 @@
 {
-  "version": "7.6.117",
+  "version": "7.6.118",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.117/InfoSistemas-Update-7.6.117.zip",
-  "notes": "v7.6.117 - Importar XML de NF-e de entrada com conversao fiscal De/Para CST-CFOP; impressao de adicionais/complementos quando o item e tipo Insumo (subitem segue a impressora do pai); promocao aparece na selecao do item com nome centralizado; teclados Buscar Mesa/PIN centralizados; Mapa de Mesas (modulo) com emojis corrigidos; picker de adicionais com filtro por grupo e multi-selecao; NF-e movimentada trava edicao; estoque respeita 'nao controla estoque'."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.118/InfoSistemas-Update-7.6.118.zip",
+  "notes": "v7.6.118 - Cadastro de Conversao Fiscal De/Para (menu Compras): regras CFOP e CST/CSOSN do ICMS globais por empresa. A importacao de XML de entrada vem pre-preenchida com as regras salvas (janela sempre abre para conferencia) e um checkbox salva/atualiza as conversoes no cadastro."
 }
