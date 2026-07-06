@@ -1,6 +1,6 @@
 {
-  "version": "7.6.115",
+  "version": "7.6.116",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.115/InfoSistemas-Update-7.6.115.zip",
-  "notes": "v7.6.115 - NF-e entrada manual: vinculo automatico do item ao produto do cadastro (movimenta estoque sem digitar o codigo) + defaults de imposto por regime (Simples Nacional: ICMS/PIS/COFINS 0)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.116/InfoSistemas-Update-7.6.116.zip",
+  "notes": "v7.6.116 - Adicionais/complementos/combinados agrupados como subitens no grid e no cupom (Balcao e Mesa); cancelar respeita obrigatoriedade; estoque respeita controla-estoque; Juntar Mesas preserva o vinculo pai-filho."
 }
