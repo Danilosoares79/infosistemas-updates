@@ -1,6 +1,6 @@
 {
-  "version": "7.6.120",
+  "version": "7.6.121",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.120/InfoSistemas-Update-7.6.120.zip",
-  "notes": "v7.6.120 - Corrige o erro ao abrir Compras > Entrada de NF-e. Contas a Receber/Pagar: barra de botoes nao fica mais cortada. Anexos de contas: varios arquivos, copiados para a pasta do sistema. Baixa em lote: grade preenche a largura e botoes Confirmar e Prosseguir / Cancelar sempre visiveis. Auto-ajuste das colunas nas grades financeiras."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.121/InfoSistemas-Update-7.6.121.zip",
+  "notes": "v7.6.121 - Nao permite importar/lancar a mesma NF-e duas vezes. Entrada NF-e (XML): opcao de nao importar item. Situacao do Caixa no Menu F9 [S] (totais por forma de pagamento). Promocao visivel no card do produto. Edicao de usuario exige senha minima de 4 caracteres."
 }
