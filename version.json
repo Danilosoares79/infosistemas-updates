@@ -1,6 +1,6 @@
 {
-  "version": "7.6.119",
+  "version": "7.6.120",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.119/InfoSistemas-Update-7.6.119.zip",
-  "notes": "v7.6.119 - Entrada de NF-e por XML: conversao de unidade por fornecedor+codigo do fornecedor (coluna Fator editavel, Qtd estoque = Qtd nota x Fator) nas duas telas; de-para de produto por fornecedor (ex.: BATATA x BATATA INGLESA) unificado e memorizado; correcao do item repetido na aba Entrada NF-e (XML) do Compras; de-para fiscal de CFOP aplicado no import; Conversao Fiscal com autocomplete de CFOP/CST; conta (espelho) nao lista mais adicionais/complementos (so producao); picker de adicionais com layout corrigido, confirmar e marcar/desmarcar todos."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.120/InfoSistemas-Update-7.6.120.zip",
+  "notes": "v7.6.120 - Corrige o erro ao abrir Compras > Entrada de NF-e. Contas a Receber/Pagar: barra de botoes nao fica mais cortada. Anexos de contas: varios arquivos, copiados para a pasta do sistema. Baixa em lote: grade preenche a largura e botoes Confirmar e Prosseguir / Cancelar sempre visiveis. Auto-ajuste das colunas nas grades financeiras."
 }
