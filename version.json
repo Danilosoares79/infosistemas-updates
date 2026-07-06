@@ -1,6 +1,6 @@
 {
-  "version": "7.6.114",
+  "version": "7.6.115",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.114/InfoSistemas-Update-7.6.114.zip",
-  "notes": "v7.6.114 - Tela de Adicionais modernizada: botao Confirmar sempre visivel, stepper -/+ por item, selo OBRIGATORIO/OPCIONAL por grupo e total dos adicionais no rodape."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.115/InfoSistemas-Update-7.6.115.zip",
+  "notes": "v7.6.115 - NF-e entrada manual: vinculo automatico do item ao produto do cadastro (movimenta estoque sem digitar o codigo) + defaults de imposto por regime (Simples Nacional: ICMS/PIS/COFINS 0)."
 }
