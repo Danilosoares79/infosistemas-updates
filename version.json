@@ -1,6 +1,6 @@
 {
-  "version": "7.6.121",
+  "version": "7.6.122",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.121/InfoSistemas-Update-7.6.121.zip",
-  "notes": "v7.6.121 - Nao permite importar/lancar a mesma NF-e duas vezes. Entrada NF-e (XML): opcao de nao importar item. Situacao do Caixa no Menu F9 [S] (totais por forma de pagamento). Promocao visivel no card do produto. Edicao de usuario exige senha minima de 4 caracteres."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.122/InfoSistemas-Update-7.6.122.zip",
+  "notes": "v7.6.122 - Situacao do Caixa mostra as vendas de mesa na hora (LOTE do caixa aberto pelo banco). Mapa de Mesas: oferece iniciar direto na Venda Balcao. Nova permissao Situacao do Caixa configuravel por usuario."
 }
