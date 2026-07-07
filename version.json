@@ -1,6 +1,6 @@
 {
-  "version": "7.6.122",
+  "version": "7.6.123",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.122/InfoSistemas-Update-7.6.122.zip",
-  "notes": "v7.6.122 - Situacao do Caixa mostra as vendas de mesa na hora (LOTE do caixa aberto pelo banco). Mapa de Mesas: oferece iniciar direto na Venda Balcao. Nova permissao Situacao do Caixa configuravel por usuario."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.123/InfoSistemas-Update-7.6.123.zip",
+  "notes": "v7.6.123 - Novo relatorio Contas a Receber por Forma de Pagamento (valor total, restante, taxa a descontar e liquido, com totais). Dialogo Conversao Fiscal com layout corrigido. Mapa de Mesas de inicio mantem o botao Balcao (PDV)."
 }
