@@ -1,6 +1,6 @@
 {
-  "version": "7.6.128",
+  "version": "7.6.129",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.128/InfoSistemas-Update-7.6.128.zip",
-  "notes": "v7.6.128 - Novo relatorio Contas a Receber por Forma de Pagamento (valor total, restante, taxa a descontar e liquido, com totais). Dialogo Conversao Fiscal com layout corrigido. Mapa de Mesas de inicio mantem o botao Balcao (PDV)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.129/InfoSistemas-Update-7.6.129.zip",
+  "notes": "v7.6.129 - Modulo NF-e: consulta com filtros (numero/nome/CNPJ/CPF/chave, Tipo Entrada-Saida, periodo por Emissao ou Entrada); botoes Visualizar, Excluir (sem movimento) e Limpar importacao; bloqueio de nota duplicada + gravacao do numero; status/erro na consulta (coluna Retorno + situacao Rejeitada)."
 }
