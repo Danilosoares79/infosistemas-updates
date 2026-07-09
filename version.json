@@ -1,6 +1,6 @@
 {
-  "version": "7.6.134",
+  "version": "7.6.135",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.134/InfoSistemas-Update-7.6.134.zip",
-  "notes": "v7.6.134 - HOTFIX: corrige erro -206 'Column unknown LICENCA_BLOQUEADA' que travava a abertura na 7.6.133. Bloqueio agora e defensivo (coluna ausente = abre normal) e a coluna e criada em conexao separada. Atualizacao recomendada a todos."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.135/InfoSistemas-Update-7.6.135.zip",
+  "notes": "v7.6.135 - CORRECAO CRITICA licenciamento: cria as colunas LICENCA_BLOQUEADA/MOTIVO_BLOQUEIO no banco local (nunca eram criadas), sincronizacao resiliente (coluna ausente nao aborta mais o sync) e persiste o vencimento do servidor quando bloqueado. Bloqueio pelo License Manager passa a valer de verdade. Inclui tudo das versoes anteriores."
 }
