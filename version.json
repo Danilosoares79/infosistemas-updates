@@ -1,6 +1,6 @@
 {
-  "version": "7.6.130",
+  "version": "7.6.131",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.130/InfoSistemas-Update-7.6.130.zip",
-  "notes": "v7.6.130 - Re-fix Mapa de Mesas: botoes iguais ao Frente de Caixa, antecipacao so grava no Confirmar (com aviso ao sair) e transferencia de itens por quantidade."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.131/InfoSistemas-Update-7.6.131.zip",
+  "notes": "v7.6.131 - Financeiro (relatorio por forma NULLIF, estorno com motivo+supervisor no relatorio de cancelamentos, menu enxuto) e NF-e manual (numero real preservado, consulta de duplicidade ao importar, vincular produto preserva fiscal e mostra descricao do produto, consulta sem janela de 6 meses, botoes sem sobreposicao e rodape sempre visivel)."
 }
