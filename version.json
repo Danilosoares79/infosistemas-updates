@@ -1,6 +1,6 @@
 {
-  "version": "7.6.133",
+  "version": "7.6.134",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.133/InfoSistemas-Update-7.6.133.zip",
-  "notes": "v7.6.133 - Licenciamento: o PDV passa a honrar o bloqueio remoto do servidor (bloqueia/encerra quando o cliente e marcado como BLOQUEADO). So bloqueia com confirmacao explicita do servidor; offline/erro nunca bloqueia."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.134/InfoSistemas-Update-7.6.134.zip",
+  "notes": "v7.6.134 - HOTFIX: corrige erro -206 'Column unknown LICENCA_BLOQUEADA' que travava a abertura na 7.6.133. Bloqueio agora e defensivo (coluna ausente = abre normal) e a coluna e criada em conexao separada. Atualizacao recomendada a todos."
 }
