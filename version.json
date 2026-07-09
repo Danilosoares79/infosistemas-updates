@@ -1,6 +1,6 @@
 {
-  "version": "7.6.132",
+  "version": "7.6.133",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.132/InfoSistemas-Update-7.6.132.zip",
-  "notes": "v7.6.132 - NF-e manual: coluna Codigo -> Codigo ID na consulta, Cancelar operacao limpa os itens, botoes desativados com aparencia clara, e Vincular/Adicionar/Remover so ativam com operacao aberta."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.133/InfoSistemas-Update-7.6.133.zip",
+  "notes": "v7.6.133 - Licenciamento: o PDV passa a honrar o bloqueio remoto do servidor (bloqueia/encerra quando o cliente e marcado como BLOQUEADO). So bloqueia com confirmacao explicita do servidor; offline/erro nunca bloqueia."
 }
