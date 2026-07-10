@@ -1,6 +1,6 @@
 {
-  "version": "7.6.136",
+  "version": "7.6.137",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.136/InfoSistemas-Update-7.6.136.zip",
-  "notes": "v7.6.136 - PACOTE FISCAL: NFC-e nas mesas (serie da Config Fiscal, emite na finalizacao e imprime DANFE, couvert/taxa de servico no total via vOutro, reenvio automatico de pendentes + botao em Fiscal>NFC-e) e Entrada de NF-e manual (grava alteracoes do cabecalho como Tipo de Operacao/Serie/Numero, cancelar operacao limpa campos, destinatario mostra todas as pessoas e recarrega ao consultar, aliquotas sempre do cadastro do produto, corrige 'Configuracao fiscal nao carregada', botao Visualizar/Imprimir antes de transmitir). Inclui a v7.6.135 (correcao do bloqueio de licenca)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.137/InfoSistemas-Update-7.6.137.zip",
+  "notes": "v7.6.137 - PROMOCOES EM TODOS OS CANAIS: promocao vigente agora vale no garcom web, autoatendimento e delivery online (preco resolvido no servidor), com 'De X Por Y' + selo PROMO nos cardapios (delivery requer Portal v20, ja no ar). NOVA TELA: Alteracao em Lote de Produtos (Retaguarda > Sistema) - altera varios produtos de uma vez (grupo, NCM/CEST, precos em % ou R$, comissao, flags, estoque e todos os campos fiscais de saida/entrada), so aplica os campos marcados, com confirmacao. Inclui tudo das versoes anteriores (7.6.136 pacote fiscal, 7.6.135 bloqueio de licenca)."
 }
