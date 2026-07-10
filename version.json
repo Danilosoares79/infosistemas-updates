@@ -1,6 +1,6 @@
 {
-  "version": "7.6.138",
+  "version": "7.6.139",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.138/InfoSistemas-Update-7.6.138.zip",
-  "notes": "v7.6.138 - Alteracao em Lote de Produtos: agora no menu CADASTROS. Unidade e NCM viram listas com o que ja esta cadastrado (NCM permite digitar novo). CFOP de saida e de entrada viram listas dos CFOPs ja usados. Aba Outros ganhou Impressora (destino de producao) e Disponivel para venda (Sim/Nao). So altera os campos marcados. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.139/InfoSistemas-Update-7.6.139.zip",
+  "notes": "v7.6.139 - HOTFIX da 7.6.138: corrige erro que impedia a Retaguarda de abrir (item do menu Cadastros era referenciado antes de ser criado). Mantem as melhorias da Alteracao em Lote de Produtos (menu Cadastros; Unidade/NCM e CFOP saida/entrada como listas; Impressora e Disponivel para venda em Outros). Atualizacao recomendada a todos."
 }
