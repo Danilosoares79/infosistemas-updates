@@ -1,6 +1,6 @@
 {
-  "version": "7.6.141",
+  "version": "7.6.142",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.141/InfoSistemas-Update-7.6.141.zip",
-  "notes": "v7.6.141 - Transmissao SEFAZ via Unimake.DFe (gratuita, alternativa ao ACBr): nova opcao em Fiscal > Configuracao Fiscal > Certificado > Transmissao SEFAZ (Nenhuma / Unimake.DFe recomendado / ACBrLib). Autorizacao, cancelamento, inutilizacao e carta de correcao de NF-e e NFC-e assinando com o certificado A1, sem DLL nativa e sem assinatura paga. Inutilizacao e CC-e agora sao enviadas de verdade a SEFAZ. Teste em HOMOLOGACAO antes de ativar em Producao. Mantem todas as correcoes fiscais da v7.6.140."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.142/InfoSistemas-Update-7.6.142.zip",
+  "notes": "v7.6.142 - CORRECAO CRITICA fiscal: XML da NF-e/NFC-e saia com decimais em virgula (Windows pt-BR), invalido na SEFAZ - causava o erro input string 1,0000 na Unimake; agora sempre sai com ponto. + 8 ajustes: trava de caixa por computador (um usuario por estacao) e nova tela Financeiro > Caixas em Aberto com fechamento forcado; pendura emite NFC-e posterior com data atual sem mexer no caixa; relatorio Conferencia Completa de Caixa respeita o filtro de usuario em todas as secoes; layout do cadastro de produtos corrigido (campos sobrepostos); Alteracao em Lote com tipo C-Insumo e Observacoes de Producao pre-cadastradas (corrigido erro Column unknown COMPLEMENTO); grupo com produtos ativos nao pode ser inativado e grupo inativo some do frente de caixa e de novos cadastros; mesa em uso nao pode ser alterada/inativada no retaguarda. Atualizacao recomendada a todos."
 }
