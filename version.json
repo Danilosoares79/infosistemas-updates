@@ -1,6 +1,6 @@
 {
-  "version": "7.6.139",
+  "version": "7.6.140",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.139/InfoSistemas-Update-7.6.139.zip",
-  "notes": "v7.6.139 - HOTFIX da 7.6.138: corrige erro que impedia a Retaguarda de abrir (item do menu Cadastros era referenciado antes de ser criado). Mantem as melhorias da Alteracao em Lote de Produtos (menu Cadastros; Unidade/NCM e CFOP saida/entrada como listas; Impressora e Disponivel para venda em Outros). Atualizacao recomendada a todos."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.140/InfoSistemas-Update-7.6.140.zip",
+  "notes": "v7.6.140 - Lote fiscal NFC-e/NF-e: antecipacao soma no total do cupom (paga como Credito Loja); NFC-e emite automatico ao finalizar a venda (removido desvio MEI, recibo so sai sem cupom); janela de comissao desabilita campos quando PAGA COMISSAO desmarcado; dados fiscais respeitam o cadastro de Produtos (bloqueia emissao se faltar NCM/CFOP/CST); NF-e com XML 4.00 completo e transmissao real; Visualizar/Imprimir NF-e em DANFE A4 padrao; botoes por status (autorizada nao retransmite/edita/exclui); Vendas Realizadas mostra status da NFC-e e motivo do erro; Taxa de Servico com NCM/CFOP/CST/CSOSN. Atualizacao recomendada a todos que emitem NFC-e/NF-e."
 }
