@@ -1,6 +1,6 @@
 {
-  "version": "7.6.140",
+  "version": "7.6.141",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.140/InfoSistemas-Update-7.6.140.zip",
-  "notes": "v7.6.140 - Lote fiscal NFC-e/NF-e: antecipacao soma no total do cupom (paga como Credito Loja); NFC-e emite automatico ao finalizar a venda (removido desvio MEI, recibo so sai sem cupom); janela de comissao desabilita campos quando PAGA COMISSAO desmarcado; dados fiscais respeitam o cadastro de Produtos (bloqueia emissao se faltar NCM/CFOP/CST); NF-e com XML 4.00 completo e transmissao real; Visualizar/Imprimir NF-e em DANFE A4 padrao; botoes por status (autorizada nao retransmite/edita/exclui); Vendas Realizadas mostra status da NFC-e e motivo do erro; Taxa de Servico com NCM/CFOP/CST/CSOSN. Atualizacao recomendada a todos que emitem NFC-e/NF-e."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.141/InfoSistemas-Update-7.6.141.zip",
+  "notes": "v7.6.141 - Transmissao SEFAZ via Unimake.DFe (gratuita, alternativa ao ACBr): nova opcao em Fiscal > Configuracao Fiscal > Certificado > Transmissao SEFAZ (Nenhuma / Unimake.DFe recomendado / ACBrLib). Autorizacao, cancelamento, inutilizacao e carta de correcao de NF-e e NFC-e assinando com o certificado A1, sem DLL nativa e sem assinatura paga. Inutilizacao e CC-e agora sao enviadas de verdade a SEFAZ. Teste em HOMOLOGACAO antes de ativar em Producao. Mantem todas as correcoes fiscais da v7.6.140."
 }
