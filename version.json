@@ -1,6 +1,6 @@
 {
-  "version": "7.6.137",
+  "version": "7.6.138",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.137/InfoSistemas-Update-7.6.137.zip",
-  "notes": "v7.6.137 - PROMOCOES EM TODOS OS CANAIS: promocao vigente agora vale no garcom web, autoatendimento e delivery online (preco resolvido no servidor), com 'De X Por Y' + selo PROMO nos cardapios (delivery requer Portal v20, ja no ar). NOVA TELA: Alteracao em Lote de Produtos (Retaguarda > Sistema) - altera varios produtos de uma vez (grupo, NCM/CEST, precos em % ou R$, comissao, flags, estoque e todos os campos fiscais de saida/entrada), so aplica os campos marcados, com confirmacao. Inclui tudo das versoes anteriores (7.6.136 pacote fiscal, 7.6.135 bloqueio de licenca)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.138/InfoSistemas-Update-7.6.138.zip",
+  "notes": "v7.6.138 - Alteracao em Lote de Produtos: agora no menu CADASTROS. Unidade e NCM viram listas com o que ja esta cadastrado (NCM permite digitar novo). CFOP de saida e de entrada viram listas dos CFOPs ja usados. Aba Outros ganhou Impressora (destino de producao) e Disponivel para venda (Sim/Nao). So altera os campos marcados. Inclui tudo das versoes anteriores."
 }
