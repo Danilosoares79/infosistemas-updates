@@ -1,6 +1,6 @@
 {
-  "version": "7.6.148",
+  "version": "7.6.150",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.148/InfoSistemas-Update-7.6.148.zip",
-  "notes": "v7.6.148 - Produtos com Variacao: nova tela em Cadastros que gera produtos por variacao (ex.: Camiseta Polo x Tamanho x Cor). Cada combinacao vira um produto independente, disponivel em todos os canais (Balcao, Mesa, Garcom, Autoatendimento, Delivery, iFood). Tambem: fix global de layout nas telas de cadastro (barra Salvar/Cancelar sempre visivel). Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.150/InfoSistemas-Update-7.6.150.zip",
+  "notes": "v7.6.150 - Tabela mestre de NCM no banco (oficial TIPI/SEFAZ, ~10.5 mil codigos, usada em todo o sistema + tela Cadastros > Tabela de NCM com Importar). Produtos com Variacao ganham CST ICMS/CSOSN/CFOP (nao da mais erro fiscal). Preco Delivery proprio por produto. Inclui tudo das versoes anteriores."
 }
