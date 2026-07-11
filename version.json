@@ -1,6 +1,6 @@
 {
-  "version": "7.6.150",
+  "version": "7.6.151",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.150/InfoSistemas-Update-7.6.150.zip",
-  "notes": "v7.6.150 - Tabela mestre de NCM no banco (oficial TIPI/SEFAZ, ~10.5 mil codigos, usada em todo o sistema + tela Cadastros > Tabela de NCM com Importar). Produtos com Variacao ganham CST ICMS/CSOSN/CFOP (nao da mais erro fiscal). Preco Delivery proprio por produto. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.151/InfoSistemas-Update-7.6.151.zip",
+  "notes": "v7.6.151 - Correcao critica: municipio do emitente (xMun) saia vazio no XML e a SEFAZ recusava a nota. Agora a empresa carrega o municipio corretamente (MUNICIPIO->Cidade) e a NF-e/NFC-e volta a ser emitida. Inclui tudo das versoes anteriores."
 }
