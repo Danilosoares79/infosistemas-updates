@@ -1,6 +1,6 @@
 {
-  "version": "7.6.145",
+  "version": "7.6.146",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.145/InfoSistemas-Update-7.6.145.zip",
-  "notes": "v7.6.145 - FISCAL: CSOSN no grupo XML correto - produto com substituicao tributaria (CSOSN 500, ex.: cerveja CFOP 5405) nao e mais rejeitado pela SEFAZ (validado em homologacao: autorizado e cancelado). Tambem: 101/201/202/203/900 nos grupos proprios; Inscricao Estadual formatada no cadastro (pontos/letras) e saneada automaticamente no XML; NF-e sem endereco do destinatario agora e bloqueada ANTES de transmitir com mensagem clara (complete o cadastro do cliente) em vez de erro tecnico de schema; CSOSN fora da tabela tambem e bloqueado com mensagem amigavel. Sem mudanca de banco. Inclui tudo das versoes anteriores (7.6.140-144)."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.146/InfoSistemas-Update-7.6.146.zip",
+  "notes": "v7.6.146 - Ajustes no Financeiro: renegociacao de Contas a Pagar nao duplica mais (a conta original vira Renegociada com saldo zero); relatorio Clientes/Pessoas renomeado para Pessoas; botoes de Contas a Pagar/Receber nao somem mais em janela estreita. Inclui tudo das versoes anteriores."
 }
