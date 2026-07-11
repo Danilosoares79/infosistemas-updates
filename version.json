@@ -1,6 +1,6 @@
 {
-  "version": "7.6.143",
+  "version": "7.6.144",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.143/InfoSistemas-Update-7.6.143.zip",
-  "notes": "v7.6.143 - Ajustes do Financeiro: motivo do estorno aparece no relatorio de Cancelamentos (CR e agora tambem CP, com autorizacao); RENEGOCIACAO de titulos em Contas a Receber/Pagar (juros/desconto/reparcelamento, originais marcados como Renegociado, relatorios de Renegociacoes reais); novos relatorios Clientes/Transportadores/Funcionarios; CNPJ/CPF com pontuacao padrao em telas, relatorios e DANFE; janela de Contas a Pagar/Receber nao abre maior que a tela (botoes sempre visiveis); Extrato com rolagem da tela inteira; Alteracao em Lote com botao Pesquisar NCM (tabela TIPI/SEFAZ). Atualizacao recomendada a todos."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.144/InfoSistemas-Update-7.6.144.zip",
+  "notes": "v7.6.144 - FISCAL HOMOLOGADO: transmissao Unimake validada de ponta a ponta na SEFAZ-BA em homologacao com certificado real (NFC-e e NF-e autorizadas e canceladas; DANFE ok). Correcoes: NFC-e do Simples Nacional agora envia CSOSN correto (fim da rejeicao 590); PIS/COFINS no grupo certo e dentro de imposto (fim da rejeicao 745 'NF-e sem grupo do PIS'); grupo autXML exigido pela Bahia (486); texto padrao de homologacao no 1o item (373); autorizacao reconhecida somente com cStat 100/150; cancelamento e carta de correcao com IdLote (schema); consulta de situacao da nota na SEFAZ; mensagem orientando aguardar quando a SEFAZ ainda nao liberou a nota para cancelamento (494). Sem mudanca de banco. Inclui tudo das versoes anteriores (7.6.140-143)."
 }
