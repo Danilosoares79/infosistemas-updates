@@ -1,6 +1,6 @@
 {
-  "version": "7.6.142",
+  "version": "7.6.143",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.142/InfoSistemas-Update-7.6.142.zip",
-  "notes": "v7.6.142 - CORRECAO CRITICA fiscal: XML da NF-e/NFC-e saia com decimais em virgula (Windows pt-BR), invalido na SEFAZ - causava o erro input string 1,0000 na Unimake; agora sempre sai com ponto. + 8 ajustes: trava de caixa por computador (um usuario por estacao) e nova tela Financeiro > Caixas em Aberto com fechamento forcado; pendura emite NFC-e posterior com data atual sem mexer no caixa; relatorio Conferencia Completa de Caixa respeita o filtro de usuario em todas as secoes; layout do cadastro de produtos corrigido (campos sobrepostos); Alteracao em Lote com tipo C-Insumo e Observacoes de Producao pre-cadastradas (corrigido erro Column unknown COMPLEMENTO); grupo com produtos ativos nao pode ser inativado e grupo inativo some do frente de caixa e de novos cadastros; mesa em uso nao pode ser alterada/inativada no retaguarda. Atualizacao recomendada a todos."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.143/InfoSistemas-Update-7.6.143.zip",
+  "notes": "v7.6.143 - Ajustes do Financeiro: motivo do estorno aparece no relatorio de Cancelamentos (CR e agora tambem CP, com autorizacao); RENEGOCIACAO de titulos em Contas a Receber/Pagar (juros/desconto/reparcelamento, originais marcados como Renegociado, relatorios de Renegociacoes reais); novos relatorios Clientes/Transportadores/Funcionarios; CNPJ/CPF com pontuacao padrao em telas, relatorios e DANFE; janela de Contas a Pagar/Receber nao abre maior que a tela (botoes sempre visiveis); Extrato com rolagem da tela inteira; Alteracao em Lote com botao Pesquisar NCM (tabela TIPI/SEFAZ). Atualizacao recomendada a todos."
 }
