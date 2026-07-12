@@ -1,6 +1,6 @@
 {
-  "version": "7.6.151",
+  "version": "7.6.152",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.151/InfoSistemas-Update-7.6.151.zip",
-  "notes": "v7.6.151 - Correcao critica: municipio do emitente (xMun) saia vazio no XML e a SEFAZ recusava a nota. Agora a empresa carrega o municipio corretamente (MUNICIPIO->Cidade) e a NF-e/NFC-e volta a ser emitida. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.152/InfoSistemas-Update-7.6.152.zip",
+  "notes": "v7.6.152 - Antecipacao acompanha a transferencia de mesa; sangria/suprimento so com caixa aberto; saldo do caixa mostra so o caixa atual; botao Abrir do anexo nao corta; corrige trava ao clicar Sim na Tela inicial do caixa. Inclui tudo das versoes anteriores."
 }
