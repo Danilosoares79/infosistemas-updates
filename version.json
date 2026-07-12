@@ -1,6 +1,6 @@
 {
-  "version": "7.6.152",
+  "version": "7.6.153",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.152/InfoSistemas-Update-7.6.152.zip",
-  "notes": "v7.6.152 - Antecipacao acompanha a transferencia de mesa; sangria/suprimento so com caixa aberto; saldo do caixa mostra so o caixa atual; botao Abrir do anexo nao corta; corrige trava ao clicar Sim na Tela inicial do caixa. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.153/InfoSistemas-Update-7.6.153.zip",
+  "notes": "v7.6.153 - Mapa de Cartoes no Menu F9 (abre a comanda igual as mesas); Tela Padrao com 3 opcoes (Balcao/Mapa de Mesas/Mapa de Cartoes) no Frente de Caixa e na Retaguarda, abrindo direto a tela escolhida; Consulta de Cartao pela web para a seguranca (SERVIDOR/consulta) mostrando Liberado (verde) / Nao liberado (vermelho); Totem de autoatendimento (prototipo) com itens, taxa de servico e logo. Inclui tudo das versoes anteriores."
 }
