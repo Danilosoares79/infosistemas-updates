@@ -1,6 +1,6 @@
 {
-  "version": "7.6.160",
+  "version": "7.6.161",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.160/InfoSistemas-Update-7.6.160.zip",
-  "notes": "v7.6.160 - Mapa de Cartoes: botoes Abrir Cartao (dialogo rapido numero+nome), busca por numero (Enter abre o lancamento) e Juntar Cartoes (igual Juntar Mesas). Recepcao: novo campo RG/Estrangeiro; CPF deixa de ser obrigatorio (exige CPF OU RG); Sexo, Tipo de Cartao e Numero do Cartao obrigatorios; mensagem 'CLIENTE RECEPCIONADO COM SUCESSO!'. A recepcao pelo app (API) tambem aceita RG e aplica as mesmas regras. Sem alteracao de banco. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.161/InfoSistemas-Update-7.6.161.zip",
+  "notes": "v7.6.161 - Mapa de Cartoes: troca de posicao (busca<->Abrir Cartao) e atalhos F2 (Abrir Cartao) e F10 (Juntar Cartoes). Juntar Cartoes agora funciona igual ao Juntar Mesas (lista com check, itens consolidados, Pesquisar Cartao com Enter, [F5] Pagar, [Esc] Cancelar). Cancelar Cartao: nova opcao no menu do Frente de Caixa com permissao nova (so administrador ou quem tiver permissao). Recepcao: bloqueia recepcionar o mesmo cliente 2x (por CPF ou RG) - avisa 'Cliente ja recepcionado!'. Desconto maximo permitido (%) em Retaguarda > Configuracoes: se preenchido, qualquer usuario so pode dar desconto ate esse percentual. Migracao 7.6.161 (TELA 126 + CONFIG.DESCONTO_MAX_PERC). Inclui tudo das versoes anteriores."
 }
