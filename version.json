@@ -1,6 +1,6 @@
 {
-  "version": "7.6.156",
+  "version": "7.6.157",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.156/InfoSistemas-Update-7.6.156.zip",
-  "notes": "v7.6.156 - Corrige os relatorios de Mesas/Cartoes Cancelados e Itens Cancelados (erro 'Token unknown - LOCAL' do Firebird). Tela de pagamento (Comissao/Desconto): campos so editaveis com PAGA COMISSAO marcado (Pagamento da Mesa, Juntar Mesas e Balcao, no Frente de Caixa e Mapa de Mesas). Lancamento de Estoque Manual: filtro por grupo na selecao de itens. Novo relatorio Ficha Tecnica com Custo (insumos, quantidade, custo unitario e total). Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.157/InfoSistemas-Update-7.6.157.zip",
+  "notes": "v7.6.157 - Correcoes DEFINITIVAS da NFC-e no fluxo do PDV (mesa/cartao): taxa de servico/couvert rateada nos itens (vOutro por item) fechando o total e corrigindo a rejeicao 'Total de vOutros difere do somatorio dos itens'; ao emitir/retransmitir, os campos fiscais (NCM/CFOP/CST/CSOSN) sao copiados do cadastro do produto para a VENDA_ITEM; e a NUMERACAO so avanca quando a nota e autorizada - na retransmissao de uma nota nao autorizada reutiliza o mesmo numero (exigencia SEFAZ), sem gerar buracos de numeracao. Inclui tudo das versoes anteriores."
 }
