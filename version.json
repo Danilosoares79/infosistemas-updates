@@ -1,6 +1,6 @@
 {
-  "version": "7.6.158",
+  "version": "7.6.159",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.158/InfoSistemas-Update-7.6.158.zip",
-  "notes": "v7.6.158 - Comissao (definitivo): ao DESMARCAR 'Paga Comissao' o sistema tira a comissao inteira da conta (desconto = valor total da taxa); marcado = paga. Vale para Pagamento da Mesa, Juntar Mesas e Balcao (Frente de Caixa e Mapa de Mesas). Relatorios de Renegociacao (CR/CP) mostram so as existentes e ha dois relatorios novos 'Renegociacoes Excluidas' (CR e CP). Importar Cliente/Fornecedor e Produtos: corrigido o erro 'arquivo em uso' (planilha lida com compartilhamento). Cadastro de Pessoas com layout automatico e colunas renomeadas (Razao Social, Nome Fantasia, CPF/CNPJ, RG/IE, UF); Buscar Cliente com coluna 'CNPJ/CPF'. Inclui o menu da Ficha Tecnica. Sem alteracao de banco. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.159/InfoSistemas-Update-7.6.159.zip",
+  "notes": "v7.6.159 - Observacoes de Producao: o campo Descricao comeca desabilitado, so habilita no 'Novo' ou dois cliques numa observacao existente. Cardapio Web (QR da mesa) mostra o selo PROMO com preco antigo riscado e promocional, igual Delivery e PDV. Contas recorrentes/parceladas mensais preservam o DIA do vencimento (13/08, 13/09...) em Contas a Receber e a Pagar. Relatorios de produtos vendidos (Ranking e Historico) saem separados por GRUPO, com cabecalho e subtotal por grupo, na tela, impressao e Excel. Sem alteracao de banco. Inclui tudo das versoes anteriores."
 }
