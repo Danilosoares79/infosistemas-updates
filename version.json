@@ -1,6 +1,6 @@
 {
-  "version": "7.6.161",
+  "version": "7.6.162",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.161/InfoSistemas-Update-7.6.161.zip",
-  "notes": "v7.6.161 - Mapa de Cartoes: troca de posicao (busca<->Abrir Cartao) e atalhos F2 (Abrir Cartao) e F10 (Juntar Cartoes). Juntar Cartoes agora funciona igual ao Juntar Mesas (lista com check, itens consolidados, Pesquisar Cartao com Enter, [F5] Pagar, [Esc] Cancelar). Cancelar Cartao: nova opcao no menu do Frente de Caixa com permissao nova (so administrador ou quem tiver permissao). Recepcao: bloqueia recepcionar o mesmo cliente 2x (por CPF ou RG) - avisa 'Cliente ja recepcionado!'. Desconto maximo permitido (%) em Retaguarda > Configuracoes: se preenchido, qualquer usuario so pode dar desconto ate esse percentual. Migracao 7.6.161 (TELA 126 + CONFIG.DESCONTO_MAX_PERC). Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.162/InfoSistemas-Update-7.6.162.zip",
+  "notes": "v7.6.162 - Novos relatorios de Cartoes (Retaguarda > Relatorios > Vendas > Bar/Restaurante > Cartoes): Clientes Recepcionados (Cartao), Consumo Detalhado por Cartao, Movimentacoes de Cartao, Faturamento por Cartao (Fechados) e Itens Cancelados em Cartoes. Sem alteracao de banco. Inclui tudo das versoes anteriores."
 }
