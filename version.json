@@ -1,6 +1,6 @@
 {
-  "version": "7.6.153",
+  "version": "7.6.155",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.153/InfoSistemas-Update-7.6.153.zip",
-  "notes": "v7.6.153 - Mapa de Cartoes no Menu F9 (abre a comanda igual as mesas); Tela Padrao com 3 opcoes (Balcao/Mapa de Mesas/Mapa de Cartoes) no Frente de Caixa e na Retaguarda, abrindo direto a tela escolhida; Consulta de Cartao pela web para a seguranca (SERVIDOR/consulta) mostrando Liberado (verde) / Nao liberado (vermelho); Totem de autoatendimento (prototipo) com itens, taxa de servico e logo. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.155/InfoSistemas-Update-7.6.155.zip",
+  "notes": "v7.6.155 - NFC-e: servicos (taxa de servico/gorjeta) entram no cupom como Outras Despesas (vOutro) rateadas, fechando o vNF e corrigindo a rejeicao de soma; retransmissao re-sincroniza o fiscal (NCM/CFOP/CST/CSOSN) da VENDA_ITEM a partir do produto. NF-e entrada manual: campo Valor da forma de pagamento sugere o total e Vl. Unit. usa o preco de venda. Novo relatorio de Mesas/Cartoes cancelados (limpeza) com local, ID, quem cancelou, data/hora, itens e filtros. Tipo de Cartao: servicos automaticos com produtos, taxa de servico e servicos programados. Cadastro de cartoes em lote. Taxa de Servico com NCM/CFOP/CST/CSOSN em combos. Recepcao com campos centralizados. Inclui tudo das versoes anteriores."
 }
