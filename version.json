@@ -1,6 +1,6 @@
 {
-  "version": "7.6.159",
+  "version": "7.6.160",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.159/InfoSistemas-Update-7.6.159.zip",
-  "notes": "v7.6.159 - Observacoes de Producao: o campo Descricao comeca desabilitado, so habilita no 'Novo' ou dois cliques numa observacao existente. Cardapio Web (QR da mesa) mostra o selo PROMO com preco antigo riscado e promocional, igual Delivery e PDV. Contas recorrentes/parceladas mensais preservam o DIA do vencimento (13/08, 13/09...) em Contas a Receber e a Pagar. Relatorios de produtos vendidos (Ranking e Historico) saem separados por GRUPO, com cabecalho e subtotal por grupo, na tela, impressao e Excel. Sem alteracao de banco. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.160/InfoSistemas-Update-7.6.160.zip",
+  "notes": "v7.6.160 - Mapa de Cartoes: botoes Abrir Cartao (dialogo rapido numero+nome), busca por numero (Enter abre o lancamento) e Juntar Cartoes (igual Juntar Mesas). Recepcao: novo campo RG/Estrangeiro; CPF deixa de ser obrigatorio (exige CPF OU RG); Sexo, Tipo de Cartao e Numero do Cartao obrigatorios; mensagem 'CLIENTE RECEPCIONADO COM SUCESSO!'. A recepcao pelo app (API) tambem aceita RG e aplica as mesmas regras. Sem alteracao de banco. Inclui tudo das versoes anteriores."
 }
