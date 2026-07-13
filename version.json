@@ -1,6 +1,6 @@
 {
-  "version": "7.6.162",
+  "version": "7.6.163",
   "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.162/InfoSistemas-Update-7.6.162.zip",
-  "notes": "v7.6.162 - Novos relatorios de Cartoes (Retaguarda > Relatorios > Vendas > Bar/Restaurante > Cartoes): Clientes Recepcionados (Cartao), Consumo Detalhado por Cartao, Movimentacoes de Cartao, Faturamento por Cartao (Fechados) e Itens Cancelados em Cartoes. Sem alteracao de banco. Inclui tudo das versoes anteriores."
+  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.163/InfoSistemas-Update-7.6.163.zip",
+  "notes": "v7.6.163 - Novo relatorio Cartao - Formas de Pagamento (espelho do Mesas - Formas de Pagamento), em Mesas/Restaurante > Pagamentos/Couvert e em Vendas > Bar/Restaurante > Cartoes. Consumo Detalhado por Cartao mais robusto (LEFT JOIN no cartao). Sem alteracao de banco. Inclui tudo das versoes anteriores."
 }
