@@ -1,6 +1,6 @@
 {
-  "version": "7.6.163",
-  "mandatory": true,
-  "zip_url": "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.163/InfoSistemas-Update-7.6.163.zip",
-  "notes": "v7.6.163 - Novo relatorio Cartao - Formas de Pagamento (espelho do Mesas - Formas de Pagamento), em Mesas/Restaurante > Pagamentos/Couvert e em Vendas > Bar/Restaurante > Cartoes. Consumo Detalhado por Cartao mais robusto (LEFT JOIN no cartao). Sem alteracao de banco. Inclui tudo das versoes anteriores."
+    "version":  "7.6.165",
+    "mandatory":  true,
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.165/InfoSistemas-Update-7.6.165.zip",
+    "notes":  "v7.6.165 - Comissao/desconto: taxa de servico volta ao remarcar \"Paga Comissao\" e \"Paga Comissao\" some no Desconto Geral (Frente de Caixa e Mapa de Mesas). Vendas Realizadas (Frente de Caixa) abre com a data de hoje. Nova config \"Nao solicitar CPF/CNPJ ao fechar NFC-e\" (Balcao/Mesa/Delivery/Juntar). Vendas Realizadas (Retaguarda) igualada ao Frente de Caixa (NFC-e, motivo do erro SEFAZ, Imprimir/PDF/Inutilizar/E-mail/Enviar). Entrada de notas manual bloqueia XML de NFC-e (so NF-e 55). Corrigido abrir cartao sem pessoa vinculada e erro ao recepcionar (Firebird -804). Modo Garcom Mesas/Cartao + APK. NFC-e pode emitir a taxa de servico como item fiscal (opcional; Convenio 125/11). Migracoes 7.6.164 e 7.6.165."
 }
