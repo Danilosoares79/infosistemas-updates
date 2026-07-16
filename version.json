@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.172",
+    "version":  "7.6.173",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.172/InfoSistemas-Update-7.6.172.zip",
-    "notes":  "v7.6.172 - Exportar XML Saida agora gera relatorios junto com os arquivos: Relatorio de Notas (autorizadas com total, canceladas, denegadas, pendentes e numeracoes inutilizadas) e Relatorio de CFOP com totalizadores por CFOP e total geral, em TXT e CSV."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.173/InfoSistemas-Update-7.6.173.zip",
+    "notes":  "v7.6.173 - Corrigido o relatorio Falhas de Emissao de NFe (erro Table unknown NFE_LOG): tabela criada automaticamente e o motor fiscal agora registra cada tentativa de emissao com erro (codigo cStat, mensagem SEFAZ e numero da tentativa), inclusive no reenvio automatico."
 }
