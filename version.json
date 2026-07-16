@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.171",
-    "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.171/InfoSistemas-Update-7.6.171.zip",
-    "notes":  "v7.6.171 - DANFE impresso fiel a nota: taxa de servico, couvert e taxa de entrega saem impressos em linhas separadas (itens vem do XML da propria nota). XML de cada NFC-e gravado DENTRO do banco na emissao (qualquer caixa) + nova tela Retaguarda \u003e Vendas \u003e Exportar XML Saida (filtro por periodo/situacao, exporta todos os XMLs para uma pasta). Numeracao NFC-e centralizada e ATOMICA no banco (serie unica para a loja, seguro com varios caixas simultaneos; nao precisa serie por caixa). Configuracao Fiscal mostra o ultimo numero real do banco. Migracao automatica: NFCE_M.XML_NFE + tabela NFCE_NUMERACAO."
+    "mandatory":  false,
+    "url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.172/InfoSistemas_7.6.172.zip",
+    "version":  "7.6.172",
+    "notes":  "v7.6.172 - Exportar XML Saida agora gera relatorios junto com os arquivos: Relatorio de Notas (autorizadas com total, canceladas, denegadas, pendentes e numeracoes inutilizadas) e Relatorio de CFOP com totalizadores por CFOP e total geral, em TXT e CSV."
 }
