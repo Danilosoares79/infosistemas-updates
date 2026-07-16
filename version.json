@@ -1,6 +1,6 @@
 {
     "mandatory":  false,
-    "url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.172/InfoSistemas_7.6.172.zip",
+    "url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.172/InfoSistemas-Update-7.6.172.zip",
     "version":  "7.6.172",
     "notes":  "v7.6.172 - Exportar XML Saida agora gera relatorios junto com os arquivos: Relatorio de Notas (autorizadas com total, canceladas, denegadas, pendentes e numeracoes inutilizadas) e Relatorio de CFOP com totalizadores por CFOP e total geral, em TXT e CSV."
 }
