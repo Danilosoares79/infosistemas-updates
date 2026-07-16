@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.170",
+    "version":  "7.6.171",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.170/InfoSistemas-Update-7.6.170.zip",
-    "notes":  "v7.6.170 - Correcao fiscal: NCM 00000000 e aceito no cadastro de servicos (Taxa de Servico, Couvert, Taxa de Entrega); a 7.6.169 rejeitava indevidamente e bloqueava a emissao. Validado com o banco do cliente: NFC-e AUTORIZADA em homologacao (cStat 100) com produto, taxa de servico e couvert em 3 linhas separadas na nota e na DANFE, total exato. Confira em Cadastros \u003e Empresa se CNPJ/IE correspondem ao certificado em uso (divergencia gera rejeicao 213). Sem migracao de banco."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.171/InfoSistemas-Update-7.6.171.zip",
+    "notes":  "v7.6.171 - DANFE impresso fiel a nota: taxa de servico, couvert e taxa de entrega saem impressos em linhas separadas (itens vem do XML da propria nota). XML de cada NFC-e gravado DENTRO do banco na emissao (qualquer caixa) + nova tela Retaguarda \u003e Vendas \u003e Exportar XML Saida (filtro por periodo/situacao, exporta todos os XMLs para uma pasta). Numeracao NFC-e centralizada e ATOMICA no banco (serie unica para a loja, seguro com varios caixas simultaneos; nao precisa serie por caixa). Configuracao Fiscal mostra o ultimo numero real do banco. Migracao automatica: NFCE_M.XML_NFE + tabela NFCE_NUMERACAO."
 }
