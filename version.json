@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.166",
+    "version":  "7.6.167",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.166/InfoSistemas-Update-7.6.166.zip",
-    "notes":  "v7.6.166 - Fiscal: cadastro fiscal (NCM/CFOP/CST/CSOSN) no Couvert e na Taxa de Entrega por bairro; NFC-e pode emitir couvert e taxa de entrega como item proprio (linha separada) quando o cadastro fiscal esta completo. Entrada de NF-e (Importar XML) recusa NFC-e modelo 65. Delivery: ao emitir NFC-e sai so a DANFE (sem recibo). Juntar Mesas (FdC e Mapa): recibo so quando nao sai NFC-e. Cartoes: correcao definitiva do falso \"Cliente ja recepcionado\" (pagamento libera o cartao nos dois modulos; checagem ignora cartoes ja pagos). Checkup completo dos fechamentos e das listagens de Vendas Realizadas. Migracao 7.6.166 (COUVERT e BAIRRO ganham colunas fiscais)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.167/InfoSistemas-Update-7.6.167.zip",
+    "notes":  "v7.6.167 - NFC-e: taxa de servico, couvert e taxa de entrega saem como ITEM proprio (linha separada, igual produto) por PADRAO, usando o cadastro fiscal de cada servico (Taxa de Servico, Couvert, Bairros) com fallbacks automaticos; preencha NCM/CFOP/CST ou CSOSN nos cadastros. Certificado A1: aviso diario com contagem regressiva a partir de 5 dias do vencimento (FdC, Mapa e Retaguarda) e, quando vencido, mensagem explicita na emissao informando que a nota ficou offline por causa do certificado (NFC-e e NF-e, inclusive Unimake). Sem migracao de banco."
 }
