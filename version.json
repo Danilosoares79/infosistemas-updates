@@ -2,5 +2,5 @@
     "version":  "7.6.170",
     "mandatory":  true,
     "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.170/InfoSistemas-Update-7.6.170.zip",
-    "notes":  "v7.6.170 - Correcao fiscal: NCM 00000000 e aceito no cadastro de servicos (Taxa de Servico, Couvert, Taxa de Entrega) â€” a 7.6.169 rejeitava indevidamente e bloqueava a emissao. Validado com o banco do cliente: NFC-e AUTORIZADA em homologacao (cStat 100) com produto, taxa de servico e couvert em 3 linhas separadas na nota e na DANFE, total exato. Confira em Cadastros \u003e Empresa se CNPJ/IE correspondem ao certificado em uso (divergencia gera rejeicao 213). Sem migracao de banco."
+    "notes":  "v7.6.170 - Correcao fiscal: NCM 00000000 e aceito no cadastro de servicos (Taxa de Servico, Couvert, Taxa de Entrega); a 7.6.169 rejeitava indevidamente e bloqueava a emissao. Validado com o banco do cliente: NFC-e AUTORIZADA em homologacao (cStat 100) com produto, taxa de servico e couvert em 3 linhas separadas na nota e na DANFE, total exato. Confira em Cadastros \u003e Empresa se CNPJ/IE correspondem ao certificado em uso (divergencia gera rejeicao 213). Sem migracao de banco."
 }
