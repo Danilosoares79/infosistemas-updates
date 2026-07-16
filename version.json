@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.169",
+    "version":  "7.6.170",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.169/InfoSistemas-Update-7.6.169.zip",
-    "notes":  "v7.6.169 - Regra fiscal: servico (taxa de servico, couvert, taxa de entrega) com valor na venda e cadastro fiscal incompleto BLOQUEIA a emissao da NFC-e com erro apontando o que falta e onde corrigir (Servicos \u003e Taxa de Servico / Couvert; Delivery \u003e Bairros). Fim do fallback que diluia o servico nos produtos (servico isento seria tributado). Apos corrigir, reenviar em Vendas Realizadas \u003e Enviar. Sem migracao de banco."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.170/InfoSistemas-Update-7.6.170.zip",
+    "notes":  "v7.6.170 - Correcao fiscal: NCM 00000000 e aceito no cadastro de servicos (Taxa de Servico, Couvert, Taxa de Entrega) â€” a 7.6.169 rejeitava indevidamente e bloqueava a emissao. Validado com o banco do cliente: NFC-e AUTORIZADA em homologacao (cStat 100) com produto, taxa de servico e couvert em 3 linhas separadas na nota e na DANFE, total exato. Confira em Cadastros \u003e Empresa se CNPJ/IE correspondem ao certificado em uso (divergencia gera rejeicao 213). Sem migracao de banco."
 }
