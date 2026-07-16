@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.168",
+    "version":  "7.6.169",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.168/InfoSistemas-Update-7.6.168.zip",
-    "notes":  "v7.6.168 - Programacao de Promocao: produtos da promocao aparecem numa linha abaixo de cada promocao na lista; campo Pesquisar filtra por nome da promocao ou por produto; botao Sair na tela. Emissoes NF-e/NFC-e validadas em homologacao SEFAZ-BA com certificado novo (autorizacao cStat 100 e cancelamento cStat 135 via Unimake). Sem migracao de banco."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.169/InfoSistemas-Update-7.6.169.zip",
+    "notes":  "v7.6.169 - Regra fiscal: servico (taxa de servico, couvert, taxa de entrega) com valor na venda e cadastro fiscal incompleto BLOQUEIA a emissao da NFC-e com erro apontando o que falta e onde corrigir (Servicos \u003e Taxa de Servico / Couvert; Delivery \u003e Bairros). Fim do fallback que diluia o servico nos produtos (servico isento seria tributado). Apos corrigir, reenviar em Vendas Realizadas \u003e Enviar. Sem migracao de banco."
 }
