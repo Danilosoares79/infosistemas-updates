@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.180",
+    "version":  "7.6.181",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.180/InfoSistemas-Update-7.6.180.zip",
-    "notes":  "v7.6.180 - Entrada NF-e: importacao de XML agora grava os dados completos do fornecedor (IE, endereco, municipio, UF, CEP, fone, CNPJ do XML) e evita fornecedor duplicado por CNPJ formatado."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.181/InfoSistemas-Update-7.6.181.zip",
+    "notes":  "v7.6.181 - NF-e Entrada: importacao de XML cadastra/completa o fornecedor com os dados completos do emit. DANFE NFC-e homologacao: descricao real do produto no item e aviso de homologacao no rodape."
 }
