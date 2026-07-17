@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.174",
+    "version":  "7.6.175",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.174/InfoSistemas-Update-7.6.174.zip",
-    "notes":  "v7.6.174 - Exportar XML Saida pelo PORTAL: nova pagina XML Saida no portal de relatorios baixa um ZIP com todos os XMLs de NFC-e do periodo (todos os caixas) + relatorios de Notas e CFOP, sem precisar estar na loja. Requer esta versao da API rodando na loja."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.175/InfoSistemas-Update-7.6.175.zip",
+    "notes":  "v7.6.175 - Retaguarda Web fase 1: infraestrutura de sincronizacao de cadastros com a nuvem (migracao com triggers de changelog + servico de sync na API, desligado por padrao) e paginas Cadastros no portal lendo da replica. Nada muda para quem nao ativar a sync."
 }
