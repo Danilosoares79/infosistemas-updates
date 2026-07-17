@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.177",
+    "version":  "7.6.178",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.177/InfoSistemas-Update-7.6.177.zip",
-    "notes":  "v7.6.177 - Retaguarda Web: API da loja agora APLICA as edicoes feitas no portal (fila de descida com regra de conflito, validacoes e auditoria). Necessaria para editar cadastros pelo portal."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.178/InfoSistemas-Update-7.6.178.zip",
+    "notes":  "v7.6.178 - Retaguarda Web fase 2: edicao de Grupos, Couvert, Taxa de Servico e Bairros/Taxa de Entrega pelo portal (sem campos fiscais)."
 }
