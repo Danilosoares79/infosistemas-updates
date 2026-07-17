@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.179",
-    "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.179/InfoSistemas-Update-7.6.179.zip",
-    "notes":  "v7.6.179 - Retaguarda Web fase 2: campos fiscais do produto com trava dupla, Observacoes de Producao e Adicionais editaveis pelo portal. Re-carga automatica da replica."
+    "version":  "7.6.180",
+    "mandatory":  false,
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.180/InfoSistemas-Update-7.6.180.zip",
+    "notes":  "v7.6.180 - Entrada NF-e: importacao de XML agora grava os dados completos do fornecedor (IE, endereco, municipio, UF, CEP, fone, CNPJ do XML) e evita fornecedor duplicado por CNPJ formatado."
 }
