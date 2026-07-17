@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.178",
+    "version":  "7.6.179",
     "mandatory":  true,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.178/InfoSistemas-Update-7.6.178.zip",
-    "notes":  "v7.6.178 - Retaguarda Web fase 2: edicao de Grupos, Couvert, Taxa de Servico e Bairros/Taxa de Entrega pelo portal (sem campos fiscais)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.179/InfoSistemas-Update-7.6.179.zip",
+    "notes":  "v7.6.179 - Retaguarda Web fase 2: campos fiscais do produto com trava dupla, Observacoes de Producao e Adicionais editaveis pelo portal. Re-carga automatica da replica."
 }
