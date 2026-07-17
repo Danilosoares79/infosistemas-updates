@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.173",
+    "version":  "7.6.174",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.173/InfoSistemas-Update-7.6.173.zip",
-    "notes":  "v7.6.173 - Corrigido o relatorio Falhas de Emissao de NFe (erro Table unknown NFE_LOG): tabela criada automaticamente e o motor fiscal agora registra cada tentativa de emissao com erro (codigo cStat, mensagem SEFAZ e numero da tentativa), inclusive no reenvio automatico."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.174/InfoSistemas-Update-7.6.174.zip",
+    "notes":  "v7.6.174 - Exportar XML Saida pelo PORTAL: nova pagina XML Saida no portal de relatorios baixa um ZIP com todos os XMLs de NFC-e do periodo (todos os caixas) + relatorios de Notas e CFOP, sem precisar estar na loja. Requer esta versao da API rodando na loja."
 }
