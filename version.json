@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.183",
+    "version":  "7.6.184",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.183/InfoSistemas-Update-7.6.183.zip",
-    "notes":  "v7.6.183 - Tabela IBPT por arquivo CSV (a API so consulta por produto) + Atualizar Banco de Dados corrigido (fim dos erros graves nos generators; vira manutencao do banco)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.184/InfoSistemas-Update-7.6.184.zip",
+    "notes":  "v7.6.184 - NFC-e: grupo \u003ccard\u003e obrigatorio no cartao credito/debito (corrige rejeicao da SEFAZ) + antecipacao de credito sai com a forma real usada na antecipacao."
 }
