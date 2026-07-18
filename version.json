@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.182",
+    "version":  "7.6.183",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.182/InfoSistemas-Update-7.6.182.zip",
-    "notes":  "v7.6.182 - Usuario MASTER (telas exclusivas do suporte) + Backup do sistema (local gratis + nuvem paga liberada pelo suporte)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.183/InfoSistemas-Update-7.6.183.zip",
+    "notes":  "v7.6.183 - Tabela IBPT por arquivo CSV (a API so consulta por produto) + Atualizar Banco de Dados corrigido (fim dos erros graves nos generators; vira manutencao do banco)."
 }
