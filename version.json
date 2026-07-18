@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.181",
+    "version":  "7.6.182",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.181/InfoSistemas-Update-7.6.181.zip",
-    "notes":  "v7.6.181 - NF-e Entrada: importacao de XML cadastra/completa o fornecedor com os dados completos do emit. DANFE NFC-e homologacao: descricao real do produto no item e aviso de homologacao no rodape."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.182/InfoSistemas-Update-7.6.182.zip",
+    "notes":  "v7.6.182 - Usuario MASTER (telas exclusivas do suporte) + Backup do sistema (local gratis + nuvem paga liberada pelo suporte)."
 }
