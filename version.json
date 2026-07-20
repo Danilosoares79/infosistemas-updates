@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.185",
+    "version":  "7.6.186",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.185/InfoSistemas-Update-7.6.185.zip",
-    "notes":  "v7.6.185 - Reforma Tributaria (IBS/CBS/IS) preparada e homologada, DESLIGADA por padrao (nao altera a operacao atual) + Lei 12.741/2012: cupom com o Valor Aproximado dos Tributos (Fonte IBPT)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.186/InfoSistemas-Update-7.6.186.zip",
+    "notes":  "v7.6.186 - Antecipacao no caixa/cupom com a forma real (dinheiro/credito/debito) + Lei 12.741 (valor aproximado dos tributos) no cupom impresso."
 }
