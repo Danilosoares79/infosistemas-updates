@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.184",
+    "version":  "7.6.185",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.184/InfoSistemas-Update-7.6.184.zip",
-    "notes":  "v7.6.184 - NFC-e: grupo \u003ccard\u003e obrigatorio no cartao credito/debito (corrige rejeicao da SEFAZ) + antecipacao de credito sai com a forma real usada na antecipacao."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.185/InfoSistemas-Update-7.6.185.zip",
+    "notes":  "v7.6.185 - Reforma Tributaria (IBS/CBS/IS) preparada e homologada, DESLIGADA por padrao (nao altera a operacao atual) + Lei 12.741/2012: cupom com o Valor Aproximado dos Tributos (Fonte IBPT)."
 }
