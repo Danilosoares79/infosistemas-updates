@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.188",
+    "version":  "7.6.189",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.188/InfoSistemas-Update-7.6.188.zip",
-    "notes":  "v7.6.188 - Emissao NFC-e via SOAP proprio homologada na SEFAZ-BA (correcoes de assinatura, XML, QR Code e CSC), DANFE nao marca cancelada em nota autorizada, PIX sem exigir dados de cartao (cStat 391) e Numero/Serie no corpo do DANFE."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.189/InfoSistemas-Update-7.6.189.zip",
+    "notes":  "v7.6.189 - PIX corrigido em todas as rotas de emissao (normalizador unico TpagSefaz): PIX sempre sai como tPag 17, sem exigir dados de cartao (fim do cStat 391), independente do cadastro da forma de pagamento."
 }
