@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.187",
+    "version":  "7.6.188",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.187/InfoSistemas-Update-7.6.187.zip",
-    "notes":  "v7.6.187 - Relatorio NFC-e corrigido, autoatendimento so-consulta, trava de caixa por estacao, cancelar/reimprimir NFC-e no PDV, inativar em lote e ajustes no cupom."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.188/InfoSistemas-Update-7.6.188.zip",
+    "notes":  "v7.6.188 - Emissao NFC-e via SOAP proprio homologada na SEFAZ-BA (correcoes de assinatura, XML, QR Code e CSC), DANFE nao marca cancelada em nota autorizada, PIX sem exigir dados de cartao (cStat 391) e Numero/Serie no corpo do DANFE."
 }
