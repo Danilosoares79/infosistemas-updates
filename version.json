@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.186",
+    "version":  "7.6.187",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.186/InfoSistemas-Update-7.6.186.zip",
-    "notes":  "v7.6.186 - Antecipacao no caixa/cupom com a forma real (dinheiro/credito/debito) + Lei 12.741 (valor aproximado dos tributos) no cupom impresso."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.187/InfoSistemas-Update-7.6.187.zip",
+    "notes":  "v7.6.187 - Relatorio NFC-e corrigido, autoatendimento so-consulta, trava de caixa por estacao, cancelar/reimprimir NFC-e no PDV, inativar em lote e ajustes no cupom."
 }
