@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.191",
+    "version":  "7.6.192",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.191/InfoSistemas-Update-7.6.191.zip",
-    "notes":  "v7.6.191 - PIX com \u003ccard\u003e no tPag 17 (fim do cStat 391), cancelar NFC-e ao excluir venda no PDV, cancelar item na mesa sem falso erro/comprovante duplicado, e app do garcom com adicionais/complementos em secoes, limites de quantidade e observacoes de producao (APK novo)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.192/InfoSistemas-Update-7.6.192.zip",
+    "notes":  "v7.6.192 - Menu de lancamentos da mesa/comanda redesenhado em cards por secao (Operacoes, Mais opcoes, Acoes rapidas, Menu e sistema). Mesmos botoes e acoes, mais legiveis. Aplicado no Frente de Caixa e no Mapa de Mesas."
 }
