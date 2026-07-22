@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.189",
+    "version":  "7.6.190",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.189/InfoSistemas-Update-7.6.189.zip",
-    "notes":  "v7.6.189 - PIX corrigido em todas as rotas de emissao (normalizador unico TpagSefaz): PIX sempre sai como tPag 17, sem exigir dados de cartao (fim do cStat 391), independente do cadastro da forma de pagamento."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.190/InfoSistemas-Update-7.6.190.zip",
+    "notes":  "v7.6.190 - Cadastro por variacao (Retaguarda): apos Salvar a tela limpa e volta ao modo novo, para o proximo cadastro criar produtos novos (antes editava a familia anterior)."
 }
