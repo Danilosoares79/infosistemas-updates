@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.193",
+    "version":  "7.6.194",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.193/InfoSistemas-Update-7.6.193.zip",
-    "notes":  "v7.6.193 - Menu de lancamentos em cards um pouco menor (altura 34px) - ficou mais compacto que na 7.6.192, sobrando mais espaco para a lista de itens. Mesmas secoes/botoes/acoes. Frente de Caixa e Mapa de Mesas."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.194/InfoSistemas-Update-7.6.194.zip",
+    "notes":  "v7.6.194 - Janela de lancamento sem Maximizar/Minimizar; Exportar XML Saida com filtro Canceladas + data corrente; botao Exportar XML na tela de NFC-e; e transferencia entre contas blindada (limpa campos apos transferir, motivo obrigatorio, registro de origem/destino/usuario)."
 }
