@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.192",
+    "version":  "7.6.193",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.192/InfoSistemas-Update-7.6.192.zip",
-    "notes":  "v7.6.192 - Menu de lancamentos da mesa/comanda redesenhado em cards por secao (Operacoes, Mais opcoes, Acoes rapidas, Menu e sistema). Mesmos botoes e acoes, mais legiveis. Aplicado no Frente de Caixa e no Mapa de Mesas."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.193/InfoSistemas-Update-7.6.193.zip",
+    "notes":  "v7.6.193 - Menu de lancamentos em cards um pouco menor (altura 34px) - ficou mais compacto que na 7.6.192, sobrando mais espaco para a lista de itens. Mesmas secoes/botoes/acoes. Frente de Caixa e Mapa de Mesas."
 }
