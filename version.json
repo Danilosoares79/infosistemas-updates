@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.194",
+    "version":  "7.6.195",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.194/InfoSistemas-Update-7.6.194.zip",
-    "notes":  "v7.6.194 - Janela de lancamento sem Maximizar/Minimizar; Exportar XML Saida com filtro Canceladas + data corrente; botao Exportar XML na tela de NFC-e; e transferencia entre contas blindada (limpa campos apos transferir, motivo obrigatorio, registro de origem/destino/usuario)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.195/InfoSistemas-Update-7.6.195.zip",
+    "notes":  "v7.6.195 - Cancelar produto cancela junto seus adicionais numa etapa (mesa e cartao, FdC e Mapa de Mesas); janelas de Balcao/Mapa de Mesas/Lancamentos nao cobrem mais a barra de tarefas do Windows; blindagem do cadastro de entregador (colunas garantidas no banco); confirmado combo Marca abre vazio em produto novo."
 }
