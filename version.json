@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.195",
+    "version":  "7.6.196",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.195/InfoSistemas-Update-7.6.195.zip",
-    "notes":  "v7.6.195 - Cancelar produto cancela junto seus adicionais numa etapa (mesa e cartao, FdC e Mapa de Mesas); janelas de Balcao/Mapa de Mesas/Lancamentos nao cobrem mais a barra de tarefas do Windows; blindagem do cadastro de entregador (colunas garantidas no banco); confirmado combo Marca abre vazio em produto novo."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.196/InfoSistemas-Update-7.6.196.zip",
+    "notes":  "v7.6.196 - Exportar XML Saida agora inclui NF-e (55) alem de NFC-e (65) e sai em ZIPs separados por modelo (XML NFCe/XML NFe + periodo); NF-e grava o XML no banco; corrigido erro PK_PESSOA no cadastro rapido da Recepcao (modulo, Retaguarda e API); e a ordem dos campos do Pedido de Compra (Produto, Qtd, Vlr Un)."
 }
