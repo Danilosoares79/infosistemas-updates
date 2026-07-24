@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.196",
+    "version":  "7.6.197",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.196/InfoSistemas-Update-7.6.196.zip",
-    "notes":  "v7.6.196 - Exportar XML Saida agora inclui NF-e (55) alem de NFC-e (65) e sai em ZIPs separados por modelo (XML NFCe/XML NFe + periodo); NF-e grava o XML no banco; corrigido erro PK_PESSOA no cadastro rapido da Recepcao (modulo, Retaguarda e API); e a ordem dos campos do Pedido de Compra (Produto, Qtd, Vlr Un)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.197/InfoSistemas-Update-7.6.197.zip",
+    "notes":  "v7.6.197 - Layout final da tela de lancamentos (lista maior, cards junto aos totais, PAGAMENTO/IMPRIMIR CONTA em destaque, barra inferior compacta) nas duas telas; corrigido Arg_KeyNotFound ao cancelar item pelo APK/navegador do garcom (API devolve mensagem no sucesso); campo Marca do cadastro de produto com opcao (nenhuma); rotulos COUVERT e TAXA SERVICO nos totais da comanda."
 }
