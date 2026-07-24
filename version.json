@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.197",
+    "version":  "7.6.198",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.197/InfoSistemas-Update-7.6.197.zip",
-    "notes":  "v7.6.197 - Layout final da tela de lancamentos (lista maior, cards junto aos totais, PAGAMENTO/IMPRIMIR CONTA em destaque, barra inferior compacta) nas duas telas; corrigido Arg_KeyNotFound ao cancelar item pelo APK/navegador do garcom (API devolve mensagem no sucesso); campo Marca do cadastro de produto com opcao (nenhuma); rotulos COUVERT e TAXA SERVICO nos totais da comanda."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.198/InfoSistemas-Update-7.6.198.zip",
+    "notes":  "v7.6.198 - Caixa: Situacao do Caixa mostra abertura/suprimentos/sangrias reais; Fechamento com dinheiro da gaveta correto (soma vendas em dinheiro); sangria limitada ao dinheiro em especie. Mesas: mesa paga fica verde na hora; mesa aberta sem lancamentos pergunta se abandona e volta a Livre. Conferencia Completa de Caixa com filtro por usuario correto (vinculo pelo lote). NOVO: adicionais POR UNIDADE - qtd \u003e 1 abre uma guia por unidade e cada uma vira uma linha propria com seus adicionais (impressao de producao separada)."
 }
