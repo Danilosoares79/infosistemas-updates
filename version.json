@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.198",
+    "version":  "7.6.199",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.198/InfoSistemas-Update-7.6.198.zip",
-    "notes":  "v7.6.198 - Caixa: Situacao do Caixa mostra abertura/suprimentos/sangrias reais; Fechamento com dinheiro da gaveta correto (soma vendas em dinheiro); sangria limitada ao dinheiro em especie. Mesas: mesa paga fica verde na hora; mesa aberta sem lancamentos pergunta se abandona e volta a Livre. Conferencia Completa de Caixa com filtro por usuario correto (vinculo pelo lote). NOVO: adicionais POR UNIDADE - qtd \u003e 1 abre uma guia por unidade e cada uma vira uma linha propria com seus adicionais (impressao de producao separada)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.199/InfoSistemas-Update-7.6.199.zip",
+    "notes":  "v7.6.199 - Complemento da 7.6.198: Fechamento de Caixa da Retaguarda com o dinheiro da gaveta correto (soma vendas em dinheiro) e classificacao robusta; adicionais POR UNIDADE tambem no BALCAO e no DELIVERY (qtd \u003e 1 abre uma guia por unidade e cada unidade vira uma linha propria com seus adicionais). Recurso cobre mesa, cartao, balcao e delivery."
 }
