@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.200",
+    "version":  "7.6.201",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.200/InfoSistemas-Update-7.6.200.zip",
-    "notes":  "v7.6.200 - Fechamento de Caixa: sem botao Imprimir; ao confirmar o fechamento imprime automatico os 2 relatorios (valores informados + valores do sistema), iguais ao fechamento as cegas (Frente de Caixa e Retaguarda). Lancamentos: comanda desce ate o rodape e botoes Pagamento/Imprimir em destaque. Garcom (app): cancelamento exige justificativa sempre (aceita texto curto) e fica bloqueado quando a API esta offline."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.201/InfoSistemas-Update-7.6.201.zip",
+    "notes":  "v7.6.201 - Mesa volta a Livre (verde) na hora ao receber a conta (guarda: sem pedido aberto = Livre) no Frente de Caixa e Mapa de Mesas. Comprovante de fechamento mostra a data de ABERTURA real do caixa (FdC e Retaguarda). Tela de lancamento em tela cheia fixa, sem redimensionar. App do garcom volta ao mapa de mesas apos confirmar os itens."
 }
