@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.199",
+    "version":  "7.6.200",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.199/InfoSistemas-Update-7.6.199.zip",
-    "notes":  "v7.6.199 - Complemento da 7.6.198: Fechamento de Caixa da Retaguarda com o dinheiro da gaveta correto (soma vendas em dinheiro) e classificacao robusta; adicionais POR UNIDADE tambem no BALCAO e no DELIVERY (qtd \u003e 1 abre uma guia por unidade e cada unidade vira uma linha propria com seus adicionais). Recurso cobre mesa, cartao, balcao e delivery."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.200/InfoSistemas-Update-7.6.200.zip",
+    "notes":  "v7.6.200 - Fechamento de Caixa: sem botao Imprimir; ao confirmar o fechamento imprime automatico os 2 relatorios (valores informados + valores do sistema), iguais ao fechamento as cegas (Frente de Caixa e Retaguarda). Lancamentos: comanda desce ate o rodape e botoes Pagamento/Imprimir em destaque. Garcom (app): cancelamento exige justificativa sempre (aceita texto curto) e fica bloqueado quando a API esta offline."
 }
