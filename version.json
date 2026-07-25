@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.201",
+    "version":  "7.6.203",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.201/InfoSistemas-Update-7.6.201.zip",
-    "notes":  "v7.6.201 - Mesa volta a Livre (verde) na hora ao receber a conta (guarda: sem pedido aberto = Livre) no Frente de Caixa e Mapa de Mesas. Comprovante de fechamento mostra a data de ABERTURA real do caixa (FdC e Retaguarda). Tela de lancamento em tela cheia fixa, sem redimensionar. App do garcom volta ao mapa de mesas apos confirmar os itens."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.203/InfoSistemas-Update-7.6.203.zip",
+    "notes":  "v7.6.203 - MODULO SPED FISCAL: EFD ICMS/IPI (leiaute 020) e EFD Contribuicoes direto da Retaguarda (Compras \u003e Fiscal \u003e Obrigacoes Acessorias), com validador V01-V18 que bloqueia geracao com cadastro incompleto, Apuracao ICMS, Inventario SPED, registro 1601 (cartoes/PIX), cadastros de credenciadoras/parametros e aba SPED/Contabilista na Empresa. Validado no PVA oficial da Receita. Arquivos saem como TESTE ate a homologacao da contabilidade de cada cliente."
 }
