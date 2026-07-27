@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.205",
+    "version":  "7.6.206",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.205/InfoSistemas-Update-7.6.205.zip",
-    "notes":  "v7.6.205 - Mascaras visuais de CPF/CNPJ/Telefone nos cadastros (Recepcao, Pessoa/Fornecedor, Entregador, Empresa/Contabilista e Credenciadora SPED). Formatacao apenas visual; o sistema continua gravando so os digitos (seguro para NF-e e SPED)."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.206/InfoSistemas-Update-7.6.206.zip",
+    "notes":  "v7.6.206 - Comprovante de Fechamento de Caixa: TOTAIS GERADAS mostra so as vendas fechadas via GERAR ainda nao enviadas (pendentes), e TOTAL GERAL passa a somar ENVIADAS + GERADAS por forma de pagamento. FdC e Retaguarda."
 }
