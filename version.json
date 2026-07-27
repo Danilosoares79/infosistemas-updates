@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.206",
+    "version":  "7.6.207",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.206/InfoSistemas-Update-7.6.206.zip",
-    "notes":  "v7.6.206 - Comprovante de Fechamento de Caixa: TOTAIS GERADAS mostra so as vendas fechadas via GERAR ainda nao enviadas (pendentes), e TOTAL GERAL passa a somar ENVIADAS + GERADAS por forma de pagamento. FdC e Retaguarda."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.207/InfoSistemas-Update-7.6.207.zip",
+    "notes":  "v7.6.207 - Saldo real do caixa: TOTAL GERAL do comprovante de fechamento faz Subtotal Vendas + Abertura + Suprimentos - Sangrias; e o rodape do relatorio Conferencia Completa de Caixa mostra o Saldo Real (respeitando os filtros) em vez de somar tudo."
 }
