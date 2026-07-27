@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.204",
+    "version":  "7.6.205",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.204/InfoSistemas-Update-7.6.204.zip",
-    "notes":  "v7.6.204 - Correcao do cadastro de Entregadores (grava todos os campos, nao so o nome) + blindagem do Atualizador com verificacao pos-copia por hash SHA256, garantindo que todas as DLLs sejam realmente substituidas na atualizacao."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.205/InfoSistemas-Update-7.6.205.zip",
+    "notes":  "v7.6.205 - Mascaras visuais de CPF/CNPJ/Telefone nos cadastros (Recepcao, Pessoa/Fornecedor, Entregador, Empresa/Contabilista e Credenciadora SPED). Formatacao apenas visual; o sistema continua gravando so os digitos (seguro para NF-e e SPED)."
 }
