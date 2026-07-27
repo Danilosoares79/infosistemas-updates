@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.207",
+    "version":  "7.6.208",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.207/InfoSistemas-Update-7.6.207.zip",
-    "notes":  "v7.6.207 - Saldo real do caixa: TOTAL GERAL do comprovante de fechamento faz Subtotal Vendas + Abertura + Suprimentos - Sangrias; e o rodape do relatorio Conferencia Completa de Caixa mostra o Saldo Real (respeitando os filtros) em vez de somar tudo."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.208/InfoSistemas-Update-7.6.208.zip",
+    "notes":  "v7.6.208 - Correcao critica: NFC-e/NF-e voltam a enviar o codigo IBGE do municipio (cMunFG) corretamente (era 0 por regressao do SPED). Nova funcao: Reimpressao de Fechamento de Caixa (pesquisa por usuario/data de abertura/fechamento) no MENU do Frente de Caixa e na Retaguarda (Financeiro), imprimindo identico ao fechamento, com permissao propria."
 }
