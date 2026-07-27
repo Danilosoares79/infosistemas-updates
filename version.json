@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.203",
+    "version":  "7.6.204",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.203/InfoSistemas-Update-7.6.203.zip",
-    "notes":  "v7.6.203 - MODULO SPED FISCAL: EFD ICMS/IPI (leiaute 020) e EFD Contribuicoes direto da Retaguarda (Compras \u003e Fiscal \u003e Obrigacoes Acessorias), com validador V01-V18 que bloqueia geracao com cadastro incompleto, Apuracao ICMS, Inventario SPED, registro 1601 (cartoes/PIX), cadastros de credenciadoras/parametros e aba SPED/Contabilista na Empresa. Validado no PVA oficial da Receita. Arquivos saem como TESTE ate a homologacao da contabilidade de cada cliente."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.204/InfoSistemas-Update-7.6.204.zip",
+    "notes":  "v7.6.204 - Correcao do cadastro de Entregadores (grava todos os campos, nao so o nome) + blindagem do Atualizador com verificacao pos-copia por hash SHA256, garantindo que todas as DLLs sejam realmente substituidas na atualizacao."
 }
