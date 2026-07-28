@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.209",
+    "version":  "7.6.210",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.209/InfoSistemas-Update-7.6.209.zip",
-    "notes":  "v7.6.209 - Tela de lancamento 100% FIXA (definitivo) em todas as telas com esse formato: Mesa/Comanda (Frente de Caixa e Mapa de Mesas) e Delivery. Removida a barra de titulo do Windows (por onde se arrastava), bloqueio de mover/redimensionar no nivel do Windows e garantia de tela cheia na area de trabalho."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.210/InfoSistemas-Update-7.6.210.zip",
+    "notes":  "v7.6.210 - Padronizacao de impressao e adicionais entre PDV e APK do garcom. Espelho de producao do APK identico ao PDV (timestamp por item, sabores e adicionais). APK volta a imprimir so os itens novos (fix da coluna IMPRESSO). Cancelamento pelo APK imprime o motivo real. Adicionais por unidade (aba por unidade) no APK. Pizza combinada: sabores na grid do PDV (Mesa/Mapa) e selecao no APK."
 }
