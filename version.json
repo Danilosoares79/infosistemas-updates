@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.208",
+    "version":  "7.6.209",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.208/InfoSistemas-Update-7.6.208.zip",
-    "notes":  "v7.6.208 - Correcao critica: NFC-e/NF-e voltam a enviar o codigo IBGE do municipio (cMunFG) corretamente (era 0 por regressao do SPED). Nova funcao: Reimpressao de Fechamento de Caixa (pesquisa por usuario/data de abertura/fechamento) no MENU do Frente de Caixa e na Retaguarda (Financeiro), imprimindo identico ao fechamento, com permissao propria."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.209/InfoSistemas-Update-7.6.209.zip",
+    "notes":  "v7.6.209 - Tela de lancamento 100% FIXA (definitivo) em todas as telas com esse formato: Mesa/Comanda (Frente de Caixa e Mapa de Mesas) e Delivery. Removida a barra de titulo do Windows (por onde se arrastava), bloqueio de mover/redimensionar no nivel do Windows e garantia de tela cheia na area de trabalho."
 }
