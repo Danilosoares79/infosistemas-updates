@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.210",
+    "version":  "7.6.211",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.210/InfoSistemas-Update-7.6.210.zip",
-    "notes":  "v7.6.210 - Padronizacao de impressao e adicionais entre PDV e APK do garcom. Espelho de producao do APK identico ao PDV (timestamp por item, sabores e adicionais). APK volta a imprimir so os itens novos (fix da coluna IMPRESSO). Cancelamento pelo APK imprime o motivo real. Adicionais por unidade (aba por unidade) no APK. Pizza combinada: sabores na grid do PDV (Mesa/Mapa) e selecao no APK."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.211/InfoSistemas-Update-7.6.211.zip",
+    "notes":  "v7.6.211 - Correcao fiscal NFC-e: pizza combinada voltou a emitir (sabores cod.0 sem fiscal bloqueavam) e itens de valor ZERO (sabores/complementos) nao viram mais linha de item - entram como Informacao Adicional do Produto (infAdProd) embaixo do item pago. Some o bloqueio por cod.0 e a linha vProd=0 no cupom/SEFAZ; o cliente continua vendo os sabores. Vale na emissao e na reimpressao. Total inalterado."
 }
