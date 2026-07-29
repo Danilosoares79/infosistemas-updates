@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.214",
+    "version":  "7.6.215",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.214/InfoSistemas-Update-7.6.214.zip",
-    "notes":  "v7.6.214 - RDM/Producao e Pendura. (1) Nova Solicitacao de RDM lista somente produtos cadastrados como Insumo (tipo C). (2) Producao via RDM Atendida reformulada: removidas as colunas Produto Produzivel e Qtd Max do grid de cima; ao clicar num insumo, o grid de baixo lista TODOS os Pre-Produzidos que o consomem, com Requisitado, Disponivel (RDM), Insumo/Unid e Quantidade Maxima Produzivel - escolha o produto para produzir. (3) Recebimento de pendura: ao finalizar a forma de pagamento, emite automaticamente NFC-e + DANFE da venda com data atual. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.215/InfoSistemas-Update-7.6.215.zip",
+    "notes":  "v7.6.215 - Producao via RDM no navegador (Retaguarda Web / rdm.html) com paridade ao desktop: escolha o insumo atendido e o sistema lista os Pre-Produzidos que o consomem, com a quantidade maxima produzivel pelo disponivel da RDM; selecione o produto e produza. Novo endpoint GET /api/producao/pps-por-insumo. Baixa de estoque e abatimento da RDM inalterados. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
