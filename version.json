@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.211",
+    "version":  "7.6.212",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.211/InfoSistemas-Update-7.6.211.zip",
-    "notes":  "v7.6.211 - Correcao fiscal NFC-e: pizza combinada voltou a emitir (sabores cod.0 sem fiscal bloqueavam) e itens de valor ZERO (sabores/complementos) nao viram mais linha de item - entram como Informacao Adicional do Produto (infAdProd) embaixo do item pago. Some o bloqueio por cod.0 e a linha vProd=0 no cupom/SEFAZ; o cliente continua vendo os sabores. Vale na emissao e na reimpressao. Total inalterado."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.212/InfoSistemas-Update-7.6.212.zip",
+    "notes":  "v7.6.212 - CORRECAO FISCAL CRITICA: pizza combinada / adicionais de valor zero voltam a emitir NFC-e. O texto de infAdProd (sabores/complementos) nao aceitava quebra de linha e era rejeitado pelo schema (Pattern constraint) - agora e sanitizado na emissao. + App do garcom (APK 1.0.22): adicional respeita a quantidade do cadastro. + Modulo web do garcom: quantidade fracionada (KG), selecao de adicionais e campo de motivo no cancelamento. + Cadastro: bloqueio de minimo maior que maximo. + PDV/Mapa voltam a lancar produto com adicionais. + Espirito Santo: tabelas IBPT (BA+ES) na instalacao, auto-update por API e QR/consulta da NFC-e por UF."
 }
