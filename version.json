@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.212",
+    "version":  "7.6.213",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.212/InfoSistemas-Update-7.6.212.zip",
-    "notes":  "v7.6.212 - CORRECAO FISCAL CRITICA: pizza combinada / adicionais de valor zero voltam a emitir NFC-e. O texto de infAdProd (sabores/complementos) nao aceitava quebra de linha e era rejeitado pelo schema (Pattern constraint) - agora e sanitizado na emissao. + App do garcom (APK 1.0.22): adicional respeita a quantidade do cadastro. + Modulo web do garcom: quantidade fracionada (KG), selecao de adicionais e campo de motivo no cancelamento. + Cadastro: bloqueio de minimo maior que maximo. + PDV/Mapa voltam a lancar produto com adicionais. + Espirito Santo: tabelas IBPT (BA+ES) na instalacao, auto-update por API e QR/consulta da NFC-e por UF."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.213/InfoSistemas-Update-7.6.213.zip",
+    "notes":  "v7.6.213 - Mesa/Cartao: abandono de lancamento nao e mais cancelamento. Quando o operador comeca a lancar no Frente de Caixa ou Mapa de Mesas e desiste ANTES de confirmar/imprimir (fecha o popup de adicionais obrigatorios, ou cancela um item recem-adicionado que ainda nao foi para a cozinha), o item agora e DESCARTADO (linha removida) em vez de virar cancelamento - some do relatorio de Mesas/Cartoes Cancelados. So conta como cancelado o item ja CONFIRMADO/IMPRESSO que depois foi cancelado (esse continua no relatorio com usuario, motivo e data). Estoque nao afetado. Sem mudanca de banco. APK do garcom mantido em 1.0.22."
 }
