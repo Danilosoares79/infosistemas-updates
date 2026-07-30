@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.216",
+    "version":  "7.6.217",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.216/InfoSistemas-Update-7.6.216.zip",
-    "notes":  "v7.6.216 - Programa de Fidelidade completo (4 modos: Pontos, Cashback, Desconto por Meta e Compre\u0026Ganhe) com configuracao em Cadastros -\u003e Fidelidade, acumulo automatico no fechamento com CPF em todos os modulos, cadastro de cliente com opt-in LGPD, botao Fidelidade nas telas de pagamento para resgate como desconto, estorno automatico no cancelamento, Catalogo de Resgate e Relatorios/Extrato na Retaguarda e expiracao automatica diaria pela Api (tabelas FIDELIDADE_* criadas automaticamente). WhatsApp no Delivery via wa.me (custo zero): templates configuraveis por status em Sistema -\u003e WhatsApp, mensagem pronta ao aceitar/rejeitar pedido, sair para entrega e cancelar. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.217/InfoSistemas-Update-7.6.217.zip",
+    "notes":  "v7.6.217 - Fiscal: NFC-e/NF-e em homologacao (tpAmb=2) com xNome do destinatario padrao SEFAZ, corrigindo rejeicao cStat 598 no acerto de pendura (FiscalMoc70, NfceXmlService e NF-e modelo 55; producao inalterada). Garcom Web: produto com adicionais e quantidade maior que 1 agora configura adicionais por unidade (Unidade X de N, com Repetir para as demais), enviando N itens de qtd 1 na mesma transacao - paridade com PDV/APK. Fidelidade: busca de produtos do Catalogo de Resgate lista somente itens Tipo Produto (P). Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
