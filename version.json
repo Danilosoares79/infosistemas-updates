@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.218",
+    "version":  "7.6.219",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.218/InfoSistemas-Update-7.6.218.zip",
-    "notes":  "v7.6.218 - Receber Pendura/Fiado: ao selecionar a forma de pagamento, somente DINHEIRO permite digitar o valor (pagamento parcial/troco). Nas demais formas (cartao credito/debito, PIX, cheque etc.) o valor vem preenchido com o restante a pagar e travado (sem digitacao e sem setas), com rotulo Valor (R$) - fixo, quitacao total. Regra vale para qualquer forma cujo nome nao contenha DINHEIRO. Baixa de Pre-Venda inalterada. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.219/InfoSistemas-Update-7.6.219.zip",
+    "notes":  "v7.6.219 - Delivery online + Autoatendimento (7 ajustes): comanda de producao do delivery imprime adicionais no padrao unificado do PDV/APK; modal de adicionais do site realinhado; delivery aceita quantidade fracionada em produtos por peso; delivery com OBS pre-definidas (chips) + texto livre; tema/cores do cardapio aplicados no site do delivery; autoatendimento (mesa.html) com adicionais por grupo (min/max), OBS e adicionais por unidade quando qtd \u003e 1; autoatendimento com quantidade fracionada por peso. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
