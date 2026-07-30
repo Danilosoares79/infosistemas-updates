@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.217",
+    "version":  "7.6.218",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.217/InfoSistemas-Update-7.6.217.zip",
-    "notes":  "v7.6.217 - Fiscal: NFC-e/NF-e em homologacao (tpAmb=2) com xNome do destinatario padrao SEFAZ, corrigindo rejeicao cStat 598 no acerto de pendura (FiscalMoc70, NfceXmlService e NF-e modelo 55; producao inalterada). Garcom Web: produto com adicionais e quantidade maior que 1 agora configura adicionais por unidade (Unidade X de N, com Repetir para as demais), enviando N itens de qtd 1 na mesma transacao - paridade com PDV/APK. Fidelidade: busca de produtos do Catalogo de Resgate lista somente itens Tipo Produto (P). Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.218/InfoSistemas-Update-7.6.218.zip",
+    "notes":  "v7.6.218 - Receber Pendura/Fiado: ao selecionar a forma de pagamento, somente DINHEIRO permite digitar o valor (pagamento parcial/troco). Nas demais formas (cartao credito/debito, PIX, cheque etc.) o valor vem preenchido com o restante a pagar e travado (sem digitacao e sem setas), com rotulo Valor (R$) - fixo, quitacao total. Regra vale para qualquer forma cujo nome nao contenha DINHEIRO. Baixa de Pre-Venda inalterada. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
