@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.215",
+    "version":  "7.6.216",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.215/InfoSistemas-Update-7.6.215.zip",
-    "notes":  "v7.6.215 - Producao via RDM no navegador (Retaguarda Web / rdm.html) com paridade ao desktop: escolha o insumo atendido e o sistema lista os Pre-Produzidos que o consomem, com a quantidade maxima produzivel pelo disponivel da RDM; selecione o produto e produza. Novo endpoint GET /api/producao/pps-por-insumo. Baixa de estoque e abatimento da RDM inalterados. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.216/InfoSistemas-Update-7.6.216.zip",
+    "notes":  "v7.6.216 - Programa de Fidelidade completo (4 modos: Pontos, Cashback, Desconto por Meta e Compre\u0026Ganhe) com configuracao em Cadastros -\u003e Fidelidade, acumulo automatico no fechamento com CPF em todos os modulos, cadastro de cliente com opt-in LGPD, botao Fidelidade nas telas de pagamento para resgate como desconto, estorno automatico no cancelamento, Catalogo de Resgate e Relatorios/Extrato na Retaguarda e expiracao automatica diaria pela Api (tabelas FIDELIDADE_* criadas automaticamente). WhatsApp no Delivery via wa.me (custo zero): templates configuraveis por status em Sistema -\u003e WhatsApp, mensagem pronta ao aceitar/rejeitar pedido, sair para entrega e cancelar. APK do garcom mantido em 1.0.22."
 }
