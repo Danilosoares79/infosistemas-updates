@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.220",
+    "version":  "7.6.221",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.220/InfoSistemas-Update-7.6.220.zip",
-    "notes":  "v7.6.220 - Correcoes: OBS globais da empresa como chips no cardapio (delivery, autoatendimento e garcom) quando o produto nao tem vinculo em PRODUTO_OBS_PRODUCAO; autoatendimento com erro 500 na rota /api/modo corrigido (rota duplicada) - mesa.html volta a permitir pedidos/adicionais/OBS; secao Sync do appsettings preservada no publish e restart injeta variaveis do nuvem.json (dashboards do portal recebem dados da loja); mesa (FdC e Mapa) avisa e descarta itens lancados nao confirmados ao sair da tela (sem imprimir); delivery online com modal Complementos | Adicionais no padrao do garcom. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.221/InfoSistemas-Update-7.6.221.zip",
+    "notes":  "v7.6.221 - Tunel loja-\u003enuvem blindado contra o Windows Defender (excecao automatica em C:\\InfoSistemas\\tunel + tarefa SYSTEM InfoSistemas-Tunel no boot/5min; migracao automatica nas lojas ja ativadas); prevencao de cadastros duplicados (pessoa por CPF/CNPJ, forma de pagamento por descricao, seed SEFAZ por descricao); pendura com multiplas formas de pagamento editaveis e liberacao automatica da mesa ao fechar; mesa: pagamento sem confirmar imprime a producao e nao mostra aviso de abandono; caixa: vendas em pendura aparecem como PENDURA; build 100% limpo (0 avisos, 0 erros); portal v30 com modal Complementos|Adicionais no autoatendimento da nuvem. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
