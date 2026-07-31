@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.219",
+    "version":  "7.6.220",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.219/InfoSistemas-Update-7.6.219.zip",
-    "notes":  "v7.6.219 - Delivery online + Autoatendimento (7 ajustes): comanda de producao do delivery imprime adicionais no padrao unificado do PDV/APK; modal de adicionais do site realinhado; delivery aceita quantidade fracionada em produtos por peso; delivery com OBS pre-definidas (chips) + texto livre; tema/cores do cardapio aplicados no site do delivery; autoatendimento (mesa.html) com adicionais por grupo (min/max), OBS e adicionais por unidade quando qtd \u003e 1; autoatendimento com quantidade fracionada por peso. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.220/InfoSistemas-Update-7.6.220.zip",
+    "notes":  "v7.6.220 - Correcoes: OBS globais da empresa como chips no cardapio (delivery, autoatendimento e garcom) quando o produto nao tem vinculo em PRODUTO_OBS_PRODUCAO; autoatendimento com erro 500 na rota /api/modo corrigido (rota duplicada) - mesa.html volta a permitir pedidos/adicionais/OBS; secao Sync do appsettings preservada no publish e restart injeta variaveis do nuvem.json (dashboards do portal recebem dados da loja); mesa (FdC e Mapa) avisa e descarta itens lancados nao confirmados ao sair da tela (sem imprimir); delivery online com modal Complementos | Adicionais no padrao do garcom. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
 }
