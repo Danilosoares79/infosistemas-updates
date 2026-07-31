@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.222",
+    "version":  "7.6.223",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.222/InfoSistemas-Update-7.6.222.zip",
-    "notes":  "v7.6.222 - Fiscal: NFC-e REJEITADA (cStat \u003e= 200) separada de OFFLINE (rejeitada sai do reenvio automatico; offline continua reenviando sozinha); Vendas Realizadas com checkbox de selecao e reenvio em lote das notas com erro; fechamento nao-travante (emissao aguarda ate 20s e conclui em segundo plano se a SEFAZ estiver lenta). Delivery: corrigida violacao de PRIMARY KEY DELIVERY_MASTER em pedidos do site/iFood (todos os caminhos usam MAX+1); bairro duplicado bloqueado; novo status EM PREPARO com menu de clique-direito; ao mudar status permanece na tela do delivery; produto por KG abre janela de peso automaticamente no delivery desktop. Cadastro: clonagem de produto traz grupos de Complementos/Adicionais; etiqueta de balanca (2 + codigo 6 dig + valor 5 dig + verificador) identifica o produto e calcula o peso pelo valor embutido. Sem alteracao de banco. APK do garcom mantido em 1.0.22."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.223/InfoSistemas-Update-7.6.223.zip",
+    "notes":  "v7.6.223 - Pendura: FECHAR COMO PENDURA confirma o pedido (imprime a producao dos itens pendentes e nao descarta mais itens nao confirmados); totais recalculados antes de fechar como pendura (corrige pendura gravada com VALOR R$ 0,00 no Contas a Receber que impedia a NFC-e no recebimento - a emissao da 7.6.214 esta integra); bloqueio de pendura com total R$ 0,00 nas duas telas (mesa e Fechar Pendura). App do garcom (APK 1.0.23): modal de adicionais/quantidade com rolagem (ScrollView, altura maxima ~85% da tela) - botao Adicionar ao Pedido sempre acessivel. Sem alteracao de estrutura de banco. APK atualizado para 1.0.23."
 }
