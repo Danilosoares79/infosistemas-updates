@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.223",
+    "version":  "7.6.224",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.223/InfoSistemas-Update-7.6.223.zip",
-    "notes":  "v7.6.223 - Pendura: FECHAR COMO PENDURA confirma o pedido (imprime a producao dos itens pendentes e nao descarta mais itens nao confirmados); totais recalculados antes de fechar como pendura (corrige pendura gravada com VALOR R$ 0,00 no Contas a Receber que impedia a NFC-e no recebimento - a emissao da 7.6.214 esta integra); bloqueio de pendura com total R$ 0,00 nas duas telas (mesa e Fechar Pendura). App do garcom (APK 1.0.23): modal de adicionais/quantidade com rolagem (ScrollView, altura maxima ~85% da tela) - botao Adicionar ao Pedido sempre acessivel. Sem alteracao de estrutura de banco. APK atualizado para 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.224/InfoSistemas-Update-7.6.224.zip",
+    "notes":  "v7.6.224 - Correcao: o codigo de barras do produto sumia do cadastro. Causa: ObterAsync/ObterPorCodigoBarrasAsync usavam SELECT * e o Dapper nao mapeava a coluna CODBARRA para a propriedade CodigoBarras (nomes diferentes, sem underscore) - ao abrir o produto para editar o campo vinha vazio e o Salvar seguinte gravava CODBARRA em branco. Agora as duas consultas usam alias explicito (PRODUTOS.CODBARRA AS CodigoBarras). Corrige a leitura de etiqueta de balanca por produto com preco (o CODBARRA cadastrado nao e mais apagado ao reabrir o cadastro). Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
 }
