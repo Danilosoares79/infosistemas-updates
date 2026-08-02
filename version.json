@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.224",
+    "version":  "7.6.225",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.224/InfoSistemas-Update-7.6.224.zip",
-    "notes":  "v7.6.224 - Correcao: o codigo de barras do produto sumia do cadastro. Causa: ObterAsync/ObterPorCodigoBarrasAsync usavam SELECT * e o Dapper nao mapeava a coluna CODBARRA para a propriedade CodigoBarras (nomes diferentes, sem underscore) - ao abrir o produto para editar o campo vinha vazio e o Salvar seguinte gravava CODBARRA em branco. Agora as duas consultas usam alias explicito (PRODUTOS.CODBARRA AS CodigoBarras). Corrige a leitura de etiqueta de balanca por produto com preco (o CODBARRA cadastrado nao e mais apagado ao reabrir o cadastro). Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.225/InfoSistemas-Update-7.6.225.zip",
+    "notes":  "v7.6.225 - White Label: rodape do cupom passa a usar a marca da revenda (Branding.RodapeCupom) nos 24 pontos de impressao - identico quando nao ha revenda, muda para o parceiro quando houver. Inicializacao automatica do tunel+API agora e OCULTA: o .cmd saiu da pasta Inicializar (a API e console e a janela ficava visivel o tempo todo); um .vbs sobe tudo escondido. Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
 }
