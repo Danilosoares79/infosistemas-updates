@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.225",
+    "version":  "7.6.226",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.225/InfoSistemas-Update-7.6.225.zip",
-    "notes":  "v7.6.225 - White Label: rodape do cupom passa a usar a marca da revenda (Branding.RodapeCupom) nos 24 pontos de impressao - identico quando nao ha revenda, muda para o parceiro quando houver. Inicializacao automatica do tunel+API agora e OCULTA: o .cmd saiu da pasta Inicializar (a API e console e a janela ficava visivel o tempo todo); um .vbs sobe tudo escondido. Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.226/InfoSistemas-Update-7.6.226.zip",
+    "notes":  "v7.6.226 - White Label: download automatico da marca da revenda. Ao validar a licenca o PDV grava sozinho o marca.json + marca_logo.png (nome, slogan, rodape, cor e logo) e o login dos 3 modulos passa a exibir nome, slogan e cor da revenda. Sem revenda, volta ao padrao InfoSistemas. Pre-requisitos: logo na revenda + cliente vinculado a revenda no License Manager + PDV na 7.6.226. Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
 }
