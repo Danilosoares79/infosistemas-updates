@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.226",
+    "version":  "7.6.227",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.226/InfoSistemas-Update-7.6.226.zip",
-    "notes":  "v7.6.226 - White Label: download automatico da marca da revenda. Ao validar a licenca o PDV grava sozinho o marca.json + marca_logo.png (nome, slogan, rodape, cor e logo) e o login dos 3 modulos passa a exibir nome, slogan e cor da revenda. Sem revenda, volta ao padrao InfoSistemas. Pre-requisitos: logo na revenda + cliente vinculado a revenda no License Manager + PDV na 7.6.226. Sem alteracao de estrutura de banco. APK mantido em 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.227/InfoSistemas-Update-7.6.227.zip",
+    "notes":  "v7.6.227 - White Label tambem na tela de carregamento (nome+cor), no titulo e rodape da Retaguarda, e cor de fundo do login definida pela revenda (nova opcao no License Manager). Frente de Caixa: apertar ENTER varias vezes rapido nao duplica mais o item (trava de reentrancia). Sem revenda, identidade InfoSistemas padrao. Sem alteracao de banco da loja. APK 1.0.23."
 }
