@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.231",
+    "version":  "7.6.232",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.231/InfoSistemas-Update-7.6.231.zip",
-    "notes":  "v7.6.231 - APK do garcom 1.0.24: corrigido o icone do aplicativo (aparecia o icone padrao do Android). Manifesto passou a declarar android:icon/android:roundIcon explicitamente. Modulos do PDV sem alteracao de codigo. Sem alteracao de banco."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.232/InfoSistemas-Update-7.6.232.zip",
+    "notes":  "v7.6.232 - Dashboards em TEMPO REAL: mesas/cartoes abertos agora refletem o estado ATUAL (sem filtro por data de abertura). Confirmados do autoatendimento contam como abertos (antes viravam cancelados). Painel do portal valida pedido vivo (mesa presa nao fica ocupada para sempre) e delivery mostra so a data atual. App do garcom idem. Sem alteracao de banco. APK 1.0.24."
 }
