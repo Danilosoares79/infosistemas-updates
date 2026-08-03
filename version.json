@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.227",
+    "version":  "7.6.228",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.227/InfoSistemas-Update-7.6.227.zip",
-    "notes":  "v7.6.227 - White Label tambem na tela de carregamento (nome+cor), no titulo e rodape da Retaguarda, e cor de fundo do login definida pela revenda (nova opcao no License Manager). Frente de Caixa: apertar ENTER varias vezes rapido nao duplica mais o item (trava de reentrancia). Sem revenda, identidade InfoSistemas padrao. Sem alteracao de banco da loja. APK 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.228/InfoSistemas-Update-7.6.228.zip",
+    "notes":  "v7.6.228 - White Label: login da RECEPCAO agora segue a marca da revenda (logo, nome, slogan, cor de destaque e cor de fundo); rodape impresso dos RELATORIOS usa o nome do produto da revenda. Correcao: grid de Vendas Realizadas (Frente de Caixa) quebrava em telas 125% DPI - a coluna checkbox estava em Fill e colapsava as colunas; agora tem largura fixa e a linha altura fixa (atende 125/150/200%). Sem revenda, tudo InfoSistemas padrao. Sem alteracao de banco. APK 1.0.23."
 }
