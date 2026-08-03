@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.230",
+    "version":  "7.6.231",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.230/InfoSistemas-Update-7.6.230.zip",
-    "notes":  "v7.6.230 - Producao: item so imprime com impressora no item ou no grupo (sem cair na impressora de conta). Vendas Realizadas (FC): NFC-e autorizada imprime DANFE, gerada imprime recibo. Fiscal: IE do emitente exigida em qualquer regime (evita rejeicao 225 sem causa). Sem alteracao de banco. APK 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.231/InfoSistemas-Update-7.6.231.zip",
+    "notes":  "v7.6.231 - APK do garcom 1.0.24: corrigido o icone do aplicativo (aparecia o icone padrao do Android). Manifesto passou a declarar android:icon/android:roundIcon explicitamente. Modulos do PDV sem alteracao de codigo. Sem alteracao de banco."
 }
