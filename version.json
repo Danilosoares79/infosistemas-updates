@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.228",
+    "version":  "7.6.229",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.228/InfoSistemas-Update-7.6.228.zip",
-    "notes":  "v7.6.228 - White Label: login da RECEPCAO agora segue a marca da revenda (logo, nome, slogan, cor de destaque e cor de fundo); rodape impresso dos RELATORIOS usa o nome do produto da revenda. Correcao: grid de Vendas Realizadas (Frente de Caixa) quebrava em telas 125% DPI - a coluna checkbox estava em Fill e colapsava as colunas; agora tem largura fixa e a linha altura fixa (atende 125/150/200%). Sem revenda, tudo InfoSistemas padrao. Sem alteracao de banco. APK 1.0.23."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.229/InfoSistemas-Update-7.6.229.zip",
+    "notes":  "v7.6.229 - Frente de Caixa (venda balcao): produto cadastrado como QUILO (KG) agora abre a janela de PESO ja na selecao do item na lista, igual ao Mapa de Mesas - sem precisar passar pela quantidade. Codigo de barras e etiqueta de balanca ja funcionavam. Sem alteracao de banco. APK 1.0.23."
 }
