@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.237",
+    "version":  "7.6.238",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.237/InfoSistemas-Update-7.6.237.zip",
-    "notes":  "v7.6.237 - Tabela CAIXA_CONF_FPG com auto-cura (recria sozinha no cliente). Fechar como Pendura mostra apenas contas abertas (anti-duplicidade). NFC-e: motivo da rejeicao (SEFAZ ou dados do produto) exibido na coluna Motivo Erro NFC-e em Vendas Realizadas. Auditoria e correcao de permissoes (caixa, penduras, pre-venda, 2a via, taxa de servico, cartoes, delivery, telas financeiras/fiscais da Retaguarda, Pre-Venda e Recepcao). Usuarios existentes nao sao bloqueados. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.238/InfoSistemas-Update-7.6.238.zip",
+    "notes":  "v7.6.238 - Recebimento de pendura NAO emite mais NFC-e na hora: imprime recibo discriminado (itens) e a venda vai para Vendas Realizadas como pre-venda. A NFC-e e emitida depois, sob demanda, em Vendas Realizadas \u003e Enviar (F5), perguntando o CPF. APK 1.0.24."
 }
