@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.238",
+    "version":  "7.6.239",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.238/InfoSistemas-Update-7.6.238.zip",
-    "notes":  "v7.6.238 - Recebimento de pendura NAO emite mais NFC-e na hora: imprime recibo discriminado (itens) e a venda vai para Vendas Realizadas como pre-venda. A NFC-e e emitida depois, sob demanda, em Vendas Realizadas \u003e Enviar (F5), perguntando o CPF. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.239/InfoSistemas-Update-7.6.239.zip",
+    "notes":  "v7.6.239 - Novo menu Sistema \u003e Trocar Licenca (Retaguarda): importa um novo .lic mesmo com o sistema ja ativado, mostrando a licenca atual antes e substituindo chave/vencimento/limites/CNPJ-CPF. Item exclusivo do usuario MASTER (infosistemas) - oculto para os demais. APK 1.0.24."
 }
