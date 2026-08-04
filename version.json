@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.234",
+    "version":  "7.6.235",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.234/InfoSistemas-Update-7.6.234.zip",
-    "notes":  "v7.6.234 - Novo relatorio Conferencia por Forma de Pagamento (Caixa \u003e Resumos/Conferencia): Sistema x Informado x Diferenca por forma, com Sobra/Falta. Tabela CAIXA_CONF_FPG (migracao automatica) gravada em todo fechamento. Detalha fechamentos a partir desta versao. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.235/InfoSistemas-Update-7.6.235.zip",
+    "notes":  "v7.6.235 - Relatorio Conferencia por Forma de Pagamento: adicionado filtro de Usuario (operador que fechou o caixa). Sem alteracao de banco. APK 1.0.24."
 }
