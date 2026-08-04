@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.236",
+    "version":  "7.6.237",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.236/InfoSistemas-Update-7.6.236.zip",
-    "notes":  "v7.6.236 - Icones proprios por modulo (Retaguarda/Frente de Caixa/Mapa de Mesas/Recepcao/Pre-Venda). Central de Relatorios com a marca da revenda. Fechamento: pendura/fiado aparece como PENDURAS (nao OUTROS). Receber Pendura por DEBITO INDIVIDUAL com valor integral (varias formas de pagamento permitidas). Tabela CAIXA_CONF_FPG criada automaticamente. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.237/InfoSistemas-Update-7.6.237.zip",
+    "notes":  "v7.6.237 - Tabela CAIXA_CONF_FPG com auto-cura (recria sozinha no cliente). Fechar como Pendura mostra apenas contas abertas (anti-duplicidade). NFC-e: motivo da rejeicao (SEFAZ ou dados do produto) exibido na coluna Motivo Erro NFC-e em Vendas Realizadas. Auditoria e correcao de permissoes (caixa, penduras, pre-venda, 2a via, taxa de servico, cartoes, delivery, telas financeiras/fiscais da Retaguarda, Pre-Venda e Recepcao). Usuarios existentes nao sao bloqueados. APK 1.0.24."
 }
