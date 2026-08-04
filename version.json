@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.235",
+    "version":  "7.6.236",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.235/InfoSistemas-Update-7.6.235.zip",
-    "notes":  "v7.6.235 - Relatorio Conferencia por Forma de Pagamento: adicionado filtro de Usuario (operador que fechou o caixa). Sem alteracao de banco. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.236/InfoSistemas-Update-7.6.236.zip",
+    "notes":  "v7.6.236 - Icones proprios por modulo (Retaguarda/Frente de Caixa/Mapa de Mesas/Recepcao/Pre-Venda). Central de Relatorios com a marca da revenda. Fechamento: pendura/fiado aparece como PENDURAS (nao OUTROS). Receber Pendura por DEBITO INDIVIDUAL com valor integral (varias formas de pagamento permitidas). Tabela CAIXA_CONF_FPG criada automaticamente. APK 1.0.24."
 }
