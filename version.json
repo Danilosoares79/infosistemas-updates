@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.241",
+    "version":  "7.6.242",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.241/InfoSistemas-Update-7.6.241.zip",
-    "notes":  "v7.6.241 - Novos icones dos modulos (Retaguarda/Frente de Caixa/Mapa de Mesas/Recepcao/Pre-Venda), design atualizado. Sem mudancas funcionais. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.242/InfoSistemas-Update-7.6.242.zip",
+    "notes":  "v7.6.242 - Receber Pendura: botao Imprimir Espelho + confirmacao modal. Vendas Realizadas: corrige checkbox duplicado + nova coluna Data de Autorizacao (Caixa e Retaguarda). Backup: corrige restauracao (database in use) com gfix + reinicio automatico. APK 1.0.24."
 }
