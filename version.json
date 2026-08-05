@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.240",
+    "version":  "7.6.241",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.240/InfoSistemas-Update-7.6.240.zip",
-    "notes":  "v7.6.240 - Corrige a numeracao da NFC-e reemitida apos rejeicao: o numero sequencial da serie passa a ser gravado corretamente (antes ficava 0). Backfill automatico das notas ja autorizadas com NUMERO=0 usando o numero embutido na chave. Listagem de Vendas nao mostra mais Tentativa NFC-e para notas autorizadas. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.241/InfoSistemas-Update-7.6.241.zip",
+    "notes":  "v7.6.241 - Novos icones dos modulos (Retaguarda/Frente de Caixa/Mapa de Mesas/Recepcao/Pre-Venda), design atualizado. Sem mudancas funcionais. APK 1.0.24."
 }
