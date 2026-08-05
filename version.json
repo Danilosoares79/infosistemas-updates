@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.244",
+    "version":  "7.6.245",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.244/InfoSistemas-Update-7.6.244.zip",
-    "notes":  "v7.6.244 - Relatorios financeiros (Contas a Receber/Pagar, Cartoes a Receber e Resumo de Cartoes) passam a filtrar o periodo por DATA DE VENCIMENTO. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.245/InfoSistemas-Update-7.6.245.zip",
+    "notes":  "v7.6.245 - Inutilizar NFC-e corrigido (nao exige autorizacao); cupom NFC-e imprime CPF/CNPJ e Nome do consumidor; auto-cura da tabela CAIXA_CONF_FPG (relatorio Conferencia por Forma); Atualizador reconstroi o cache de icones do Windows. APK 1.0.24."
 }
