@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.246",
+    "version":  "7.6.247",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.246/InfoSistemas-Update-7.6.246.zip",
-    "notes":  "v7.6.246 - Registro fiscal de inutilizacao (NFE_INUTILIZACAO) e cancelamento (XML_CANC) para NFC-e e NF-e; SPED escritura cancelada como COD_SIT 02 (SITUACAO=3) e nao emite mais 04/05 (descontinuados - SINIEF 34/38-2021); Exportar XML Saida separa Inutilizada de Denegada e exporta o XML de cancelamento. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.247/InfoSistemas-Update-7.6.247.zip",
+    "notes":  "v7.6.247 - Confirmacao ao encerrar o sistema (X/Alt+F4) com SIM/NAO em todos os modulos: Retaguarda, Frente de Caixa, Mapa de Mesas, Pre-Venda e Recepcao. APK 1.0.24."
 }
