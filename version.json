@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.247",
+    "version":  "7.6.248",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.247/InfoSistemas-Update-7.6.247.zip",
-    "notes":  "v7.6.247 - Confirmacao ao encerrar o sistema (X/Alt+F4) com SIM/NAO em todos os modulos: Retaguarda, Frente de Caixa, Mapa de Mesas, Pre-Venda e Recepcao. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.248/InfoSistemas-Update-7.6.248.zip",
+    "notes":  "v7.6.248 - Fidelidade completo (Mapa de Mesas acumula/resgata, venda sem NFC-e pontua, estorno na Retaguarda, resgate vinculado a venda, Compre\u0026Ganhe); cupom NFC-e com CPF/CNPJ+nome do cliente cadastrado; auto-cura CAIXA_CONF_FPG nos 4 modulos; fechamento de caixa imprime com fallback e encerra o sistema. APK 1.0.24."
 }
