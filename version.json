@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.249",
+    "version":  "7.6.250",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.249/InfoSistemas-Update-7.6.249.zip",
-    "notes":  "v7.6.249 - Cupom fiscal com CPF/CNPJ + nome do cliente cadastrado (bug raiz): a selecao de cliente na comanda da mesa agora e GRAVADA no pedido (PEDIDO_MESA.FK_CLIENTE) no Frente de Caixa e no Mapa de Mesas; no fechamento vai para a venda e a emissao imprime CPF+nome no cupom. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.250/InfoSistemas-Update-7.6.250.zip",
+    "notes":  "v7.6.250 - Cupom (DANFE NFC-e) com CPF/CNPJ + nome: impressor resolve o consumidor em cascata (header NFC-e -\u003e venda -\u003e XML \u003cdest\u003e -\u003e nome via cadastro). Validado: CPF 82022372549 - FABIO. Vale para impressao automatica e reimpressao. APK 1.0.24."
 }
