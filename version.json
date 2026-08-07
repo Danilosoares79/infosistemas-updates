@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.253",
+    "version":  "7.6.254",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.253/InfoSistemas-Update-7.6.253.zip",
-    "notes":  "v7.6.253 - NFC-e com CNPJ do consumidor autoriza (documento de 14 digitos vai na tag \u003cCNPJ\u003e; antes ia em \u003cCPF\u003e e a SEFAZ rejeitava pelo schema TCpf). Nome do consumidor pelo documento: CPF/CNPJ digitado busca o nome no cadastro e imprime no cupom. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.254/InfoSistemas-Update-7.6.254.zip",
+    "notes":  "v7.6.254 - NFC-e com CNPJ do consumidor autoriza (documento de 14 digitos vai na tag \u003cCNPJ\u003e; antes ia em \u003cCPF\u003e e a SEFAZ rejeitava pelo schema TCpf). Nome do consumidor pelo documento: CPF/CNPJ digitado busca o nome no cadastro e imprime no cupom. APK 1.0.24."
 }
