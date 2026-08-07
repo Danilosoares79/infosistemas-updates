@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.251",
+    "version":  "7.6.252",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.251/InfoSistemas-Update-7.6.251.zip",
-    "notes":  "v7.6.251 - Busca de Cliente/Fornecedor (Contas a Pagar/Receber): Enter no teclado seleciona o item destacado. Confirmacao de fechamento (ESC/X -\u003e Sim/Nao) em TODAS as telas da Retaguarda. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.252/InfoSistemas-Update-7.6.252.zip",
+    "notes":  "v7.6.252 - Correcao: a confirmacao de fechamento (ESC/X) da Retaguarda so aparece no abandono da tela. Selecionar/Salvar/OK/Cancelar fecham direto, sem perguntar. APK 1.0.24."
 }
