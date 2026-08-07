@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.254",
+    "version":  "7.6.255",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.254/InfoSistemas-Update-7.6.254.zip",
-    "notes":  "v7.6.254 - NFC-e com CNPJ do consumidor autoriza (documento de 14 digitos vai na tag \u003cCNPJ\u003e; antes ia em \u003cCPF\u003e e a SEFAZ rejeitava pelo schema TCpf). Nome do consumidor pelo documento: CPF/CNPJ digitado busca o nome no cadastro e imprime no cupom. APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.255/InfoSistemas-Update-7.6.255.zip",
+    "notes":  "v7.6.255 - Troco sai do DINHEIRO em todos os funis de pagamento (caixa registra o valor liquido) + CORRECAO RETROATIVA automatica das vendas ja gravadas com troco embutido (VENDA_FPG e fechamentos CAIXA_CONF_FPG ajustados no primeiro boot, sem intervencao). Rodape da Conferencia por Forma: penduras fora dos totais, como item proprio \"Penduras (a receber)\". XML da NFC-e consistente (NT 2016.002). APK 1.0.24."
 }
