@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.257",
+    "version":  "7.6.258",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.257/InfoSistemas-Update-7.6.257.zip",
-    "notes":  "v7.6.257 - Extrato Financeiro: lancamentos nao duplicam mais no grid (cargas simultaneas) e o filtro Cliente/Fornecedor passa a valer tambem nos recebimentos. Novo relatorio Financeiro \u003e \"Movimentacoes por Conta (Historico)\": extrato das contas cadastradas unindo financeiro + PDV/Mesa/Delivery, com filtro por periodo e conta. APK 1.0.25."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.258/InfoSistemas-Update-7.6.258.zip",
+    "notes":  "v7.6.258 - Relatorio \"Movimentacoes por Conta (Historico)\" agora visivel na Central de Relatorios (Financeiro \u003e Fluxo/Resumos). Inclui 7.6.257: Extrato sem lancamentos duplicados e filtro Cliente/Fornecedor valendo nos recebimentos. APK 1.0.25."
 }
