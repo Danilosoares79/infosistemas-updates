@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.259",
+    "version":  "7.6.260",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.259/InfoSistemas-Update-7.6.259.zip",
-    "notes":  "v7.6.259 - Suprimento/Sangria: correcao do lote (reinicio do Frente de Caixa com caixa aberto gravava com LOTE zerado e o valor ficava invisivel na Situacao do Caixa/fechamento/relatorios). Agora sincroniza sempre com o caixa aberto real E os lancamentos antigos com lote zerado sao corrigidos AUTOMATICAMENTE na primeira abertura apos atualizar - nada manual. Inclui 7.6.257/258 (Extrato sem duplicados + relatorio Movimentacoes por Conta). APK 1.0.25."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.260/InfoSistemas-Update-7.6.260.zip",
+    "notes":  "v7.6.260 - Suprimento/Sangria parte 2: gerador de codigos auto-corretivo (generator atrasado apos restore/copia de banco causava \"violation of PRIMARY KEY\" e a gravacao era perdida). Protecao aplicada a todas as tabelas. Com a 7.6.259 (lote auto-curado + resgate automatico dos lancamentos antigos), o caso \"suprimento nao aparece\" fica 100% coberto. APK 1.0.25."
 }
