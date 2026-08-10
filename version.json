@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.256",
+    "version":  "7.6.257",
     "mandatory":  false,
-    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.256/InfoSistemas-Update-7.6.256.zip",
-    "notes":  "v7.6.256 - Fechamento de Caixa: secao \"Movimentacoes do Caixa - Dinheiro\" com Vendas em Dinheiro visivel na linha de entradas; Total Entradas inclui as vendas em dinheiro e o Saldo em Caixa passa a bater com o Dinheiro esperado na gaveta. Inclui 7.6.254/255 (troco liquido em todos os funis + correcao retroativa dos dados legados). APK 1.0.24."
+    "zip_url":  "https://github.com/Danilosoares79/infosistemas-updates/releases/download/v7.6.257/InfoSistemas-Update-7.6.257.zip",
+    "notes":  "v7.6.257 - Extrato Financeiro: lancamentos nao duplicam mais no grid (cargas simultaneas) e o filtro Cliente/Fornecedor passa a valer tambem nos recebimentos. Novo relatorio Financeiro \u003e \"Movimentacoes por Conta (Historico)\": extrato das contas cadastradas unindo financeiro + PDV/Mesa/Delivery, com filtro por periodo e conta. APK 1.0.25."
 }
