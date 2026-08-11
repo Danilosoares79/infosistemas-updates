@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.261",
+    "version":  "7.6.262",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.261/InfoSistemas-Update-7.6.261.zip",
-    "notes":  "v7.6.261 - Blindagem total do LOTE das movimentacoes de caixa (nunca mais 0/nulo): trigger no banco + resgate retroativo automatico de TODOS os lancamentos antigos (transferencias, recebimentos, fechamentos) + auto-cura no fechamento de caixa. Relatorio Movimentacoes por Conta em ordem cronologica correta (ultimo lancamento primeiro). APK 1.0.25."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.262/InfoSistemas-Update-7.6.262.zip",
+    "notes":  "v7.6.262 - Correcao da Configuracao Inicial no modo CLIENTE (segunda maquina): teste de conexao agora usa os caminhos reais do banco no servidor (appsettings / C:\\InfoSistemas / ProgramData) com charset correto, grava a conexao no appsettings.json (antes ficava so no config.ini e a estacao continuava em localhost) e Mapa de Mesas / Pre-Venda nao exigem mais o arquivo do banco na maquina local em modo cliente. Mensagem de erro de conexao com detalhe tecnico real. APK 1.0.25."
 }
