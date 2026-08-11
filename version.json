@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.262",
+    "version":  "7.6.263",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.262/InfoSistemas-Update-7.6.262.zip",
-    "notes":  "v7.6.262 - Correcao da Configuracao Inicial no modo CLIENTE (segunda maquina): teste de conexao agora usa os caminhos reais do banco no servidor (appsettings / C:\\InfoSistemas / ProgramData) com charset correto, grava a conexao no appsettings.json (antes ficava so no config.ini e a estacao continuava em localhost) e Mapa de Mesas / Pre-Venda nao exigem mais o arquivo do banco na maquina local em modo cliente. Mensagem de erro de conexao com detalhe tecnico real. APK 1.0.25."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.263/InfoSistemas-Update-7.6.263.zip",
+    "notes":  "v7.6.263 - Cancelamento de venda agora estorna por FORMA DE PAGAMENTO (caixa nao fica mais negativo; saida duplicada antiga e corrigida automaticamente na atualizacao). Impressora de producao do GRUPO respeitada em todos os funis (mesa, balcao, delivery, autoatendimento e garcom web). Garcom web: mesa com conta pedida abre em modo somente consulta (lancamentos continuam bloqueados) e a configuracao do aparelho (IP + licenca) nao se perde mais. Clonar produto mantem o clone selecionado para sequencia. QR Codes das mesas: salvar todos em um unico arquivo. APK 1.0.25."
 }
