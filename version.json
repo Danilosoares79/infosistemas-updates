@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.269",
+    "version":  "7.6.270",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.269/InfoSistemas-Update-7.6.269.zip",
-    "notes":  "v7.6.269 - Relatorio Financeiro por Plano de Contas: auto-cura da coluna FK_PLANO_CONTA (corrige erro Column unknown CP.FK_PLANO_CONTA). Cardapio: grupos so com Insumo/Pre-Produzido nao aparecem para venda em nenhum modulo. Garcom APK 1.0.31/Web: busca de mesa por numero + config de ocultar mesas livres (grade esconde, busca acha tudo). Lancamento no caixa em mesa de garcom registra o usuario do caixa como vendedor. Base DPI (DpiUnaware) nos modulos desktop: corrige telas desconfiguradas em monitores 14/15/19 e escalas 125/150 por cento."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.270/InfoSistemas-Update-7.6.270.zip",
+    "notes":  "v7.6.270 - Novo recurso \"Entregar em qual mesa?\" (so visual). Config em Retaguarda liga uma pergunta ao enviar itens para producao (FdC, Mapa, APK 1.0.32 e Web): o operador digita o numero da mesa de entrega (opcional) e ele sai no cupom de producao como ENTREGAR EM QUAL MESA? N. Nao gera relatorio. Coluna aditiva CONFIG.PERGUNTAR_MESA_ENTREGA garantida no startup."
 }
