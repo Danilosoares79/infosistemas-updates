@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.265",
+    "version":  "7.6.267",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.265/InfoSistemas-Update-7.6.265.zip",
-    "notes":  "v7.6.265 - Mesa ao pedir conta respeita a config \"bloquear mesa ao pedir conta\" (desmarcada: mesa fica vermelha mas segue aceitando lancamento e volta a Consumindo). Permissao de reimpressao de fechamento de caixa agora e respeitada. Espelho de conta em Receber pendura/fiado passa a imprimir os servicos (taxa/couvert). APK 1.0.28."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.267/InfoSistemas-Update-7.6.267.zip",
+    "notes":  "v7.6.267 - Plano de Contas no cadastro de Contas a Receber/Pagar (baixa pre-seleciona) + relatorio por plano mostrando recebidas/pagas e cadastradas em aberto. Cadastro de mesas em lote ate 9999. Nova config \"Mostrar so mesas em uso/com conta pedida\" (Frente de Caixa e Mapa de Mesas). Producao com a descricao do item em DESTAQUE maior. APK 1.0.29: Favoritos do garcom corrigidos (mostra so os favoritados) e cardapio virtualizado (fim do travamento). Atualizador blindado contra antivirus (extracao fora do %Temp% + exclusao Defender + copia resiliente)."
 }
