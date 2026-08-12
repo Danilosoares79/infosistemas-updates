@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.263",
+    "version":  "7.6.264",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.263/InfoSistemas-Update-7.6.263.zip",
-    "notes":  "v7.6.263 - Cancelamento de venda agora estorna por FORMA DE PAGAMENTO (caixa nao fica mais negativo; saida duplicada antiga e corrigida automaticamente na atualizacao). Impressora de producao do GRUPO respeitada em todos os funis (mesa, balcao, delivery, autoatendimento e garcom web). Garcom web: mesa com conta pedida abre em modo somente consulta (lancamentos continuam bloqueados) e a configuracao do aparelho (IP + licenca) nao se perde mais. Clonar produto mantem o clone selecionado para sequencia. QR Codes das mesas: salvar todos em um unico arquivo. APK 1.0.25."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.264/InfoSistemas-Update-7.6.264.zip",
+    "notes":  "v7.6.264 - PERFORMANCE. Indices que faltavam nas tabelas de mesa/pedido (PEDIDO_MESA por FK_MESA e EMPRESA/SITUACAO; PEDIDO_MESA_ITEM por FK_PEDIDO; MESA por EMPRESA/NOME) criados automaticamente na atualizacao - resolve a lentidao com muitas mesas e acelera o sistema inteiro (Frente de Caixa, Mapa de Mesas e app do garcom). App do garcom (APK 1.0.27): HttpClient unico reutilizado, cache do cardapio e grade de mesas virtualizada (CollectionView). Sem mudanca de fluxo. Atualizar o servidor e reinstalar o app."
 }
