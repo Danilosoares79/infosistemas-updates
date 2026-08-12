@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.268",
+    "version":  "7.6.269",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.268/InfoSistemas-Update-7.6.268.zip",
-    "notes":  "v7.6.268 - Cardapio unico em todos os modulos: itens Insumo e Pre-Produzido nao aparecem para venda (so Produto e Servico). Garcom (APK 1.0.30/Web): remove item livre enquanto nao impresso na producao; depois de impresso exige permissao + justificativa. Mapa de Mesas: pagamento pelo atalho da mesa que pediu conta agora exige permissao (garcom pede supervisor). Situacao do Caixa passa a respeitar a permissao do operador de caixa (negou = nao ve os valores)."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.269/InfoSistemas-Update-7.6.269.zip",
+    "notes":  "v7.6.269 - Relatorio Financeiro por Plano de Contas: auto-cura da coluna FK_PLANO_CONTA (corrige erro Column unknown CP.FK_PLANO_CONTA). Cardapio: grupos so com Insumo/Pre-Produzido nao aparecem para venda em nenhum modulo. Garcom APK 1.0.31/Web: busca de mesa por numero + config de ocultar mesas livres (grade esconde, busca acha tudo). Lancamento no caixa em mesa de garcom registra o usuario do caixa como vendedor. Base DPI (DpiUnaware) nos modulos desktop: corrige telas desconfiguradas em monitores 14/15/19 e escalas 125/150 por cento."
 }
