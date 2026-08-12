@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.267",
+    "version":  "7.6.268",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.267/InfoSistemas-Update-7.6.267.zip",
-    "notes":  "v7.6.267 - Plano de Contas no cadastro de Contas a Receber/Pagar (baixa pre-seleciona) + relatorio por plano mostrando recebidas/pagas e cadastradas em aberto. Cadastro de mesas em lote ate 9999. Nova config \"Mostrar so mesas em uso/com conta pedida\" (Frente de Caixa e Mapa de Mesas). Producao com a descricao do item em DESTAQUE maior. APK 1.0.29: Favoritos do garcom corrigidos (mostra so os favoritados) e cardapio virtualizado (fim do travamento). Atualizador blindado contra antivirus (extracao fora do %Temp% + exclusao Defender + copia resiliente)."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.268/InfoSistemas-Update-7.6.268.zip",
+    "notes":  "v7.6.268 - Cardapio unico em todos os modulos: itens Insumo e Pre-Produzido nao aparecem para venda (so Produto e Servico). Garcom (APK 1.0.30/Web): remove item livre enquanto nao impresso na producao; depois de impresso exige permissao + justificativa. Mapa de Mesas: pagamento pelo atalho da mesa que pediu conta agora exige permissao (garcom pede supervisor). Situacao do Caixa passa a respeitar a permissao do operador de caixa (negou = nao ve os valores)."
 }
