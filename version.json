@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.270",
+    "version":  "7.6.271",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.270/InfoSistemas-Update-7.6.270.zip",
-    "notes":  "v7.6.270 - Novo recurso \"Entregar em qual mesa?\" (so visual). Config em Retaguarda liga uma pergunta ao enviar itens para producao (FdC, Mapa, APK 1.0.32 e Web): o operador digita o numero da mesa de entrega (opcional) e ele sai no cupom de producao como ENTREGAR EM QUAL MESA? N. Nao gera relatorio. Coluna aditiva CONFIG.PERGUNTAR_MESA_ENTREGA garantida no startup."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.271/InfoSistemas-Update-7.6.271.zip",
+    "notes":  "v7.6.271 - Ajuste visual: no cupom de producao, o numero de \"Entregar em qual mesa?\" passa a sair em uma linha propria (embaixo da pergunta) e em destaque, para nao ser cortado pela margem do papel. Vale em FdC, Mapa e pedidos do APK/Web (impressos pelo servidor). APK inalterado (1.0.32)."
 }
