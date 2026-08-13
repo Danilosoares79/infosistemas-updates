@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.276",
+    "version":  "7.6.277",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.276/InfoSistemas-Update-7.6.276.zip",
-    "notes":  "v7.6.276 - Estorno de contas a receber/pagar agora reverte a movimentacao da conta bancaria tambem quando a baixa foi em LOTE (antes o banco ficava com valor fantasma). Lote grava o vinculo no caixa e o estorno cobre tambem baixas legadas. APK inalterado (1.0.32)."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.277/InfoSistemas-Update-7.6.277.zip",
+    "notes":  "v7.6.277 - Integracao de balancas (cadastro na Retaguarda com presets Elgin/Toledo/Filizola/Urano/Bematech, teste de leitura ao vivo e captura automatica do peso na venda por KG no Frente de Caixa e Mapa de Mesas) + 4 correcoes do caixa: cancelamento reverte o movimento, fechamento as cegas grava a conferencia por forma, caixa correto por estacao com 2+ PDVs (delivery/pendura/juntar/pre-venda) e fim da dupla contagem de pendura aberta (com correcao retroativa). APK inalterado (1.0.32)."
 }
