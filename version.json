@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.275",
+    "version":  "7.6.276",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.275/InfoSistemas-Update-7.6.275.zip",
-    "notes":  "v7.6.275 - Tela Nova Conta a Pagar: corrigida a sobreposicao de campos (Plano de Contas estava em cima do Forma Pagamento; agora tem linha propria, como na tela de Receber). APK inalterado (1.0.32)."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.276/InfoSistemas-Update-7.6.276.zip",
+    "notes":  "v7.6.276 - Estorno de contas a receber/pagar agora reverte a movimentacao da conta bancaria tambem quando a baixa foi em LOTE (antes o banco ficava com valor fantasma). Lote grava o vinculo no caixa e o estorno cobre tambem baixas legadas. APK inalterado (1.0.32)."
 }
