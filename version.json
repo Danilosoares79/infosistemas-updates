@@ -1,6 +1,6 @@
 {
-    "version":  "7.6.273",
+    "version":  "7.6.274",
     "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.273/InfoSistemas-Update-7.6.273.zip",
-    "notes":  "v7.6.273 - White Label: cliente de revenda nao imprime mais o site/assinatura fixos da InfoSistemas no rodape dos cupons (recibo, espelho de conta, delivery) - so a marca da revenda. Recepcao passa a exibir a logo da revenda. APK inalterado (1.0.32)."
+    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.274/InfoSistemas-Update-7.6.274.zip",
+    "notes":  "v7.6.274 - Relatorio Financeiro por Plano de Contas corrigido (string truncation). Baixa em lote CR/CP: grid vem com o plano de contas e a forma de pagamento do LANCAMENTO como padrao, e corrigido o erro PK_CAIXA ao confirmar (codigo anti-colisao) gravando tambem a forma no caixa (FPG). APK inalterado (1.0.32)."
 }
