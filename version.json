@@ -1,6 +1,7 @@
 {
-    "version":  "7.6.272",
-    "mandatory":  false,
-    "zip_url":  "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.272/InfoSistemas-Update-7.6.272.zip",
-    "notes":  "v7.6.272 - Ajuste de texto: o rotulo da mesa de entrega na comanda de producao passou de ENTREGAR EM QUAL MESA? para ENTREGAR NA MESA: N (numero na mesma linha). FdC, Mapa e pedidos do APK/Web. APK inalterado (1.0.32)."
+  "version": "7.6.272",
+  "canal": "producao",
+  "mandatory": false,
+  "zip_url": "https://github.com/InfoSistemas-Desenvolvimetno/infosistemas-updates/releases/download/v7.6.272/InfoSistemas-Update-7.6.272.zip",
+  "notes": "v7.6.272 - Ajuste de texto: o rotulo da mesa de entrega na comanda de producao passou de ENTREGAR EM QUAL MESA? para ENTREGAR NA MESA: N (numero na mesma linha). FdC, Mapa e pedidos do APK/Web. APK inalterado (1.0.32)."
 }
